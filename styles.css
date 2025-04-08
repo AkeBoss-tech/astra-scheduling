@@ -1,0 +1,10 @@
+.schedule-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.day-of-week {
+    font-weight: bold;
+    color: #333; /* Adjust color as needed */
+} 

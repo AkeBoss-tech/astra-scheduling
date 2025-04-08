@@ -1,0 +1,23 @@
+{
+  "routes": [
+    {
+      "route": "/api/*",
+      "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+      "rewrite": "https://alphaplanbackend-bmc8b3cfdmh5bmab.canadacentral-01.azurewebsites.net/api/:splat"
+    },
+    {
+      "route": "/*",
+      "serve": "/index.html",
+      "statusCode": 200
+    }
+  ],
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["/images/*.{png,jpg,gif}", "/css/*"]
+  },
+  "environmentVariables": {
+    "NEXT_PUBLIC_API_URL": "https://alphaplanbackend-bmc8b3cfdmh5bmab.canadacentral-01.azurewebsites.net",
+    "NEXT_PUBLIC_FRONTEND_URL": "https://orange-desert-08d03da1e.6.azurestaticapps.net",
+    "NEXT_PUBLIC_GOOGLE_CLIENT_ID": "666896643122-1q7o53igon3scjrguu3oef377rjianfr.apps.googleusercontent.com"
+  }
+}
