@@ -1,0 +1,232 @@
+1|#||4|38910|updatePanel|ctl00_mainContent_results_gridUpdatePanel|<p id="ctl00_mainContent_results_resultsLabel" class="SearchResults">Your search returned 497 records.</p><div id="ctl00_mainContent_results_gridDiv" class="SearchDiv"><div>
+	<table class="DeAcGridView" cellspacing="0" cellpadding="2" rules="all" border="1" id="ctl00_mainContent_results_resultsGrid" style="border-collapse:collapse;">
+		<thead>
+			<tr class="DeAcGridViewHeader" valign="middle">
+				<th scope="col" style="width:20%;"><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Sort$Code&#39;)">Code</a></th><th scope="col" style="width:50%;"><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Sort$Name&#39;)">Name</a></th><th scope="col" style="width:25%;"><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Sort$StartTerm.Name&#39;)">Start Term</a></th><th align="center" scope="col" style="width:5%;">View</th>
+			</tr>
+		</thead><tbody>
+			<tr>
+				<td style="width:20%;">NB156J</td><td style="width:50%;">Chemical Engineering (5 year) (NB)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2386"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB160CJ</td><td style="width:50%;">Major in Chemistry, Chemical Biology Option (C) (NB)</td><td style="width:25%;">Fall 2009</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=647"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB160DJ</td><td style="width:50%;">Major in Chemistry, Environmental Option (D) (NB)</td><td style="width:25%;">Fall 2009</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=649"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB160EJ</td><td style="width:50%;">Major in Chemistry, Business - Law Option (E) (NB)</td><td style="width:25%;">Fall 2009</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=651"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB160EN</td><td style="width:50%;">Minor in Chemistry Education (NB)</td><td style="width:25%;">Fall 2018</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=652"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB160FJ</td><td style="width:50%;">Major in Chemistry, Chemical Physics Option (F) (NB)</td><td style="width:25%;">Fall 2009</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=654"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB160GJ</td><td style="width:50%;">Major in Chemistry, General ACS Option (G) (NB)</td><td style="width:25%;">Fall 2009</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=656"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB160J</td><td style="width:50%;">Major in Chemistry, Core Option (NB)</td><td style="width:25%;">Fall 2009</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=658"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB160MJ</td><td style="width:50%;">Major in Chemistry, Forensic Chemistry Option (M) (NB)</td><td style="width:25%;">Fall 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=659"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB160N</td><td style="width:50%;">Minor in Chemistry (NB)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=660"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB165J</td><td style="width:50%;">Major in Chinese (NB)</td><td style="width:25%;">Fall 2018</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2121"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB165N</td><td style="width:50%;">Minor in Chinese (NB)</td><td style="width:25%;">Fall 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=666"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB175J</td><td style="width:50%;">Major in Cinema Studies (NB)</td><td style="width:25%;">Fall 2022</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=6024"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB175N</td><td style="width:50%;">Minor in Cinema Studies (NB)</td><td style="width:25%;">Fall 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=670"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB180J</td><td style="width:50%;">Civil Engineering (NB)</td><td style="width:25%;">Fall 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8623"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB181J</td><td style="width:50%;">Civil Engineering (5 year) (NB)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2383"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB185J</td><td style="width:50%;">Major in Cognitive Science (NB)</td><td style="width:25%;">Spring 2016</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=682"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB185N</td><td style="width:50%;">Minor in Cognitive Science (NB)</td><td style="width:25%;">Fall 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=685"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB190BJ</td><td style="width:50%;">Major in Classics, Greek Option (NB)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=686"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB190CJ</td><td style="width:50%;">Major in Classics, Greek and Latin Option (NB)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=687"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB190DJ</td><td style="width:50%;">Major in Classics, Latin Option (NB)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=688"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB190J</td><td style="width:50%;">Major in Classics, Classical Humanities Option (NB)</td><td style="width:25%;">Spring 2013</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=691"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB190N</td><td style="width:50%;">Minor in Classical Humanities (NB)</td><td style="width:25%;">Spring 2013</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=694"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB192HJ</td><td style="width:50%;">Major in Communication - Specialization in Health and Wellness Communication (NB)</td><td style="width:25%;">Spring 2018</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=697"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB192J</td><td style="width:50%;">Major in Communication (NB)</td><td style="width:25%;">Spring 2018</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=701"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB192LJ</td><td style="width:50%;">Major in Communication - Specialization in Leadership in Organizations and Community (NB)</td><td style="width:25%;">Spring 2018</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=704"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB192PJ</td><td style="width:50%;">Major in Communication - Specialization in Strategic Public Communication and Public Relations (NB)</td><td style="width:25%;">Spring 2018</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=709"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB192RJ</td><td style="width:50%;">Major in Communication - Specialization in Relationships and Family Communication (NB)</td><td style="width:25%;">Spring 2018</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=713"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB192TJ</td><td style="width:50%;">Major in Communication - Specialization in Communication and Technology (NB)</td><td style="width:25%;">Spring 2022</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=5641"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB193N</td><td style="width:50%;">Minor in Community Health Outreach (SEBS) (NB)</td><td style="width:25%;">Fall 2016</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=714"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB195FJ</td><td style="width:50%;">Major in Comparative Literature - Option in Advanced Studies in Comparative Literature (NB)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=4041"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB195J</td><td style="width:50%;">Major in Comparative Literature  (NB)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=3763"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB195N</td><td style="width:50%;">Minor in Comparative Literature (NB)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=3411"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB198J</td><td style="width:50%;">Major in Computer Science - B.A. (NB)</td><td style="width:25%;">Fall 2011</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=726"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB198N</td><td style="width:50%;">Minor in Computer Science (NB)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=727"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB198SJ</td><td style="width:50%;">Major in Computer Science - B.S. (NB)</td><td style="width:25%;">Fall 2011</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=731"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB199N</td><td style="width:50%;">Minor in Comparative and Critical Race and Ethnic Studies (CCRES) (NB)</td><td style="width:25%;">Spring 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=734"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB1AE</td><td style="width:50%;">Master of Education (GSE)-Elementary Ed (K-6) with Preschool through Grade 3 (P-3) Dual Cert 5-Year Teacher Ed Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=736"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB1BE</td><td style="width:50%;">Master of Ed (GSE)-Elem Ed (K-6) with Subject Matter Specialization in English (5-8) Dual Cert 5-Year Teacher Ed Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=738"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB1CE</td><td style="width:50%;">Master of Education (GSE)-Elem Ed (K-6) with Subject Matter Spec in Math (5-8) Dual Certification 5-Year Teacher Ed Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=740"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB1DE</td><td style="width:50%;">Master of Education (GSE)-Elementary Ed (K-6) with Subject Matter Spec in Science (5-8) Dual Cert 5-Year Teacher Ed Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=742"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB1EE</td><td style="width:50%;">Master of Education (GSE)-Elem Ed (K-6) with Subj Matter Spec in Social Studies (5-8) Dual Cert 5-Year Teacher Ed Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=744"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB1FE</td><td style="width:50%;">Master of Education (GSE)-Special Education and Elementary Education (K-6) Dual Certification 5-Year Teacher Ed Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=746"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB1GE</td><td style="width:50%;">Master of Education (GSE) - English Education (K-12) Five-Year Teacher Education Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=748"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB1HE</td><td style="width:50%;">Master of Education (GSE) - English as a Second Language (ESL) Education (K-12) Five-Year Teacher Education Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=750"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB1IE</td><td style="width:50%;">Master of Education (GSE) - Foreign Language Education (K-12) Five-Year Teacher Education Program (NB)</td><td style="width:25%;">Fall 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=752"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB1JE</td><td style="width:50%;">Master of Education (GSE) - Foreign Language Education and ESL (K-12) Five-Year Teacher Education Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=754"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB1KE</td><td style="width:50%;">Master of Education (GSE) - Mathematics Education (K-12) Five-Year Teacher Education Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=757"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB1LE</td><td style="width:50%;">Master of Education (GSE) - Biological Science Education (K-12) Five-Year Teacher Education Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=759"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB1ME</td><td style="width:50%;">Master of Education (GSE) - Bio Sci Education (K-12) or Agricultural Sci Ed 5-Year Teacher Education Program (SEBS Only) (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=761"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB1NE</td><td style="width:50%;">Master of Education (GSE) - Physical Science and-or Physics Education (K-12) Five-Year Teacher Education Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=763"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB1OE</td><td style="width:50%;">Master of Education (GSE) - Dance Education (K-12) Five-Year Teacher Education Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=765"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB1PE</td><td style="width:50%;">Master of Education (GSE) - Social Studies Education (K-12) Five-Year Teacher Education Program (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=767"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB201N</td><td style="width:50%;">Minor in Creative Expression and the Environment (NB)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7162"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB202J</td><td style="width:50%;">Major in Criminal Justice (NB)</td><td style="width:25%;">Fall 2009</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=769"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB202WJ</td><td style="width:50%;">Major in Criminal Justice (Off-Campus)</td><td style="width:25%;">Fall 2009</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2161"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB203J</td><td style="width:50%;">Major in Dance (for the B.A.) (NB)</td><td style="width:25%;">Spring 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7841"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB203N</td><td style="width:50%;">Minor in Dance (NB)</td><td style="width:25%;">Spring 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7823"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB204N</td><td style="width:50%;">Minor in Criminology (NB)</td><td style="width:25%;">Fall 2007</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=776"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB205N</td><td style="width:50%;">Minor in Critical Intelligence Studies (NB)</td><td style="width:25%;">Spring 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=778"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB206J</td><td style="width:50%;">Major in Dance (for the B.F.A.) (NB)</td><td style="width:25%;">Fall 2022</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=6262"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB206SJ</td><td style="width:50%;">Major in Dance - Dance Science Concentration (for the B.F.A.) (NB)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7882"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB208J</td><td style="width:50%;">Major in Design (for the B.F.A.) (NB)</td><td style="width:25%;">Fall 2022</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=6263"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB209N</td><td style="width:50%;">Minor in Digital Communication, Information, and Media (DCIM) (NB)</td><td style="width:25%;">Fall 2010</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=786"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB211J</td><td style="width:50%;">Major in Filmmaking (for the B.F.A.) (NB)</td><td style="width:25%;">Fall 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=6382"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB216FJ</td><td style="width:50%;">Major in Ecology, Evolution and Natural Resources - Urban Forestry Option (NB)</td><td style="width:25%;">Spring 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7621"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB216J</td><td style="width:50%;">Major in Ecology, Evolution and Natural Resources (NB)</td><td style="width:25%;">Spring 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2866"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB216N</td><td style="width:50%;">Minor in Ecology, Evolution and Natural Resources - SEBS (NB)</td><td style="width:25%;">Spring 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2942"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB216RJ</td><td style="width:50%;">Major in Ecology, Evolution and Natural Resources - Nat Res & Ecosystem Mgmt Option (NB)</td><td style="width:25%;">Spring 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7741"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB219CJ</td><td style="width:50%;">Major in Data Science - Chemical Data Science Option B.S. (NB)</td><td style="width:25%;">Fall 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8461"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB219EJ</td><td style="width:50%;">Major in Data Science - Economics Option B.S. (NB)</td><td style="width:25%;">Spring 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7685"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB219IJ</td><td style="width:50%;">Major in Data Science - Societal Impact Option B.A. (NB)</td><td style="width:25%;">Spring 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8526"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB219N</td><td style="width:50%;">Minor in Data Science (NB)</td><td style="width:25%;">Fall 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8441"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB219SJ</td><td style="width:50%;">Major in Data Science - Computer Science Option B.S. (NB)</td><td style="width:25%;">Spring 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7684"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB219TJ</td><td style="width:50%;">Major in Data Science - Statistics Option B.A. (NB)</td><td style="width:25%;">Spring 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7683"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB219X</td><td style="width:50%;">Certificate in Data Science (NB)</td><td style="width:25%;">Spring 2022</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=5823"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB220J</td><td style="width:50%;">Major in Economics (NB)</td><td style="width:25%;">Spring 2013</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=807"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB220N</td><td style="width:50%;">Minor in Economics (NB)</td><td style="width:25%;">Summer 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=811"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB221N</td><td style="width:50%;">Minor in Quantitative Economics (NB)</td><td style="width:25%;">Spring 2020</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=3903"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB221X</td><td style="width:50%;">Certificate in Public Policy Economics (NB)</td><td style="width:25%;">Fall 2016</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=812"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB222X</td><td style="width:50%;">Certificate in Economic Theory (NB)</td><td style="width:25%;">Fall 2016</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=813"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB223X</td><td style="width:50%;">Certificate in Financial Economics (NB)</td><td style="width:25%;">Fall 2016</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=814"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB224X</td><td style="width:50%;">Certificate in Global Economics (NB)</td><td style="width:25%;">Fall 2016</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=815"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB225X</td><td style="width:50%;">Certificate in Computational Economics and Data Analytics (NB)</td><td style="width:25%;">Spring 2020</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=3882"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB260X</td><td style="width:50%;">Certificate in Environmental Planning - SEBS (NB)</td><td style="width:25%;">Fall 2007</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=828"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB263X</td><td style="width:50%;">Certificate in Evolutionary Medicine - SEBS (NB)</td><td style="width:25%;">Spring 2013</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=829"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB269X</td><td style="width:50%;">Certificate in Health Policy (NB)</td><td style="width:25%;">Spring 2022</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=5682"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB300N</td><td style="width:50%;">Minor in Education as a Social Science (NB)</td><td style="width:25%;">Fall 2011</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=832"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB304N</td><td style="width:50%;">Minor in Disability Studies (NB)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7141"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB332AJ</td><td style="width:50%;">Electrical & Computer Engineering - Computer Engineering Option (NB)</td><td style="width:25%;">Fall 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8624"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB332BJ</td><td style="width:50%;">Electrical & Computer Engineering - Electrical Engineering Option (NB)</td><td style="width:25%;">Fall 2024</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8625"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB333AJ</td><td style="width:50%;">Electrical & Computer Engineering - Computer Engineering Option (5 year) (NB)</td><td style="width:25%;">Fall 2021</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=5063"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB333BJ</td><td style="width:50%;">Electrical & Computer Engineering - Electrical Engineering Option (5 year) (NB)</td><td style="width:25%;">Fall 2021</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=5064"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB333J</td><td style="width:50%;">Electrical & Computer Engineering (5-year) (NB)</td><td style="width:25%;">Fall 2018</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2400"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB350J</td><td style="width:50%;">Major in English (NB)</td><td style="width:25%;">Summer 2020</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=3061"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB350N</td><td style="width:50%;">Minor in English (NB)</td><td style="width:25%;">Fall 2014</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=855"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB351N</td><td style="width:50%;">Minor in Creative Writing (NB)</td><td style="width:25%;">Fall 2016</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=3644"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB355N</td><td style="width:50%;">Minor in Business and Technical Writing (NB)</td><td style="width:25%;">Spring 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=6561"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">NB360J</td><td style="width:50%;">Major in European Studies (NB)</td><td style="width:25%;">Fall 2011</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=860"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">NB360N</td><td style="width:50%;">Minor in European Studies (NB)</td><td style="width:25%;">Fall 2011</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=862"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td colspan="4"><table>
+					<tr>
+						<td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$1&#39;)">1</a></td><td><span class="DeAcLabel">2</span></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$3&#39;)">3</a></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$4&#39;)">4</a></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$5&#39;)">5</a></td>
+					</tr>
+				</table></td>
+			</tr>
+		</tbody>
+	</table>
+</div></div>|381|updatePanel|ctl00_widgcon_studentlookup_widget_studentlookup_planUpdatePanel|
+
+					<a id="ctl00_widgcon_studentlookup_widget_studentlookup_coursePlanLink" href="ManageCoursePlan.aspx?pageid=ManageCoursePlan">My Planned Courses</a>
+				
+					
+					<input type="hidden" name="ctl00$widgcon_studentlookup$widget_studentlookup$expandedCoursePlanHidden" id="ctl00_widgcon_studentlookup_widget_studentlookup_expandedCoursePlanHidden" />
+					
+						
+					|378|updatePanel|ctl00_widgcon_PlannedCourses_widget_PlannedCourses_planUpdatePanel|
+		<div>
+			
+			<a id="ctl00_widgcon_PlannedCourses_widget_PlannedCourses_coursePlanLink" href="ManageCoursePlan.aspx?pageid=ManageCoursePlan">You have 0 courses in your course plan.</a>
+			<input type="hidden" name="ctl00$widgcon_PlannedCourses$widget_PlannedCourses$expandedHidden" id="ctl00_widgcon_PlannedCourses_widget_PlannedCourses_expandedHidden" />
+		</div>
+		
+	|0|hiddenField|__LASTFOCUS||0|hiddenField|__EVENTTARGET||0|hiddenField|__EVENTARGUMENT||420|hiddenField|__VIEWSTATE|/wEPaA8FDzhkZDRmNDQ4MDc2YTcyNRgEBRljdGwwMCRjdGwxMyRjdGwwMiR0YWJNZW51Dw9kBQZTZWFyY2hkBVVjdGwwMCR3aWRnY29uX215Y2FydCR3aWRnZXRfbXljYXJ0JGN1c3RvbVJlbW90ZUl0ZW1QYW5lX2NvbnRlbnQkY3VzdG9tUmVtb3RlSXRlbXNHcmlkD2dkBUJjdGwwMCR3aWRnY29uX215Y2FydCR3aWRnZXRfbXljYXJ0JHBhbmUxX2NvbnRlbnQkaXRlbXNCeVNlYXJjaEdyaWQPPCsADAEIZmQFJWN0bDAwJG1haW5Db250ZW50JHJlc3VsdHMkcmVzdWx0c0dyaWQPPCsADAICAgEIAgVkT8pNjWWsuM6cFMQx1HLPEbRuoIzSwtAMF6iq+iqxlqM=|8|hiddenField|__VIEWSTATEGENERATOR|AE0C6D41|884|hiddenField|__EVENTVALIDATION|/wEdACeebQZCvQ9XasPE+5lfThxs2LrMLg/bsNlJZ7iVwCTlTKF9fiiKwDde6dGBe6vID0g8IWxMexD66zYRkA7biwhVubKcrH3DoCsGXCjMd8CE5aD24D7Zs/pkTkN9wZtAgfdmE7SHVSzdZprTm+FP6PX/Knlm1iUoQRb8dEy8psUVUL9MrO6s3H4A30T6NoUEjiOvF2ZJ/BU+s16t3DDLtxaBDxmQWrWKfJ0VNJMEBtCqzQxqtQn/WQwzCnyLWpBM+CQe6hQEn67t9rprT89WzjPb1X/ZJMPSC6GhuGI3vSoJWmEhtjZz83ClM2Hu6OuFrAKMoG4MSAVEnUSuNpv9wChxLVjJNVIvMjj82c8/TwBjrWIbTby5xKRAjz5M8h6hQLu7Wpb4A9+Fgc3qxKdCbl9Ko41qdqosNgWmRzIj3IZGiIPdJ9FMIGgY7MddkiNIEk7Y57Nfjt802VfByU0k3GgGPNnJBHg/chvnu2tHtwjhHWrx9VL+nxfaQjjK/HBnyt3K24XJhrQSoSdvFSyHBQN4pcu830XKpYT1uJ5w91OOmW3Q7GzB7/LTuRjoBjNag/5lOmJnLNynp9a7OoLIbZoTAVqduZGwxDXz2zk2hlcJhwCLiv7siprQ1RlBNeAt3IfW1DzYg1LsjfY8AH7M/q14vJSzCuWhyWWROviJ0LP7sssvcB70n9Eq4lspLIl4EuV1ewtHUB39iWNVsq2CgRDMkM1y7tqd1HRKePinjvN3+e/gPemQFM+lAWsZjyiXtgH/h/j6HrIZE1wo6Qopvl0GcHCKzx4C5uNRk8b9YCHD6EaCGxIO2dlSLJUiSk7VMh2U1cVySpqOrXlmxZGlmEoMOn5fR9U90Y3+EMbL6bP6Zg==|25|asyncPostBackControlIDs||ctl00$mainContent$search,|0|postBackControlIDs|||288|updatePanelIDs||tctl00$mainContent$results$gridUpdatePanel,,tctl00$widgcon_studentlookup$widgetHeaderUpdatePanel,,tctl00$widgcon_studentlookup$widget_studentlookup$planUpdatePanel,,tctl00$widgcon_PlannedCourses$widgetHeaderUpdatePanel,,tctl00$widgcon_PlannedCourses$widget_PlannedCourses$planUpdatePanel,|0|childUpdatePanelIDs|||176|panelsToRefreshIDs||ctl00$mainContent$results$gridUpdatePanel,,ctl00$widgcon_studentlookup$widget_studentlookup$planUpdatePanel,,ctl00$widgcon_PlannedCourses$widget_PlannedCourses$planUpdatePanel,|6|asyncPostBackTimeout||360000|192|scriptBlock|ScriptPath|/ScriptResource.axd?d=aujl0a_yyK7QqReUI0imDGcmW8Jr2rTCiGiHbrz0jnLIEVdd3qVViAFYvsPjAMUUFfn-K90JEhMOPpZxL1vlli_u4y4cpMrYX4p_oYKcz0TyNPhkR_GMT9AcItYatg423TVrZzF-G8Jp2MrNkrcKQw2&t=ffffffffba22f784|36|focus||ctl00_mainContent_search_codeTextBox|

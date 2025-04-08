@@ -1,0 +1,1516 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "101"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Arts and Literatures (AHp), Our Common Future (CCO), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTRO TO ARCHITECTUR",
+            "fullTitle": "BUILDING THE FUTURE: AN INTRODUCTION TO ARCHITECTURE                            ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09442",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "CREDIT NOT GIVEN FOR THIS COURSE AND 01:082:392 PREF. FOR 1ST&2ND YR STUDENTS OR SPECL PERMISSION OF INSTRCTR",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "1ST YEAR AND SOPHOMORES ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "ZAM",
+                            "buildingNum": "3013",
+                            "roomNumber": "MPR",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MCSHANE LODWICK"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "105"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Arts and Literatures (AHp), Historical Analysis (HST), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ART HISTORY PRE-1400",
+            "fullTitle": "INTRODUCTION TO ART HISTORY: PREHISTORY TO 1400                                 ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09444",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "1170",
+                            "endMinute": "1250",
+                            "buildingCode": "ARH",
+                            "buildingNum": "8428",
+                            "roomNumber": "100",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "C/D",
+                            "campusName": "C/D",
+                            "campusLocation": "4"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1170",
+                            "endMinute": "1250",
+                            "buildingCode": "ARH",
+                            "buildingNum": "8428",
+                            "roomNumber": "100",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "C/D",
+                            "campusName": "C/D",
+                            "campusLocation": "4"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "BROWN, THOMAS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "106"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Arts and Literatures (AHp), Historical Analysis (HST), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ART HISTORY POST1400",
+            "fullTitle": "INTRODUCTION TO ART HISTORY:1400 TO THE PRESENT                                 ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09445",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "ABE",
+                            "buildingNum": "3198",
+                            "roomNumber": "2225",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "ABE",
+                            "buildingNum": "3198",
+                            "roomNumber": "2225",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "YANTZ, JAYNE"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09446",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "RAB",
+                            "buildingNum": "8303",
+                            "roomNumber": "001",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "C/D",
+                            "campusName": "C/D",
+                            "campusLocation": "4"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "RAB",
+                            "buildingNum": "8303",
+                            "roomNumber": "001",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "C/D",
+                            "campusName": "C/D",
+                            "campusLocation": "4"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "BROWN, THOMAS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09447",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ZERVIGON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09448",
+                    "legendKey": null,
+                    "sectionNumber": "91",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ZERVIGON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09449",
+                    "legendKey": null,
+                    "sectionNumber": "92",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ZERVIGON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09450",
+                    "legendKey": null,
+                    "sectionNumber": "93",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ZERVIGON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09451",
+                    "legendKey": null,
+                    "sectionNumber": "94",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ZERVIGON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09452",
+                    "legendKey": null,
+                    "sectionNumber": "95",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ZERVIGON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09453",
+                    "legendKey": null,
+                    "sectionNumber": "96",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ZERVIGON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "205"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTRO TO ASIAN ART",
+            "fullTitle": "INTRODUCTION TO ASIAN ART                                                       ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09464",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ZAM",
+                            "buildingNum": "3013",
+                            "roomNumber": "MPR",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ZAM",
+                            "buildingNum": "3013",
+                            "roomNumber": "MPR",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SEARS, TAMARA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "214"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Arts and Literatures (AHp), Historical Analysis (HST), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "RENAISSANCE ART",
+            "fullTitle": "RENAISSANCE ART IN EUROPE                                                       ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09465",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "VH",
+                            "buildingNum": "3013",
+                            "roomNumber": "104",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "VH",
+                            "buildingNum": "3013",
+                            "roomNumber": "104",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PAUL, BENJAMIN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "276"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Philosophical and Theoretical Issues (AHo), Arts and Literatures (AHp), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "RADICAL MODERNISM",
+            "fullTitle": "RADICAL MODERNISM AND ANTI-ART                                                  ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09466",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "BEHRMANN"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:470:277:90"
+                        },
+                        {
+                            "course": "01:195:277:90"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "332"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Arts and Literatures (AHp), Diversities and Social Inequalities (CCD), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "AFRICAN AMERICAN ART",
+            "fullTitle": "AFRICAN AMERICAN ART",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09469",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "ZAM",
+                            "buildingNum": "3013",
+                            "roomNumber": "MPR",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "ZAM",
+                            "buildingNum": "3013",
+                            "roomNumber": "MPR",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KNIGHT"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "383"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "20C PHOTOGRAPHY",
+            "fullTitle": "TWENTIETH-CENTURY PHOTOGRAPHY                                                   ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09470",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "213",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "213",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "390"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "MODERN ART 20TH CENT",
+            "fullTitle": "EUROPEAN MODERN ART: 20TH CENTURY                                               ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09471",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "ZAM",
+                            "buildingNum": "3013",
+                            "roomNumber": "MPR",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "ZAM",
+                            "buildingNum": "3013",
+                            "roomNumber": "MPR",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SHARP, JANE"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "396"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "IMPRESSIONISM",
+            "fullTitle": "IMPRESSIONISM",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09472",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ZAM",
+                            "buildingNum": "3013",
+                            "roomNumber": "MPR",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ZAM",
+                            "buildingNum": "3013",
+                            "roomNumber": "MPR",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "DELOSSANTOS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "403"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:082:105 )<em> OR </em>(01:082:106 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "APPROACH TO ART HIST",
+            "fullTitle": "APPROACHES TO ART HISTORY                                                       ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09473",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "VH",
+                            "buildingNum": "3013",
+                            "roomNumber": "001",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PAUL, BENJAMIN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "441"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:082:105 )<em> OR </em>(01:082:106 )",
+            "coreCodes": null,
+            "title": "TPC POLI HIST HERITG",
+            "fullTitle": "SPECIAL TOPICS IN POLITICS, HISTORY, ANDHERITAGE                                ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09474",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "CREDIT NOT GIVEN FOR BOTH THIS COURSE AND 16:082:593 AND 01:506:391:01 ",
+                    "subtitleText": "CULTURAL HERITAGE AND DISASTERS         ",
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "910",
+                            "buildingCode": "ZAM",
+                            "buildingNum": "3013",
+                            "roomNumber": "EDR",
+                            "meetingModeCode": "04",
+                            "meetingModeDesc": "SEM",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "WOODHOUSE-BEYER"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "16:082:593:01"
+                        },
+                        {
+                            "course": "01:506:391:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "448"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:082:105 )<em> OR </em>(01:082:106 )",
+            "coreCodes": "Non-Core: Community Engagement (CE)",
+            "title": "INTERNSHP HIST PRESV",
+            "fullTitle": "INTERNSHP HIST PRESV",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09478",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "15",
+                            "meetingModeDesc": "INTERNSP",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "492"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:082:105 )<em> OR </em>(01:082:106 )",
+            "coreCodes": "Writing and Communication in a Discipline (WCd)",
+            "title": "CAPSTONE ART HISTORY",
+            "fullTitle": "CAPSTONE IN ART HISTORY                                                         ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09479",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "REQUIRED OF ART HISTORY MAJORS OPEN TO JUNIORS AND SENIORS 01:082:105 OR 01:082:106 OR PERMISSION OF INSTRUCTOR",
+                    "subtitleText": "PAINTING IN FRANCE BEFORE MODERNISM     ",
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "VH",
+                            "buildingNum": "3013",
+                            "roomNumber": "001",
+                            "meetingModeCode": "04",
+                            "meetingModeDesc": "SEM",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "WEIGERT, LAURA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "082",
+                            "description": "082 (Art History - Liberal Arts)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "494"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:082:105 )<em> OR </em>(01:082:106 )",
+            "coreCodes": null,
+            "title": "INDIV STUD ART HIST",
+            "fullTitle": "INDIVIDUAL STUDIES IN ART HISTORY                                               ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09480",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "496"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:082:105 )<em> OR </em>(01:082:106 )",
+            "coreCodes": "Non-Core: Community Engagement (CE)",
+            "title": "INTERNSHP ART HIST",
+            "fullTitle": "INTERNSHP ART HIST",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09481",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:082:105 & 106 OPEN ONLY TO MAJORS  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "082",
+                            "description": "082 (Art History - Liberal Arts)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "082",
+                "number": "498"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://arthistory.rutgers.edu/academics/undergraduate-welcome/course-descriptions-syllabi",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "HONORS IN ART HIST",
+            "fullTitle": "HONORS IN ART HISTORY                                                           ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09482",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "21",
+                            "meetingModeDesc": "HONORS",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        }
+    ]
+}

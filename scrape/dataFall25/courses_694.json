@@ -1,0 +1,996 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "215"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": "The lab is hybrid, some of the meetings will be on campus and others will be synchronous online (specific dates TBD)\r\n\r\n",
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "((01:160:161  or 01:160:163 ) and (01:119:116 ))",
+            "coreCodes": "Information Technology and Research (ITR)",
+            "title": "HNR INTRO RES MOLBIO",
+            "fullTitle": "HONORS INTRODUCTION TO RESEARCH IN MOLECULAR BIOLOGY                            ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11607",
+                    "legendKey": null,
+                    "sectionNumber": "H1",
+                    "sectionNotes": "PREREQS: 119:116; PRE-OR CO-REQS 160:161 OR163. HONORS PROGRAM OR HONORS COLLEGE 1ST YR SAS ONLY WITH BIO CR.",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "1ST YEAR ONLY ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        " For Honors Students only",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "WAK",
+                            "buildingNum": "3573",
+                            "roomNumber": "AUD",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "WAK",
+                            "buildingNum": "3573",
+                            "roomNumber": "AUD",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "730",
+                            "endMinute": "910",
+                            "buildingCode": "WAK",
+                            "buildingNum": "3573",
+                            "roomNumber": "019",
+                            "meetingModeCode": "05",
+                            "meetingModeDesc": "LAB",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "VERSHON, ANDREW"
+                        },
+                        {
+                            "name": "VERSHON, ANDREW"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:694:316:H1"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "281"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "SOPH LAB RESEARCH",
+            "fullTitle": "SOPH LAB RESEARCH",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11609",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "CONTACT SAM GUNDERSON FOR SPN",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "23",
+                            "meetingModeDesc": "RSCH-MA",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "GUNDERSON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "316"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": "The lab is hybrid, some of the meetings will be on campus and others will be synchronous online (specific dates TBD)",
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "((01:119:116  or 01:119:116 ) and (01:160:162 ))<em> OR </em> ((01:119:116  or 01:119:116 ) and (01:160:164 ))",
+            "coreCodes": "Information Technology and Research (ITR)",
+            "title": "HNR INTRO MOLECU BIO",
+            "fullTitle": "HONORS INTRODUCTION TO MOLECULAR BIOLOGY, BIOCHEMISTRY, GENETICS RESEARCH       ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11608",
+                    "legendKey": null,
+                    "sectionNumber": "H1",
+                    "sectionNotes": "HONORS ONLY-694/447 MAJORS OR PLAN TO BE 694/447 MAJORS.CR NOT GIVN BOTH694:214,215,315/447:315 SP#-VERSHON@WAKSMAN.RUTGERS.EDU",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Instructor",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "WAK",
+                            "buildingNum": "3573",
+                            "roomNumber": "AUD",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "WAK",
+                            "buildingNum": "3573",
+                            "roomNumber": "AUD",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "730",
+                            "endMinute": "910",
+                            "buildingCode": "WAK",
+                            "buildingNum": "3573",
+                            "roomNumber": "019",
+                            "meetingModeCode": "05",
+                            "meetingModeDesc": "LAB",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "VERSHON, ANDREW"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:694:215:H1"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "381"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "UNDERGRAD LAB RES",
+            "fullTitle": "UNDERGRADUATE LABORATORY RESEARCH                                               ",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11610",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "OPEN ONLY TO 694 MAJORS CONTACT SAM GUNDERSON FOR SPN  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "23",
+                            "meetingModeDesc": "RSCH-MA",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "GUNDERSON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "383"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "MOL BIO&BIOCHEM SEM",
+            "fullTitle": "MOLECULAR BIOLOGY & BIOCHEMISTRY SEMINARCAREERS IN SCIENCE                      ",
+            "credits": "1",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11611",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "REQUIRED FOR ALL JUNIOR 694 MAJORS  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "635",
+                            "endMinute": "690",
+                            "buildingCode": "SEC",
+                            "buildingNum": "3854",
+                            "roomNumber": "202",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "GUNDERSON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "694",
+                            "description": "694 (Molecular Biology & Biochemistry)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "395"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:160:307 )<em> OR </em>(01:160:315 )<em> OR </em>(01:160:209 )",
+            "coreCodes": null,
+            "title": "BIOCHEM-LIFESCIENCES",
+            "fullTitle": "BIOCHEMISTRY FOR LIFE SCIENCES                                                  ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11612",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "BME",
+                            "buildingNum": "3893",
+                            "roomNumber": "102",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "BME",
+                            "buildingNum": "3893",
+                            "roomNumber": "102",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "VILLEGAS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11613",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "HLL",
+                            "buildingNum": "3752",
+                            "roomNumber": "114",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "HLL",
+                            "buildingNum": "3752",
+                            "roomNumber": "114",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "BRILL, STEVEN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "407"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:160:307 )<em> OR </em>(01:160:308 )<em> OR </em>(01:160:315 )<em> OR </em>(01:160:316 )",
+            "coreCodes": null,
+            "title": "BIOCHEMISTRY",
+            "fullTitle": "BIOCHEMISTRY",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11614",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "MBB TRACK CREDIT NOT GIVEN IF 694:301, 115:301 OR 115:403 ALREADY TAKEN ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "254",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "254",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MONAHAN, KEVIN"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "16:115:511:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "411"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:694:408 )<em> OR </em>(01:447:385 )",
+            "coreCodes": null,
+            "title": "MOLECULAR PATHWAYS",
+            "fullTitle": "MOLECULAR PATHWAYS",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11616",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "NH",
+                            "buildingNum": "3559",
+                            "roomNumber": "A237",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "NH",
+                            "buildingNum": "3559",
+                            "roomNumber": "A237",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ANDERSON"
+                        },
+                        {
+                            "name": "MATSUMURA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "413"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:447:384 )<em> OR </em>(01:694:408 )<em> OR </em>(01:146:478 )",
+            "coreCodes": null,
+            "title": "CHROMATN&EPIGENOMICS",
+            "fullTitle": "CHROMATN&EPIGENOMICS",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11617",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "NH",
+                            "buildingNum": "3559",
+                            "roomNumber": "A237",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "NH",
+                            "buildingNum": "3559",
+                            "roomNumber": "A237",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ZARATIEGUI BIUR"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "16:115:555:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "421"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "((01:694:301  or 01:694:407 ) and (01:447:380 ))<em> OR </em> ((01:694:301  or 01:694:407 ) and (01:447:384 ))",
+            "coreCodes": null,
+            "title": "SPECIAL TOPICS MBB",
+            "fullTitle": "SPECIAL TOPICS IN MOLECULAR BIOLOGY                                             ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11619",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "NH",
+                            "buildingNum": "3559",
+                            "roomNumber": "A237",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "NH",
+                            "buildingNum": "3559",
+                            "roomNumber": "A237",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "DRISCOLL"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "481"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "ADV UG LAB RESEARCH",
+            "fullTitle": "ADVANCED UNDERGRADUATE LABORATORY RESEARCH                                      ",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11620",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "CONTACT SAM GUNDERSON FOR SPN ONLY 694 MAJORS  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "SENIORS ONLY ",
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "23",
+                            "meetingModeDesc": "RSCH-MA",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "GUNDERSON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "694",
+                            "description": "694 (Molecular Biology & Biochemistry)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "694",
+                "number": "495"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://biology.rutgers.edu/biological-sciences/courses#MBB",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Writing and Communication in a Discipline (WCd), Writing and Communication, Revision (WCr)",
+            "title": "HONORS LAB RESEARCH",
+            "fullTitle": "HONORS LAB RESEARCH",
+            "sections": [
+                {
+                    "yearterm": "20259",
+                    "registrationIndex": "11621",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "FOR HONORS MBB STUDENTS ONLY; THESIS WRITING SEMINAR ELEMENT CONTACT SAM GUNDERSON FOR SPN ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "SENIORS ONLY ",
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "WAK",
+                            "buildingNum": "3573",
+                            "roomNumber": "1001",
+                            "meetingModeCode": "03",
+                            "meetingModeDesc": "RECIT",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "04",
+                            "meetingModeDesc": "SEM",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "694",
+                            "description": "694 (Molecular Biology & Biochemistry)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

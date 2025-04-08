@@ -1,0 +1,11 @@
+.cursor-col-resize {
+  cursor: col-resize;
+}
+
+.cursor-col-resize:hover {
+  background-color: rgb(168 85 247); /* Tailwind's purple-500 */
+}
+
+.cursor-col-resize:active {
+  background-color: rgb(147 51 234); /* Tailwind's purple-600 */
+} 

@@ -1,0 +1,18 @@
+curl ^"https://www.ratemyprofessors.com/graphql^" ^
+  -H ^"accept: */*^" ^
+  -H ^"accept-language: en-US,en;q=0.9^" ^
+  -H ^"authorization: Basic dGVzdDp0ZXN0^" ^
+  -H ^"content-type: application/json^" ^
+  -b ^"_ga=GA1.1.1984000022.1731345162; ccpa-notice-viewed-02=true; trc_cookie_storage=taboola^%^2520global^%^253Auser-id^%^3D9bdcc0f7-03e9-4f40-bcc5-3ebe74f9da48-tuctd909dd0; _hjSessionUser_1667000=eyJpZCI6ImQ1YjZjNTk1LWMxZTUtNWY2NC1hMGI2LTMwNzIwYWM3ZGZmOCIsImNyZWF0ZWQiOjE3MzEzNDUxNjIxMTgsImV4aXN0aW5nIjp0cnVlfQ==; cid=d0W26JcOT1-20241115; RMP_AUTH_COOKIE_VERSION=v01; _pbjs_userid_consent_data=3524755945110770; _hjSession_1667000=eyJpZCI6ImY2Y2Y1MDNjLWIxOWEtNGRiYS1hN2U2LWNjMTE1M2Y4NWMzYSIsImMiOjE3Mzk1NTQxMTU3NzMsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; _awl=2.1739554118.5-1d3790a63a8da7d33583fca25c149591-6763652d75732d6561737431-3; _ga_WET17VWCJ3=GS1.1.1739554115.11.1.1739554122.0.0.0^" ^
+  -H ^"origin: https://www.ratemyprofessors.com^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://www.ratemyprofessors.com/search/professors/825?q=*^" ^
+  -H ^"sec-ch-ua: ^\^"Not(A:Brand^\^";v=^\^"99^\^", ^\^"Google Chrome^\^";v=^\^"133^\^", ^\^"Chromium^\^";v=^\^"133^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?0^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36^" ^
+  -H ^"x-rmp-comp-id: d0W26JcOT1-20241115^" ^
+  --data-raw ^"^{^\^"query^\^":^\^"query TeacherSearchPaginationQuery(^\^\n  ^$count: Int^!^\^\n  ^$cursor: String^\^\n  ^$query: TeacherSearchQuery^!^\^\n) ^{^\^\n  search: newSearch ^{^\^\n    ...TeacherSearchPagination_search_1jWD3d^\^\n  ^}^\^\n^}^\^\n^\^\nfragment TeacherSearchPagination_search_1jWD3d on newSearch ^{^\^\n  teachers(query: ^$query, first: ^$count, after: ^$cursor) ^{^\^\n    didFallback^\^\n    edges ^{^\^\n      cursor^\^\n      node ^{^\^\n        ...TeacherCard_teacher^\^\n        id^\^\n        __typename^\^\n      ^}^\^\n    ^}^\^\n    pageInfo ^{^\^\n      hasNextPage^\^\n      endCursor^\^\n    ^}^\^\n    resultCount^\^\n    filters ^{^\^\n      field^\^\n      options ^{^\^\n        value^\^\n        id^\^\n      ^}^\^\n    ^}^\^\n  ^}^\^\n^}^\^\n^\^\nfragment TeacherCard_teacher on Teacher ^{^\^\n  id^\^\n  legacyId^\^\n  avgRating^\^\n  numRatings^\^\n  ...CardFeedback_teacher^\^\n  ...CardSchool_teacher^\^\n  ...CardName_teacher^\^\n  ...TeacherBookmark_teacher^\^\n^}^\^\n^\^\nfragment CardFeedback_teacher on Teacher ^{^\^\n  wouldTakeAgainPercent^\^\n  avgDifficulty^\^\n^}^\^\n^\^\nfragment CardSchool_teacher on Teacher ^{^\^\n  department^\^\n  school ^{^\^\n    name^\^\n    id^\^\n  ^}^\^\n^}^\^\n^\^\nfragment CardName_teacher on Teacher ^{^\^\n  firstName^\^\n  lastName^\^\n^}^\^\n^\^\nfragment TeacherBookmark_teacher on Teacher ^{^\^\n  id^\^\n  isSaved^\^\n^}^\^\n^\^",^\^"variables^\^":^{^\^"count^\^":980,^\^"cursor^\^":^\^"YXJyYXljb25uZWN0aW9uOjQwMDc=^\^",^\^"query^\^":^{^\^"text^\^":^\^"^\^",^\^"schoolID^\^":^\^"U2Nob29sLTgyNQ==^\^",^\^"fallback^\^":true^}^}^}^"

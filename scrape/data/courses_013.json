@@ -1,0 +1,3231 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "110"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTRO TO ARAMAIC",
+            "fullTitle": "INTRODUCTION TO ARAMAIC                                                         ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09212",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Online Course"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "HABERL, CHARLES"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "140"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEMENTARY ARABIC I",
+            "fullTitle": "ELEMENTARY ARABIC I                                                             ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09214",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "Hybrid Section - Some Meetings Online",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "103D",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "103D",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "HABBAL, MANAR"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:074:140:01"
+                        }
+                    ],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09216",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "First-year students welcome",
+                        "Hybrid Section - Some Meetings Online"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "103D",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "TIL",
+                            "buildingNum": "4146",
+                            "roomNumber": "103D",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "HABBAL, MANAR"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:074:140:02"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "141"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:140 )<em> OR </em>(01:074:140 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEMENTARY ARABIC II",
+            "fullTitle": "ELEMENTARY ARABIC II                                                            ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09218",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:013:140 OR 01:074:140 OR PLACEMENT TEST  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "Go to http://canvas.rutgers.edu",
+                        "Hybrid Section - Some Meetings Online"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "216",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "216",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALI, JAMAL"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:074:141:01"
+                        }
+                    ],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09220",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": "PREREQ: 01:013:140 OR 01:074:140 OR PLACEMENT TEST  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Hybrid Section - Some Meetings Online",
+                        "First-year students welcome"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "HH",
+                            "buildingNum": "3119",
+                            "roomNumber": "A4",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "HH",
+                            "buildingNum": "3119",
+                            "roomNumber": "A4",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MOHAMED, JEHAN"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:074:141:02"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "153"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:563:101 )<em> OR </em>(01:685:101 )<em> OR </em>(01:013:152 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEM MODERN HEBREW",
+            "fullTitle": "ELEM MODERN HEBREW",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09222",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": "UNIVERSITY OF MINNESOTA HOST",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "U",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Big Ten Academic Alliance CourseShare offering received from a Big Ten university"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "735",
+                            "endMinute": "785",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "735",
+                            "endMinute": "785",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "735",
+                            "endMinute": "785",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "735",
+                            "endMinute": "785",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "735",
+                            "endMinute": "785",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "RAUCHER, MICHAL"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:563:102:90"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "160"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEMENTARY HINDI I",
+            "fullTitle": "ELEMENTARY HINDI I                                                              ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09224",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "First-year students welcome"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "2100",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "2100",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KABRA, ANUJA"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:505:160:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "161"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:160 )<em> OR </em>(01:505:160 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEMENTARY HINDI II",
+            "fullTitle": "ELEMENTARY HINDI II                                                             ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09226",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:013:160 OR 01:505:101 OR 01:505:160 OR PLACEMENT TEST  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "See online schedule for prereqs",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "2100",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "2100",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KABRA, ANUJA"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:505:161:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "163"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:162 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEM URDU II",
+            "fullTitle": "ELEMENTARY URDU II                                                              ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09228",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:013:162",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "Hybrid Section - Some Meetings Online",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "221",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "221",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PARVEEN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "177"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:176 )<em> OR </em>(01:723:176 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEMENTARY PERSIAN 2",
+            "fullTitle": "ELEMENTARY PERSIAN II                                                           ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09229",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:013:176 OR 01:723:176 OR PLACEMENT TEST  ",
+                    "subtitleText": "ELEMENTARY PERSIAN II                   ",
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "Hybrid Section - Some Meetings Online",
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "403",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "403",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PAYDAR, FERI"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:723:177:01"
+                        }
+                    ],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "21910",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": "PREREQ:01:013:176 OR 01:723:176 OR PLACEMENT TEST.  OPEN ONLY TO STUDENTS PROHIBITED BY WEBREG FROM REGISTERING FOR SECTION 01",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PAYDAR, FERI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "191"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:190 )<em> OR </em>(01:973:190 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEMENTARY TURKISH 2",
+            "fullTitle": "ELEMENTARY TURKISH II                                                           ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09232",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ 01:013:190 OR PLACEMENT TEST  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers",
+                        "Hybrid Section - Some Meetings Online",
+                        "First-year students welcome"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "402",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "402",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "OZTOPRAK, DILEK"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:973:191:01"
+                        }
+                    ],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "21948",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": "PREREQ 01:013:190 OR PLACEMENT TEST.  OPEN ONLY TO STUDENTS PROHIBITED BY WEBREG FROM REGISTERING FOR SECTION 01",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "OZTOPRAK, DILEK"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "195"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:194 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEMENTARY YORUBA",
+            "fullTitle": "ELEMENTARY YORUBA",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "24156",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": "BTAA COURSE SHARE HOSTED BY INDIANA UNIV.  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Big Ten Academic Alliance CourseShare offering received from a Big Ten university",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "695",
+                            "endMinute": "745",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "670",
+                            "endMinute": "745",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "695",
+                            "endMinute": "745",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "670",
+                            "endMinute": "745",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MAZRUI, ALAMIN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "208"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Historical Analysis (HST), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "JEWISH-MUSLIM RELAT",
+            "fullTitle": "JEWISH-MUSLIM RELATIONS: HISTORY        AND CULTURE                             ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "21834",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "CA",
+                            "buildingNum": "3121",
+                            "roomNumber": "A1",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "CA",
+                            "buildingNum": "3121",
+                            "roomNumber": "A1",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KHAYYAT, EMRAH"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:563:208:01"
+                        },
+                        {
+                            "course": "01:508:208:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "217"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Diversities and Social Inequalities (CCD), Historical Analysis (HST), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "AFRICA IMMIGRANT LIT",
+            "fullTitle": "AFRICAN IMMIGRANT LITERATURE                                                    ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09235",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "First-year students welcome"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "HH",
+                            "buildingNum": "3119",
+                            "roomNumber": "A6",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "HH",
+                            "buildingNum": "3119",
+                            "roomNumber": "A6",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALIDOU"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "220"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Historical Analysis (HST), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTRO TO QUR'AN",
+            "fullTitle": "INTRODUCTION TO THE QUR'AN                                                      ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09236",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "HH",
+                            "buildingNum": "3119",
+                            "roomNumber": "A6",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "HH",
+                            "buildingNum": "3119",
+                            "roomNumber": "A6",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALI, JAMAL"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:840:229:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "225"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Nature of Languages (AHq), Diversities and Social Inequalities (CCD), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "GLOBAL ARABIC",
+            "fullTitle": "GLOBAL ARABIC                                                                   ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09238",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "Online Course",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KOERBER"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:685:225:90"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "241"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:240 )<em> OR </em>(01:074:240 )",
+            "coreCodes": "Nature of Languages (AHq), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTERMED ARABIC II",
+            "fullTitle": "INTERMEDIATE ARABIC II                                                          ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09242",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": "PREREQ: 01:013:240 OR 01:074:240 OR PLACEMENT TEST  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Hybrid Section - Some Meetings Online",
+                        "First-year students welcome"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "FH",
+                            "buildingNum": "3117",
+                            "roomNumber": "A2",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "FH",
+                            "buildingNum": "3117",
+                            "roomNumber": "A2",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MOHAMED, JEHAN"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:074:241:02"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "253"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:156 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTERMED MOD HEBREW",
+            "fullTitle": "INTERMED MOD HEBREW",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09244",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": "PREREQ: 01:013:252 OR 01:563:131 OR PLACEMENT TEST UNIVERSITY OF MINNESOTA HOST ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "U",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Big Ten Academic Alliance CourseShare offering received from a Big Ten university"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "670",
+                            "endMinute": "720",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "670",
+                            "endMinute": "720",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "670",
+                            "endMinute": "720",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "670",
+                            "endMinute": "720",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "670",
+                            "endMinute": "720",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "RAUCHER, MICHAL"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:563:132:90"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "261"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:260 )<em> OR </em>(01:505:201 )<em> OR </em>(01:505:260 )",
+            "coreCodes": "Nature of Languages (AHq), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTERMEDIATE HINDI 2",
+            "fullTitle": "INTERMEDIATE HINDI II                                                           ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09246",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:013:260 OR 01:505:260 OR PLACEMENT TEST.  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "Hybrid Section - Some Meetings Online",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PARVEEN"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:505:261:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "277"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:276 )<em> OR </em>(01:723:276 )",
+            "coreCodes": "Nature of Languages (AHq), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTERMED PERSIAN II",
+            "fullTitle": "INTERMEDIATE PERSIAN II                                                         ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09248",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:013:276 OR 01:723:276 OR PLACEMENT TEST.  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Hybrid Section - Some Meetings Online",
+                        "First-year students welcome",
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "403",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "403",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PAYDAR, FERI"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:723:277:01"
+                        }
+                    ],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "21898",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": "PREREQ: 01:013:276 OR 01:723:276 OR PLACEMENT TEST.  OPEN ONLY TO STUDENTS PROHIBITED BY WEBREG FROM REGISTERING FOR SECTION 01",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PAYDAR, FERI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "291"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:290 )<em> OR </em>(01:973:290 )",
+            "coreCodes": "Nature of Languages (AHq), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTERMED TURKISH II",
+            "fullTitle": "INTERMEDIATE TURKISH II                                                         ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09251",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:013:290 OR 01:973:290 OR PLACEMENT TEST  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers",
+                        "First-year students welcome",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "402",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "402",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "OZTOPRAK, DILEK"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:973:291:01"
+                        }
+                    ],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "21951",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": "PREREQ: 01:013:290 OR 01:973:290 OR PLACEMENT TEST.  OPEN ONLY TO STUDENTS PROHIBITED BY WEBREG FROM REGISTERING FOR SECTION 01",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "OZTOPRAK, DILEK"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "302"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "TOPICS IN AMESALL",
+            "fullTitle": "TOPICS IN AFRICAN, MIDDLE EASTERN AND SOUTH ASIAN LANGUAGES AND LITERATURES     ",
+            "credits": "1.5",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09254",
+                    "legendKey": null,
+                    "sectionNumber": "M1",
+                    "sectionNotes": null,
+                    "subtitleText": "ISLAM AND AFRICAN LITERATURE            ",
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        " Second 7 weeks",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "204",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "204",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MAZRUI, ALAMIN"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:840:392:M1"
+                        }
+                    ],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "23448",
+                    "legendKey": null,
+                    "sectionNumber": "M2",
+                    "sectionNotes": "PREREQ 01:013:161 OR 01:013:163  ",
+                    "subtitleText": "CONVERSATIONAL HINDI/URDU               ",
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        " Second 7 weeks",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PARVEEN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "23449",
+                    "legendKey": null,
+                    "sectionNumber": "M3",
+                    "sectionNotes": null,
+                    "subtitleText": "HINDI SCRIPT READING AND WRITING        ",
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        " Second 7 weeks"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PARVEEN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "304"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Diversities and Social Inequalities (CCD)",
+            "title": "TRANSLATION STUDIES",
+            "fullTitle": "INTRODUCTION TO TRANSLATION STUDIES                                             ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09256",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "214",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "214",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "NERLEKAR"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:195:303:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "307"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Philosophical and Theoretical Issues (AHo), Arts and Literatures (AHp), Diversities and Social Inequalities (CCD), Our Common Future (CCO), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTR POSTCOL LIT&THR",
+            "fullTitle": "INTRODUCTION TO POSTCOLONIAL LITERATURESAND THEORIES                            ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09258",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": "INTRO TO POST COLONIAL LIT AND THEORIES ",
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "221",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "221",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "WALKER, JANET"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:195:307:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "321"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "INDEPENDENT STUDY",
+            "fullTitle": "INDEPENDENT STUDY",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09260",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "REQUIRED FACULTY PROCTOR PERMISSION OF DEPT. CHAIR  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "NERLEKAR"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "324"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "OTTOMAN AFRICA",
+            "fullTitle": "OTTOMAN AFRICA",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09261",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KHAYYAT, EMRAH"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "341"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:340 )<em> OR </em>(01:074:340 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ADVANCED ARABIC II",
+            "fullTitle": "ADVANCED ARABIC II                                                              ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09262",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:013:340 OR 01:074:340 OR PLACEMENT TEST  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALI, JAMAL"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:074:341:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "353"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:253 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ADV MODERN HEBREW",
+            "fullTitle": "ADV MODERN HEBREW",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09264",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": "BTAA UNIVERSITY OF MINNESOTA HOST  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "U",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Big Ten Academic Alliance CourseShare offering received from a Big Ten university"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "930",
+                            "endMinute": "1005",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "930",
+                            "endMinute": "1005",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "RAUCHER, MICHAL"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:563:211:90"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "377"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:376 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ADVANCED PERSIAN",
+            "fullTitle": "ADVANCED PERSIAN",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09268",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:013:376 OR 01:723:376 OR PLACEMENT  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "780",
+                            "endMinute": "960",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "403",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PAYDAR, FERI"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:723:377:01"
+                        }
+                    ],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "21946",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": "PREREQ: 01:013:376 OR 01:723:376 OR PLACEMENT TEST.  OPEN ONLY TO STUDENTS PROHIBITED BY WEBREG FROM REGISTERING FOR SECTION 01",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "780",
+                            "endMinute": "960",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PAYDAR, FERI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "391"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:390 )<em> OR </em>(01:973:390 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ADVANCED TURKISH",
+            "fullTitle": "ADVANCED TURKISH",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09271",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:013:390 OR 01:973:390 OR PLACEMENT  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "402",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "402",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "OZTOPRAK, DILEK"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:013:391:03"
+                        }
+                    ],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "21945",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": "PREREQ: 01:013:390 OR 01:973:390 OR PLACEMENT TEST.  OPEN ONLY TO STUDENTS PROHIBITED BY WEBREG FROM REGISTERING FOR SECTION 01",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "OZTOPRAK, DILEK"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "401"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Writing and Communication in a Discipline (WCd)",
+            "title": "SR SEM LIT & SOCIETY",
+            "fullTitle": "SENIOR SEMINAR IN LITERATURE AND SOCIETY                                        ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09273",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "ONLY OPEN TO JUNIORS AND SENIORS",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "207",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "207",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALIDOU"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "013",
+                "number": "433"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "MOD URDU LIT & CULT",
+            "fullTitle": "MODERN URDU LITERATURE AND POPULAR CULTURE                                      ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09274",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Hybrid Section - Some Meetings Online",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "119",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PARVEEN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        }
+    ]
+}

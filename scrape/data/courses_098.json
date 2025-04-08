@@ -1,0 +1,607 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "098",
+                "number": "241"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://alc.rutgers.edu/academics/undergraduate/asian-studies-undergraduate",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Historical Analysis (HST), Social Analysis (SCL), SOE Only: Approved Humanities/Social Science (SOEHS), Writing and Communication in a Discipline (WCd), Writing and Communication, Revision (WCr)",
+            "title": "E ASIAN CIVS:PREMOD",
+            "fullTitle": "EAST ASIAN CIVILIZATIONS:PREMODERN ERA                                          ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "24114",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "120",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "120",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PHUNG, HIEU"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "098",
+                "number": "250"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://alc.rutgers.edu/academics/undergraduate/asian-studies-undergraduate",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Our Common Future (CCO), Historical Analysis (HST), Social Analysis (SCL), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "GLOBAL EAST ASIA",
+            "fullTitle": "GLOBAL EAST ASIA",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09680",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "212",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "212",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "2150",
+                            "meetingModeCode": "03",
+                            "meetingModeDesc": "RECIT",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PHUNG, HIEU"
+                        },
+                        {
+                            "name": "CHAI, VERO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09681",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "212",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "212",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "2150",
+                            "meetingModeCode": "03",
+                            "meetingModeDesc": "RECIT",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "CHAI, VERO"
+                        },
+                        {
+                            "name": "PHUNG, HIEU"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09682",
+                    "legendKey": null,
+                    "sectionNumber": "03",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "212",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "212",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "2150",
+                            "meetingModeCode": "03",
+                            "meetingModeDesc": "RECIT",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "CHAI, VERO"
+                        },
+                        {
+                            "name": "PHUNG, HIEU"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "098",
+                "number": "252"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://alc.rutgers.edu/academics/undergraduate/asian-studies-undergraduate",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Historical Analysis (HST), Social Analysis (SCL), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "SE ASIA & THE WORLD",
+            "fullTitle": "SOUTHEAST ASIA AND THE WORLD                                                    ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09683",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BE",
+                            "buildingNum": "4145",
+                            "roomNumber": "003",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BE",
+                            "buildingNum": "4145",
+                            "roomNumber": "003",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "IKEYA, CHIE"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:508:250:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "098",
+                "number": "345"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://alc.rutgers.edu/academics/undergraduate/asian-studies-undergraduate",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ASIA-PACIFIC CCP",
+            "fullTitle": "ASIA-PACIFIC IN CROSS-CULTURAL          PERSPECTIVE                             ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09685",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "115",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "115",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "WAKABAYASHI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "098",
+                "number": "394"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://alc.rutgers.edu/academics/undergraduate/asian-studies-undergraduate",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "IND ST ASIANLANG&LIT",
+            "fullTitle": "INDEPENDENT STUDY OF ASIAN LANGUAGES ANDLITERATURES                             ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09686",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "SPECIAL PERMISSION NUMBER NEEDED",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAITO, SATORU"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "098",
+                "number": "444"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://alc.rutgers.edu/academics/undergraduate/asian-studies-undergraduate",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Information Technology and Research (ITR), Writing and Communication in a Discipline (WCd), Writing and Communication, Revision (WCr)",
+            "title": "SEM EAST ASIAN SOC",
+            "fullTitle": "SEMINAR ON EAST ASIAN SOCIETIES                                                 ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09687",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "JRS.& SRS. PRIORITY-OTHERS PERM PRE REQ: 098:241, 242, 250 OR BY DEPARTMENT PERMISSION ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "220",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "220",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SONG, WEIJIE"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        }
+    ]
+}

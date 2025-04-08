@@ -1,0 +1,200 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "973",
+                "number": "191"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:190 )<em> OR </em>(01:973:190 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEM TURKISH II",
+            "fullTitle": "ELEMENTARY TURKISH II                                                           ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09233",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ 01:013:190 OR 01:973:190 OR PLACEMENT TEST  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers",
+                        "See online schedule for prereqs",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "402",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "402",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "OZTOPRAK, DILEK"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:013:191:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "973",
+                "number": "291"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:013:290 )<em> OR </em>(01:973:290 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTERM TURKISH II",
+            "fullTitle": "INTERMEDIATE TURKISH II                                                         ",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "09252",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:013:290 OR 01:973:290 OR PLACEMENT TEST  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Big Ten Academic Alliance CourseShare offering hosted by Rutgers",
+                        "See online schedule for prereqs",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "402",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "402",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "OZTOPRAK, DILEK"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:013:291:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "219",
+                "number": "400"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "((01:198:142  or 01:960:142 ) and (01:960:291 ))",
+            "coreCodes": null,
+            "title": "DATA SC IND STDY RES",
+            "fullTitle": "DATA SCIENCE INDEPENDENT STUDY AND      RESEARCH                                ",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "10744",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Busch",
+                            "campusName": "Busch",
+                            "campusLocation": "2"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        }
+    ]
+}

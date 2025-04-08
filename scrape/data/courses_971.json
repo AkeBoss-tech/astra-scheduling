@@ -1,0 +1,1568 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "101"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "INTRO URBAN STUDIES",
+            "fullTitle": "INTRODUCTION TO URBAN STUDIES                                                   ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15295",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "MU",
+                            "buildingNum": "3011",
+                            "roomNumber": "210",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ROBINSON-WYATT"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "10:975:101:01"
+                        },
+                        {
+                            "course": "10:762:103:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "201"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "INTRO URBAN PLNG&DES",
+            "fullTitle": "INTRODUCTION TO URBAN PLANNING AND DESIGN                                       ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "22976",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "253",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "JOHNSON, ANGELA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "971",
+                            "description": "971 (Urban Planning and Design)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "971",
+                            "description": "971 (Urban Planning and Design)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "233"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "URBAN WORLD",
+            "fullTitle": "URBAN WORLD",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15298",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "510",
+                            "endMinute": "690",
+                            "buildingCode": "CA",
+                            "buildingNum": "3121",
+                            "roomNumber": "A3",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "RESTREPO-MIETH"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "10:975:233:01"
+                        },
+                        {
+                            "course": "10:762:233:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "250"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "INTRO TO GIS",
+            "fullTitle": "INTRODUCTION TO GIS                                                             ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15455",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "S",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "372A",
+                            "meetingModeCode": "05",
+                            "meetingModeDesc": "LAB",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PAYNE, WILLIAM"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15456",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "S",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "510",
+                            "endMinute": "690",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "372A",
+                            "meetingModeCode": "05",
+                            "meetingModeDesc": "LAB",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "FOUAD, GEOFFREY"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "299"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "INDEPENDENT STUDY",
+            "fullTitle": "INDEPENDENT STUDY",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15457",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SHIH, MI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "313"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "PUB & NON PR FINANCE",
+            "fullTitle": "PUBLIC & NONPROFIT SECTOR FINANCE                                               ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "22001",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "WINECOFF, RUTH"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "10:843:313:90"
+                        },
+                        {
+                            "course": "10:833:313:90"
+                        },
+                        {
+                            "course": "10:762:313:90"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "314"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "GRAPH COMMU PLANNER",
+            "fullTitle": "GRAPHIC COMMUNICATION FOR PLANNERS                                              ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15458",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "S",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "372A",
+                            "meetingModeCode": "05",
+                            "meetingModeDesc": "LAB",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "GROSSMANN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15459",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "S",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "372A",
+                            "meetingModeCode": "05",
+                            "meetingModeDesc": "LAB",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "FOUAD, GEOFFREY"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "315"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(10:971:201 )<em> OR </em>(11:550:230 )",
+            "coreCodes": null,
+            "title": "FUND URB PLAN/DSGN",
+            "fullTitle": "FUNDAMENTALS OF URBAN PLANNING AND DESIGN                                       ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15460",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PRE- OR CO-REQ 10:971:314",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "476",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MUELLER, ALICE"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "316"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "((10:971:201  or 11:550:230 ) and (10:971:314 ))",
+            "coreCodes": null,
+            "title": "INTR SITEPLAN/DESIGN",
+            "fullTitle": "INTRODUCTION TO SITE PLANNING AND URBAN DESIGN                                  ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15461",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "IN ADDITION TO PREREQS, 10:971:250 HIGHLY RECOMMENDED  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "S",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "476",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "DRAKE, PAUL"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "971",
+                            "description": "971 (Urban Planning and Design)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "971",
+                            "description": "971 (Urban Planning and Design)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "395"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(10:971:201 )<em> OR </em>(11:550:230 )",
+            "coreCodes": null,
+            "title": "METH PLAN ANALYSIS",
+            "fullTitle": "METHODS OF PLANNING ANALYSIS                                                    ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15462",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "372A",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "BAIRD-ZARS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "971",
+                            "description": "971 (Urban Planning and Design)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "971",
+                            "description": "971 (Urban Planning and Design)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "396"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "SPECIAL TOPICS",
+            "fullTitle": "SPECIAL TOPICS                                                                  ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "05019",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": "PLACEMAKING                             ",
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "910",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "112",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MIAN, NADIA"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "34:970:534:01"
+                        },
+                        {
+                            "course": "10:762:396:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "400"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Non-Core: Community Engagement (CE)",
+            "title": "INTERNSHIP",
+            "fullTitle": "INTERNSHIP",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15463",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "15",
+                            "meetingModeDesc": "INTERNSP",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SHIH, MI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "10",
+                            "description": "10 (Edward J. Bloustein School of Planning and  Public Policy (Undergraduate))"
+                        },
+                        {
+                            "code": "971",
+                            "description": "971 (Urban Planning and Design)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "403"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "((10:971:201  or 11:550:230 ) and (10:971:314 ))",
+            "coreCodes": null,
+            "title": "ADV GRAPHICS & COMM",
+            "fullTitle": "ADVANCED GRAPHICS COMMUNICATIONS                                                ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15464",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "372A",
+                            "meetingModeCode": "05",
+                            "meetingModeDesc": "LAB",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "GROSSMANN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "971",
+                            "description": "971 (Urban Planning and Design)"
+                        },
+                        {
+                            "description": "MINOR:"
+                        },
+                        {
+                            "code": "971",
+                            "description": "971 (Urban Planning and Design)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "405"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(10:971:404 )",
+            "coreCodes": null,
+            "title": "PLAN & DES STUDIO II",
+            "fullTitle": "PLANNING AND DESIGN STUDIO II                                                   ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15465",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "476",
+                            "meetingModeCode": "07",
+                            "meetingModeDesc": "STUDIO",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MORTON, RANDALL"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "10",
+                            "description": "10 (Edward J. Bloustein School of Planning and  Public Policy (Undergraduate))"
+                        },
+                        {
+                            "code": "971",
+                            "description": "971 (Urban Planning and Design)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "413"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "URBAN REVITALIZATION",
+            "fullTitle": "URBAN REVITALIZATION                                                            ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "23442",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "LOVELL, ANTOINE"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "10:833:413:90"
+                        },
+                        {
+                            "course": "10:762:413:90"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "448"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "HISTORIC PRESERVATN",
+            "fullTitle": "HISTORIC PRESERVATION                                                           ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "22847",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1080",
+                            "endMinute": "1260",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "113",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "LISTOKIN, DAVID"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "34:970:521:01"
+                        },
+                        {
+                            "course": "10:762:448:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "463"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "ENVIRON LAW & POLICY",
+            "fullTitle": "ENVIRONMENTAL LAW & POLICY                                                      ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15466",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "113",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "GREENHOUSE"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "34:970:523:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "465"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "ENV ACT JUST & CHNG",
+            "fullTitle": "ENVIRONMENTAL ACTIVISM, JUSTICE         & CHANGE                                ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15468",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "730",
+                            "endMinute": "910",
+                            "buildingCode": "CSB",
+                            "buildingNum": "3158",
+                            "roomNumber": "112",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "RESTREPO-MIETH"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "34:970:574:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "472"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "TRANSPORTATION PLAN",
+            "fullTitle": "TRANSPORTATION PLANNING                                                         ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15470",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Online Course"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "RALPH, KELCIE"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "34:970:550:90"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "486"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "INDEPENDENT STUDY",
+            "fullTitle": "INDEPENDENT STUDY",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15472",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SHIH, MI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "10"
+            },
+            "course": {
+                "subject": "971",
+                "number": "498"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "https://bloustein.rutgers.edu/undergraduate/urbanplanninganddesign/",
+            "courseNotes": null,
+            "unitNotes": "For Special Permission -- http://bloustein.rutgers.edu/courses/special-permission-numbers/\r\n",
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "BLOUSTEIN HNR RES",
+            "fullTitle": "BLOUSTEIN HONORS RESEARCH IN URBAN PLANNING AND DESIGN                          ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "15473",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "21",
+                            "meetingModeDesc": "HONORS",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SHIH, MI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "10",
+                            "description": "10 (Edward J. Bloustein School of Planning and  Public Policy (Undergraduate))"
+                        },
+                        {
+                            "code": "971",
+                            "description": "971 (Urban Planning and Design)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

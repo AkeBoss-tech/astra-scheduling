@@ -1,0 +1,232 @@
+1|#||4|37654|updatePanel|ctl00_mainContent_results_gridUpdatePanel|<p id="ctl00_mainContent_results_resultsLabel" class="SearchResults">Your search returned 985 records.</p><div id="ctl00_mainContent_results_gridDiv" class="SearchDiv"><div>
+	<table class="DeAcGridView" cellspacing="0" cellpadding="2" rules="all" border="1" id="ctl00_mainContent_results_resultsGrid" style="border-collapse:collapse;">
+		<thead>
+			<tr class="DeAcGridViewHeader" valign="middle">
+				<th scope="col" style="width:20%;"><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Sort$Code&#39;)">Code</a></th><th scope="col" style="width:50%;"><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Sort$Name&#39;)">Name</a></th><th scope="col" style="width:25%;"><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Sort$StartTerm.Name&#39;)">Start Term</a></th><th align="center" scope="col" style="width:5%;">View</th>
+			</tr>
+		</thead><tbody>
+			<tr>
+				<td style="width:20%;">01</td><td style="width:50%;">The SAS Core Curriculum (NB)</td><td style="width:25%;">Summer 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2721"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">07</td><td style="width:50%;">Mason Gross School of the Arts (NB)</td><td style="width:25%;">Summer 2009</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=13"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">10</td><td style="width:50%;">Edward J. Bloustein School of Planning and Public Policy General Education Requirements (NB)</td><td style="width:25%;">Fall 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=18"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">11</td><td style="width:50%;">School of Environmental and Biological Sciences (SEBS) Core Curriculum (NB)</td><td style="width:25%;">Summer 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2742"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">14</td><td style="width:50%;">School of Engineering General Education Requirements (NB)</td><td style="width:25%;">Fall 2013</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=29"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">15</td><td style="width:50%;">Graduate School of Education (NB)</td><td style="width:25%;">Fall 2014</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=30"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">21</td><td style="width:50%;">Newark College of Arts and Sciences (NCAS) Core Curriculum (NK)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=36"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">25</td><td style="width:50%;">Nursing General Education Requirements (NB) (NK)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=37"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">29</td><td style="width:50%;">Rutgers Business School - Newark Core Curriculum (NK)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=43"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">33</td><td style="width:50%;">Rutgers Business School - New Brunswick General Education Requirements: The Rutgers Core Curriculum (NB)</td><td style="width:25%;">Summer 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2841"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">37</td><td style="width:50%;">School of Management and Labor Relations (SMLR) General Education Requirements (NB)</td><td style="width:25%;">Fall 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=53"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">40</td><td style="width:50%;">School of Public Affairs and Administration (SPAA) Core Curriculum (NK)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=57"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">47</td><td style="width:50%;">School of Criminal Justice (SCJ) Core Curriculum (NK)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=62"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">50</td><td style="width:50%;">CCAS General Education Requirements (CA)</td><td style="width:25%;">Fall 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=71"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">52</td><td style="width:50%;">Camden School of Business Requirements (CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8241"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">62</td><td style="width:50%;">Newark University College Core Curriculum (NK)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=84"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">64</td><td style="width:50%;">University College Camden General Ed Requirements (CA)</td><td style="width:25%;">Fall 2018</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2842"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">77</td><td style="width:50%;">School of Nursing - New Brunswick (NB)</td><td style="width:25%;">Fall 1982</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7986"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">80</td><td style="width:50%;">Continuing Education (NB)</td><td style="width:25%;">Spring 2012</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=90"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">90</td><td style="width:50%;">Continuing Education (NB)</td><td style="width:25%;">Spring 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=91"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">93</td><td style="width:50%;">Rutgers Summer/Winter Session - Newark (NK)</td><td style="width:25%;">Spring 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=92"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">96</td><td style="width:50%;">Rutgers Summer/Winter Session - Camden (CA)</td><td style="width:25%;">Spring 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=93"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA000J</td><td style="width:50%;">non - matriculated (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=94"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA000SJ</td><td style="width:50%;">Major-High School Student (CA)</td><td style="width:25%;">Fall 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=6724"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA001J</td><td style="width:50%;">Undeclared (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=95"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA001SJ</td><td style="width:50%;">Major Pre-Social Work (CA)</td><td style="width:25%;">&nbsp;</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=6725"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA004J</td><td style="width:50%;">Engineering Transfer Program (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=96"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA005J</td><td style="width:50%;">engineering - 5yr (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=97"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA006J</td><td style="width:50%;">pre - business (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=98"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA010J</td><td style="width:50%;">Major in Accounting (CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7962"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA010N</td><td style="width:50%;">Minor in Accounting (CA)</td><td style="width:25%;">Fall 2016</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=105"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA010TJ</td><td style="width:50%;">Major in Accounting-Tax Accounting (CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8661"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA014J</td><td style="width:50%;">Major in Africana Studies (CA)</td><td style="width:25%;">Fall 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=107"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA014N</td><td style="width:50%;">Minor in Africana Studies (CA)</td><td style="width:25%;">Fall 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=109"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA050N</td><td style="width:50%;">Minor in American Studies (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=110"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA065N</td><td style="width:50%;">Minor in Animation (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=111"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA070N</td><td style="width:50%;">Minor in Anthropology (CA)</td><td style="width:25%;">Fall 2013</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=113"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA080GJ</td><td style="width:50%;">Major in Art - Graphic Design Option (CA)</td><td style="width:25%;">Spring 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=114"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA080IJ</td><td style="width:50%;">Major in Art - Painting Option (CA)</td><td style="width:25%;">Spring 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=115"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA080J</td><td style="width:50%;">Major in Art - Studio Arts Option (CA)</td><td style="width:25%;">Fall 2005</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=117"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA080JJ</td><td style="width:50%;">Visual Art, Painting and Drawing Concentration (CA)</td><td style="width:25%;">&nbsp;</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=6726"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA080KJ</td><td style="width:50%;">Major in Art - Photography Option (CA)</td><td style="width:25%;">Spring 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=118"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA080MJ</td><td style="width:50%;">Major in Art - Sculpture Option (CA)</td><td style="width:25%;">Spring 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=119"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA080N</td><td style="width:50%;">Minor in Art (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=120"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA080PJ</td><td style="width:50%;">Major in Art - Art History Option (CA)</td><td style="width:25%;">Fall 2005</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=121"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA080QJ</td><td style="width:50%;">Major in Art - Electronic Arts Option (CA)</td><td style="width:25%;">Fall 2005</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=123"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA080TJ</td><td style="width:50%;">Visual Art, Art Therapy Concentration (CA)</td><td style="width:25%;">&nbsp;</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=6727"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA080UJ</td><td style="width:50%;">Major in Art - Animation Option (CA)</td><td style="width:25%;">Spring 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=124"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA081DJ</td><td style="width:50%;">Professional Visual Arts-Graphic Design (BFA Degree) (CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8663"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA081UJ</td><td style="width:50%;">Professional Visual Arts-Animation (BFA Degree) (CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8664"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA082J</td><td style="width:50%;">Major in Art History (CA)</td><td style="width:25%;">Spring 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=125"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA082N</td><td style="width:50%;">Minor in Art History (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=126"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA082N</td><td style="width:50%;">Minor in Art History (CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=7004"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA115J</td><td style="width:50%;">Major in Biochemistry (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=127"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA120BJ</td><td style="width:50%;">Major in Biology-Ecology and Evolution(CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8666"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA120J</td><td style="width:50%;">Major in Biology (CA)</td><td style="width:25%;">Fall 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=131"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA120N</td><td style="width:50%;">Minor in Biology (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=132"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA121J</td><td style="width:50%;">Major in Computational and Integrative Biology - Integrative Option (CA)</td><td style="width:25%;">Fall 2014</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=135"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA121MJ</td><td style="width:50%;">Major in Biology-Computational and Integrative Molecular (CA)</td><td style="width:25%;">Spring 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=136"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA121SJ</td><td style="width:50%;">Major in Biology-Computational and Integrative System (CA)</td><td style="width:25%;">Spring 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=137"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA124J</td><td style="width:50%;">Major in Biomedical Technology (CA)</td><td style="width:25%;">Fall 2009</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=139"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA130N</td><td style="width:50%;">Minor in Botany (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=140"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA135B1J</td><td style="width:50%;">Major in Business Administration-Business Analytics (CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8667"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA135B2J</td><td style="width:50%;">Major in Business Administration-Corporate Finance (CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8668"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA135B3J</td><td style="width:50%;">Major in Business Administration-Digital Marketing (CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8669"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA135B4J</td><td style="width:50%;">Major in Business Administration-Human Resource Management (CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8670"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA135J</td><td style="width:50%;">Major in Business Administration (CA)</td><td style="width:25%;">Fall 2023</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8061"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA135N</td><td style="width:50%;">Minor in Business Administration (CA)</td><td style="width:25%;">Fall 2016</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=143"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA141N</td><td style="width:50%;">Minor in Business Analytics (CA)</td><td style="width:25%;">&nbsp;</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8676"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA14E</td><td style="width:50%;">Teacher of Elementary School(CA)</td><td style="width:25%;">Fall 2012</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=146"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA15E</td><td style="width:50%;">Teacher of Art (CA)</td><td style="width:25%;">Fall 2012</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=149"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA160AJ</td><td style="width:50%;">Major in Chemistry B.A. - Traditional Chemistry Program (CA)</td><td style="width:25%;">Fall 2016</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=4841"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA160BJ</td><td style="width:50%;">Major in Chemistry - Biochemistry Program (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=3541"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA160BJ</td><td style="width:50%;">Major in Chemistry - Biochemistry B.A. (CA)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=4322"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA160BS</td><td style="width:50%;">Major in Chemistry - Biochemistry B.S. (CA)</td><td style="width:25%;">Fall 2019</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=4382"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA160J</td><td style="width:50%;">Major in Chemistry - Traditional Chemistry Program (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=150"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA160JJ</td><td style="width:50%;">Major in Chemistry - American Chemical Society Certification Program (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=151"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA160KJ</td><td style="width:50%;">Major in Chemistry - Biochemistry Program (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=152"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA160LJ</td><td style="width:50%;">Major in Chemistry - Chemistry - Business Program (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=153"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA160N</td><td style="width:50%;">Minor in Chemistry (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=154"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA160SJ</td><td style="width:50%;">Major in Chemistry B.S. - Traditional Chemistry Program (CA)</td><td style="width:25%;">Fall 2020</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=5004"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA163J</td><td style="width:50%;">Major in Childhood Studies (CA)</td><td style="width:25%;">Fall 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=158"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA163J</td><td style="width:50%;">Major in Childhoods Studies (CA)</td><td style="width:25%;">Spring 2025</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=8701"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA163N</td><td style="width:50%;">Minor in Childhood Studies (CA)</td><td style="width:25%;">Fall 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=161"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA16E</td><td style="width:50%;">Teacher of English (CA)</td><td style="width:25%;">Fall 2012</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=164"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA17E</td><td style="width:50%;">Teacher of Speech Arts and Dramatics (CA)</td><td style="width:25%;">Fall 2012</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=167"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA184N</td><td style="width:50%;">Minor in Classical Studies (CA)</td><td style="width:25%;">Fall 2006</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=168"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA192N</td><td style="width:50%;">Minor in Communication (CA)</td><td style="width:25%;">Fall 2003</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=169"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA192N</td><td style="width:50%;">Minor in Communication (CA)</td><td style="width:25%;">Fall 2017</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=2903"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA198J</td><td style="width:50%;">Major in Computer Science - BA (CA)</td><td style="width:25%;">Fall 2013</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=172"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA198N</td><td style="width:50%;">Minor in Computer Science (CA)</td><td style="width:25%;">Fall 2013</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=174"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA198N</td><td style="width:50%;">Minor in Computer Science (CA)</td><td style="width:25%;">Spring 2021</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=4925"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA198SJ</td><td style="width:50%;">Major in Computer Science - BS (CA)</td><td style="width:25%;">Fall 2010</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=177"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA19E</td><td style="width:50%;">Teacher of French (CA)</td><td style="width:25%;">Fall 2012</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=180"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA2023J</td><td style="width:50%;">Criminal Justice 5 Year Program (CA)</td><td style="width:25%;">&nbsp;</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=6728"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA202J</td><td style="width:50%;">Major in Criminal Justice (CA)</td><td style="width:25%;">Fall 2016</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=183"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA202J</td><td style="width:50%;">Major in Criminal Justice (CA)</td><td style="width:25%;">Fall 2020</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=5002"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA202J</td><td style="width:50%;">Major in Criminal Justice (CA)</td><td style="width:25%;">Fall 2021</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=5763"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td style="width:20%;">CA202N</td><td style="width:50%;">Minor in Criminal Justice (CA)</td><td style="width:25%;">Fall 2015</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=186"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr class="DeAcGridViewAlternateRow">
+				<td style="width:20%;">CA208N</td><td style="width:50%;">Minor in Digital Arts (CA)</td><td style="width:25%;">&nbsp;</td><td align="center" style="width:5%;"><a href="DegreeAudit.aspx?pageid=audit&amp;degreeID=6723"><img src="/App_Themes/Rutgers/Images/FormBuilder/ViewCode.gif" alt="Audit" /></a></td>
+			</tr><tr>
+				<td colspan="4"><table>
+					<tr>
+						<td><span class="DeAcLabel">1</span></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$2&#39;)">2</a></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$3&#39;)">3</a></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$4&#39;)">4</a></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$5&#39;)">5</a></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$6&#39;)">6</a></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$7&#39;)">7</a></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$8&#39;)">8</a></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$9&#39;)">9</a></td><td><a href="javascript:__doPostBack(&#39;ctl00$mainContent$results$resultsGrid&#39;,&#39;Page$10&#39;)">10</a></td>
+					</tr>
+				</table></td>
+			</tr>
+		</tbody>
+	</table>
+</div></div>|381|updatePanel|ctl00_widgcon_studentlookup_widget_studentlookup_planUpdatePanel|
+
+					<a id="ctl00_widgcon_studentlookup_widget_studentlookup_coursePlanLink" href="ManageCoursePlan.aspx?pageid=ManageCoursePlan">My Planned Courses</a>
+				
+					
+					<input type="hidden" name="ctl00$widgcon_studentlookup$widget_studentlookup$expandedCoursePlanHidden" id="ctl00_widgcon_studentlookup_widget_studentlookup_expandedCoursePlanHidden" />
+					
+						
+					|378|updatePanel|ctl00_widgcon_PlannedCourses_widget_PlannedCourses_planUpdatePanel|
+		<div>
+			
+			<a id="ctl00_widgcon_PlannedCourses_widget_PlannedCourses_coursePlanLink" href="ManageCoursePlan.aspx?pageid=ManageCoursePlan">You have 0 courses in your course plan.</a>
+			<input type="hidden" name="ctl00$widgcon_PlannedCourses$widget_PlannedCourses$expandedHidden" id="ctl00_widgcon_PlannedCourses_widget_PlannedCourses_expandedHidden" />
+		</div>
+		
+	|0|hiddenField|__LASTFOCUS||0|hiddenField|__EVENTTARGET||0|hiddenField|__EVENTARGUMENT||416|hiddenField|__VIEWSTATE|/wEPaA8FDzhkZDRmNDVlZTE5MWFjMxgEBRljdGwwMCRjdGwxMyRjdGwwMiR0YWJNZW51Dw9kBQZTZWFyY2hkBVVjdGwwMCR3aWRnY29uX215Y2FydCR3aWRnZXRfbXljYXJ0JGN1c3RvbVJlbW90ZUl0ZW1QYW5lX2NvbnRlbnQkY3VzdG9tUmVtb3RlSXRlbXNHcmlkD2dkBUJjdGwwMCR3aWRnY29uX215Y2FydCR3aWRnZXRfbXljYXJ0JHBhbmUxX2NvbnRlbnQkaXRlbXNCeVNlYXJjaEdyaWQPPCsADAEIZmQFJWN0bDAwJG1haW5Db250ZW50JHJlc3VsdHMkcmVzdWx0c0dyaWQPPCsADAEIAgpkXf65patbYo+f0F/y0fwVV9TQ2XJkfal+UKEJPkcmNdw=|8|hiddenField|__VIEWSTATEGENERATOR|AE0C6D41|988|hiddenField|__EVENTVALIDATION|/wEdACxTsNNvrb15bjHVT4eWk/fn2LrMLg/bsNlJZ7iVwCTlTKF9fiiKwDde6dGBe6vID0g8IWxMexD66zYRkA7biwhVbRR0kW/evqYrVsa3owck/KD24D7Zs/pkTkN9wZtAgfdmE7SHVSzdZprTm+FP6PX/Knlm1iUoQRb8dEy8psUVUAP1JMsAURkMq+H5f8fprmvHpvD1NfKhAbwOXWkRjK1JOM+T7tRX/K/B4jNqfV4HsQwnjnpYWbWzeI8hunelk4EFue8+Ck3fjDvYgZed5lTGv0ys7qzcfgDfRPo2hQSOI68XZkn8FT6zXq3cMMu3FoEPGZBatYp8nRU0kwQG0KrNDGq1Cf9ZDDMKfItakEz4JB7qFASfru32umtPz1bOM9vVf9kkw9ILoaG4Yje9KglaYSG2NnPzcKUzYe7o64WsAoygbgxIBUSdRK42m/3AKHEtWMk1Ui8yOPzZzz9PAGOtYhtNvLnEpECPPkzyHqFAu7talvgD34WBzerEp0JuX0qjjWp2qiw2BaZHMiPchkaIg90n0UwgaBjsx12SI0gSTtjns1+O3zTZV8HJTSTcaAY82ckEeD9yG+e7a0e3COEdavH1Uv6fF9pCOMr8cGfK3crbhcmGtBKhJ28VLIcFA3ily7zfRcqlhPW4nnD3U46ZbdDsbMHv8tO5GOgGM1qD/mU6Ymcs3Ken1rs6gshtmhMBWp25kbDENfPbOTaGVwmHAIuK/uyKmtDVGUE14C3ch9bUPNiDUuyN9jwAfsz+rXi8lLMK5aHJZZE6+InQs/uyyy9wHvSf0SriWyksiXgS5XV7C0dQHf2JY1WyrYKBEMyQzXLu2p3UdEp4+KeO83f57+A96ZAUz6UBaxmPKJe2Af+H+PoeshkTXCjpCim+XQZwcIrPHgLm41GTxv1gIcPoRoIbEg7Z2VIslSJKTtUyHbHKnAnOudX0iIsZkQgL/KFPyl7j5jVRb8AasBdkDwkC|25|asyncPostBackControlIDs||ctl00$mainContent$search,|0|postBackControlIDs|||288|updatePanelIDs||tctl00$mainContent$results$gridUpdatePanel,,tctl00$widgcon_studentlookup$widgetHeaderUpdatePanel,,tctl00$widgcon_studentlookup$widget_studentlookup$planUpdatePanel,,tctl00$widgcon_PlannedCourses$widgetHeaderUpdatePanel,,tctl00$widgcon_PlannedCourses$widget_PlannedCourses$planUpdatePanel,|0|childUpdatePanelIDs|||176|panelsToRefreshIDs||ctl00$mainContent$results$gridUpdatePanel,,ctl00$widgcon_studentlookup$widget_studentlookup$planUpdatePanel,,ctl00$widgcon_PlannedCourses$widget_PlannedCourses$planUpdatePanel,|6|asyncPostBackTimeout||360000|192|scriptBlock|ScriptPath|/ScriptResource.axd?d=aujl0a_yyK7QqReUI0imDGcmW8Jr2rTCiGiHbrz0jnLIEVdd3qVViAFYvsPjAMUUFfn-K90JEhMOPpZxL1vlli_u4y4cpMrYX4p_oYKcz0TyNPhkR_GMT9AcItYatg423TVrZzF-G8Jp2MrNkrcKQw2&t=ffffffffba22f784|36|focus||ctl00_mainContent_search_codeTextBox|

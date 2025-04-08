@@ -1,0 +1,2415 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "272"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "INTRO FINANCIAL ACCT",
+            "fullTitle": "INTRODUCTION TO FINANCIAL ACCOUNTING                                            ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20724",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "WASSERMAN, EVAN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20725",
+                    "legendKey": null,
+                    "sectionNumber": "03",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "YAN, JINQIU"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20726",
+                    "legendKey": null,
+                    "sectionNumber": "04",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "O'ROURKE, SARAH"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20727",
+                    "legendKey": null,
+                    "sectionNumber": "05",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAUNDERS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20728",
+                    "legendKey": null,
+                    "sectionNumber": "07",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "O'ROURKE, SARAH"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20729",
+                    "legendKey": null,
+                    "sectionNumber": "08",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "JOUAN, NATALIA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20730",
+                    "legendKey": null,
+                    "sectionNumber": "11",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "1170",
+                            "endMinute": "1250",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "3071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1170",
+                            "endMinute": "1250",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "3071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "REYNOLDS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20731",
+                    "legendKey": null,
+                    "sectionNumber": "12",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "JOUAN, NATALIA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20732",
+                    "legendKey": null,
+                    "sectionNumber": "13",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "S",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Saturday",
+                            "startMinute": "720",
+                            "endMinute": "900",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "FONG, CHUCK"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "275"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:010:272 )<em> OR </em>(29:010:203 )<em> OR </em>(52:010:101 )",
+            "coreCodes": null,
+            "title": "INTRO TO MNGRL ACCTG",
+            "fullTitle": "INTRODUCTION TO MANAGERIAL ACCOUNTING                                           ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20733",
+                    "legendKey": null,
+                    "sectionNumber": "04",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        " School of Business Majors only"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4085",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4085",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "JOUAN, NATALIA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20735",
+                    "legendKey": null,
+                    "sectionNumber": "08",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        " School of Business Majors only"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAHAY, SAVITA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20736",
+                    "legendKey": null,
+                    "sectionNumber": "10",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        " School of Business Majors only"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "1095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "JOUAN, NATALIA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20737",
+                    "legendKey": null,
+                    "sectionNumber": "11",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        " School of Business Majors only"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "3071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "3071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "FONG, CHUCK"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20738",
+                    "legendKey": null,
+                    "sectionNumber": "12",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "S",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        " School of Business Majors only"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Saturday",
+                            "startMinute": "840",
+                            "endMinute": "1020",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "3071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "LI, JOHN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "325"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:010:272 )<em> OR </em>(29:010:203 )<em> OR </em>(52:010:101 )",
+            "coreCodes": null,
+            "title": "INTERMED ACCTNG I",
+            "fullTitle": "INTERMED ACCTNG I",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20739",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4073",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4073",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "HUANG, DISEN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        },
+                        {
+                            "code": "390",
+                            "description": "390 (Finance)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20740",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4073",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4073",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "HUANG, DISEN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        },
+                        {
+                            "code": "390",
+                            "description": "390 (Finance)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20741",
+                    "legendKey": null,
+                    "sectionNumber": "03",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4073",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4073",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "HUANG, DISEN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        },
+                        {
+                            "code": "390",
+                            "description": "390 (Finance)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "326"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:010:325 )<em> OR </em>(29:010:305 )",
+            "coreCodes": null,
+            "title": "INTERMED ACCTNG II",
+            "fullTitle": "INTERMED ACCTNG II",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20742",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "ACCOUNTING MAJORS ONLY",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAUNDERS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20743",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAUNDERS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "401"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:010:326 )<em> OR </em>(29:010:306 )",
+            "coreCodes": null,
+            "title": "ADVANCED ACCOUNTING",
+            "fullTitle": "ADVANCED ACCOUNTING",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20744",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "ACCOUNTING MAJORS ONLY",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BE",
+                            "buildingNum": "4145",
+                            "roomNumber": "213",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BE",
+                            "buildingNum": "4145",
+                            "roomNumber": "213",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SCHODERBEK"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20745",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "BE",
+                            "buildingNum": "4145",
+                            "roomNumber": "213",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "BE",
+                            "buildingNum": "4145",
+                            "roomNumber": "213",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SCHODERBEK"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20746",
+                    "legendKey": null,
+                    "sectionNumber": "04",
+                    "sectionNotes": "ACCOUNTING MAJORS ONLY",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "S",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1170",
+                            "endMinute": "1350",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5117",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "O'ROURKE, SARAH"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "415"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:010:325 )<em> OR </em>(29:010:305 )",
+            "coreCodes": null,
+            "title": "CONCEPTS OF AUDITING",
+            "fullTitle": "CONCEPTS OF AUDITING",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20747",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5117",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5117",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "WASSERMAN, EVAN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20748",
+                    "legendKey": null,
+                    "sectionNumber": "03",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5117",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5117",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "WASSERMAN, EVAN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "416"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:010:415 )<em> OR </em>(29:010:430 )",
+            "coreCodes": null,
+            "title": "AUDIT ANALYTICS",
+            "fullTitle": "AUDIT ANALYTICS                                                                 ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20749",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Hybrid Section - Some Meetings Online",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ISSA, HUSSEIN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20750",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Hybrid Section - Some Meetings Online",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ISSA, HUSSEIN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20751",
+                    "legendKey": null,
+                    "sectionNumber": "03",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Hybrid Section - Some Meetings Online"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "GU, YU"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "421"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:010:325 )<em> OR </em>(29:010:305 )",
+            "coreCodes": null,
+            "title": "INCOME TAX ACCOUNTNG",
+            "fullTitle": "INCOME TAX ACCOUNTNG",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20752",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5113",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PRESINAL"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20753",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "S",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1170",
+                            "endMinute": "1350",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5071",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "422"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:010:421 )<em> OR </em>(29:010:413 )",
+            "coreCodes": null,
+            "title": "TPCS INCOME TAXATION",
+            "fullTitle": "TPCS INCOME TAXATION",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20754",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "JUNIORS AND SENIORS ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1060",
+                            "endMinute": "1240",
+                            "buildingCode": "LSH",
+                            "buildingNum": "4153",
+                            "roomNumber": "A143",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "CALLAHAN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "451"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:010:275 )<em> OR </em>(29:010:204 )<em> OR </em>(52:010:202 )",
+            "coreCodes": null,
+            "title": "COST ACCOUNTING",
+            "fullTitle": "COST ACCOUNTING",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20755",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4073",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4073",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAHAY, SAVITA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20756",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4073",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "4073",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAHAY, SAVITA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "458"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "((01:198:170  or 14:440:127 ) and (33:010:272 ))<em> OR </em> ((01:198:170  or 01:198:110 ) and (29:010:203 ))<em> OR </em> ((01:198:111  or 01:198:110 ) and (33:010:272 ))",
+            "coreCodes": null,
+            "title": "ACCTNG INFORM SYSTS",
+            "fullTitle": "ACCTNG INFORM SYSTS",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20757",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Hybrid",
+                        "Course may require: Webcam, Microphone, Phone Camera or Scanner",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "LI, BUHE"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20758",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "CHO, SOOHYUN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20759",
+                    "legendKey": null,
+                    "sectionNumber": "03",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": "ALL EXCEPT 1ST YEAR ",
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "BRR",
+                            "buildingNum": "4181",
+                            "roomNumber": "5095",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "CHO, SOOHYUN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "475"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(33:010:326 )<em> OR </em>(29:010:306 )",
+            "coreCodes": null,
+            "title": "CPA FIN ACT & REPRTG",
+            "fullTitle": "CPA LEVEL FINANCIAL ACCOUNTING AND REPORTING                                    ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20760",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Course may require: Webcam, Microphone, Phone Camera or Scanner",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Friday",
+                            "startMinute": "620",
+                            "endMinute": "800",
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "O'ROURKE, SARAH"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "33"
+            },
+            "course": {
+                "subject": "010",
+                "number": "495"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": null,
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "NO SPECIAL PERMISSION WILL BE GRANTED FOR RUTGERS BUSINESS SCHOOL-UNDERGRADUATE NB COURSES.",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "HONORS PROJECT ACCTG",
+            "fullTitle": "HONORS PROJECT ACCTG",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "20761",
+                    "legendKey": null,
+                    "sectionNumber": "H1",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Dean - School of Business",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": [
+                        {
+                            "description": "MAJ:"
+                        },
+                        {
+                            "code": "010",
+                            "description": "010 (Accounting)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

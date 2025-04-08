@@ -1,0 +1,2165 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "101"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": "FOR ALL SECTIONS: NOT OPEN TO THOSE WHO HAVE TAKEN 2 OR MORE YEARS H.S. SPANISH OR TO NATIVE SPEAKERS OF SPANISH.  \r\n",
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEMENTARY SPANISH",
+            "fullTitle": "ELEMENTARY SPANISH",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12985",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "NOT OPEN TO STUDENTS WHO HAVE; HAD 2 OR MORE YEARS OF; HIGH SCHOOL SPANISH OR ARE; HERITAGE SPANISH SPEAKERS",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Hybrid Section - Some Meetings Online",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "HC",
+                            "buildingNum": "3197",
+                            "roomNumber": "S120",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "HC",
+                            "buildingNum": "3197",
+                            "roomNumber": "S120",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "HICKS, TIYANA"
+                        },
+                        {
+                            "name": "SAEZ FAJARDO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12986",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": "NOT OPEN TO STUDENTS WHO HAVE; HAD 2 OR MORE YEARS OF HIGH; SCHOOL SPANISH OR ARE HERITAGE; SPANISH SPEAKERS.",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Online Course",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAEZ FAJARDO"
+                        },
+                        {
+                            "name": "BISHOP, STEPHEN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12987",
+                    "legendKey": null,
+                    "sectionNumber": "91",
+                    "sectionNotes": "NOT OPEN TO STUDENTS WHO HAVE; TWO OR MORE YEARS OF HIGH; SCHOOL SPANISH OR HERITAGE; SPANISH SPEAKERS",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Online Course"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAEZ FAJARDO"
+                        },
+                        {
+                            "name": "CLIFFORD"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "102"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": "FOR ALL SECTIONS: NOT OPEN TO THOSE WHO HAVE TAKEN 2 OR MORE YEARS H.S. SPANISH OR TO NATIVE SPEAKERS OF SPANISH. ",
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:101 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEMENTARY SPANISH",
+            "fullTitle": "ELEMENTARY SPANISH",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12988",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": "NOT OPEN TO STUDENTS WHO HAVE; TWO OR MORE YEARS OF HIGH; SCHOOL SPANISH OR ARE HERITAGE; SPANISH SPEAKERS.",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Online Course",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SOLIS, ANA"
+                        },
+                        {
+                            "name": "SAEZ FAJARDO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "121"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": "FOR ALL SECTIONS: PREREQ - PLACEMENT TEST OR PERMISSION OF DEPARTMENT \r\n",
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "SPAN REVIEW & CONT",
+            "fullTitle": "SPANISH REVIEW AND CONTINUATION                                                 ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12989",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: PLACEMENT TEST OR; PERMISSION OF DEPARTMENT  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "ABE",
+                            "buildingNum": "3198",
+                            "roomNumber": "2200",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "ABE",
+                            "buildingNum": "3198",
+                            "roomNumber": "2200",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAEZ FAJARDO"
+                        },
+                        {
+                            "name": "LLURBA FERREIRA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "131"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": "FOR ALL SECTIONS: PREREQ - 940:102 OR 121 OR PLACEMENT TEST \r\n",
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:102 )<em> OR </em>(01:940:121 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTERMEDIATE SPANISH",
+            "fullTitle": "INTERMEDIATE SPANISH",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12990",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "See online schedule for prereqs",
+                        "Hybrid Section - Some Meetings Online",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "115",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "115",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAEZ FAJARDO"
+                        },
+                        {
+                            "name": "SMITH, MARIA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12991",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Online Course",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAEZ FAJARDO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12992",
+                    "legendKey": null,
+                    "sectionNumber": "91",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Online Course",
+                        "See online schedule for prereqs"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAEZ FAJARDO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "132"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": "FOR ALL SECTIONS: PREREQ - 940:131 OR PLACEMENT TEST OR PERMISSION OF DEPT. \r\n",
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:131 )",
+            "coreCodes": "Nature of Languages (AHq), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTERMEDIATE SPANISH",
+            "fullTitle": "INTERMEDIATE SPANISH",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12993",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQ: 01:940:131 OR ; PLACEMENT TEST  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Hybrid Section - Some Meetings Online"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ABE",
+                            "buildingNum": "3198",
+                            "roomNumber": "2200",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ABE",
+                            "buildingNum": "3198",
+                            "roomNumber": "2200",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SAEZ FAJARDO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12994",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Online Course",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "NAVA, RAFAEL"
+                        },
+                        {
+                            "name": "SAEZ FAJARDO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "139"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "SPAN HERITAGE SPK I",
+            "fullTitle": "SPANISH FOR HERITAGE SPEAKERS I                                                 ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12995",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "U",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "ABE",
+                            "buildingNum": "3198",
+                            "roomNumber": "3200",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "ABE",
+                            "buildingNum": "3198",
+                            "roomNumber": "3200",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "CARBONE, ANDREA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "160"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "SPANISH IN THE WORLD",
+            "fullTitle": "SPANISH IN THE WORLD",
+            "credits": "1.5",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12997",
+                    "legendKey": null,
+                    "sectionNumber": "MA",
+                    "sectionNotes": "NOT FOR MAJOR/MINOR CREDIT.",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        " Taught in English",
+                        "Online Course",
+                        "Go to http://canvas.rutgers.edu",
+                        " Second 7 weeks"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "STEPHENS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "23026",
+                    "legendKey": null,
+                    "sectionNumber": "MB",
+                    "sectionNotes": "NOT FOR MAJOR/MINOR CREDIT.",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Online Course",
+                        " Second 7 weeks",
+                        " Taught in English"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "STEPHENS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "201"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:139 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "SPAN HERITAGE SPK II",
+            "fullTitle": "SPANISH FOR HERITAGE SPEAKERS II                                                ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "12998",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "CREDIT NOT GIVEN FOR BOTH THIS; COURSE AND 01:940:203.  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "3100",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "3100",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MONTJOY FORTI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "203"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": "FOR ALL SECTIONS: PREREQ - 940:132 OR PLACEMENT TEST OR PERMISSION OF DEPARTMENT \r\n ",
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:132 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "SPAN CONVERSATN&COMP",
+            "fullTitle": "SPANISH CONVERSATION AND COMPOSITION                                            ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13000",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "HC",
+                            "buildingNum": "3197",
+                            "roomNumber": "S124",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "HC",
+                            "buildingNum": "3197",
+                            "roomNumber": "S124",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "HYDAK, LAURA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "204"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": "FOR ALL SECTIONS: PREREQ OR COREQ - 940:203 OR PERM. OF DEPT. \r\nNOT OPEN TO NATIVE SPEAKERS OR OTHERS ALREADY      CONVERSANT IN LANGUAGE \r\n",
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:203 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "CULTURE & COMPOSITN",
+            "fullTitle": "CULTURE AND COMPOSITION                                                         ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13001",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": "NOT OPEN TO NATIVE SPEAKERS OR OTHERS CONVERSANT IN THE LANGUAGE ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "114",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "510",
+                            "endMinute": "590",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "114",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "LUQUETTE"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "205"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "Any Course EQUAL or GREATER Than: (01:940:132 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "SPANISH FOR HEALTH",
+            "fullTitle": "SPANISH FOR THE HEALTH PROFESSIONS                                              ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13002",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": "PREREQ: 940:131, OR 940:139 OR BY PERMISSION OF DEPARTMENT.  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "U",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Online Course",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "BISHOP, STEPHEN"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "215"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:202 )<em> OR </em>(01:940:204 )",
+            "coreCodes": "Arts and Literatures (AHp), Nature of Languages (AHq), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTRO HISPANIC LIT",
+            "fullTitle": "INTRODUCTION TO HISPANIC LITERATURE                                             ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13003",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "HC",
+                            "buildingNum": "3197",
+                            "roomNumber": "E128",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "HC",
+                            "buildingNum": "3197",
+                            "roomNumber": "E128",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KIM, YEON-SOO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "250"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "SPRTS LAT AM & CARIB",
+            "fullTitle": "SPORTS IN LATIN AMERICA AND THE CARIBBEAN                                       ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11736",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "CREDIT NOT GIVEN FOR BOTH THIS COURSE AND 590:250 OR 595:250.  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BE",
+                            "buildingNum": "4145",
+                            "roomNumber": "250",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "BE",
+                            "buildingNum": "4145",
+                            "roomNumber": "250",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Livingston",
+                            "campusName": "Livingston",
+                            "campusLocation": "3"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "STEPHENS"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:595:250:01"
+                        },
+                        {
+                            "course": "01:590:250:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "261"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": "FOR ALL SECTIONS: PREREQ - 01:940:202 OR 01:940:204 OR PLACEMENT TEST.\r\n",
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:202 )<em> OR </em>(01:940:204 )",
+            "coreCodes": "Nature of Languages (AHq), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTRO STUDY LANGUAGE",
+            "fullTitle": "INTRODUCTION TO THE STUDY OF LANGUAGE                                           ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13005",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Hybrid Section - Some Meetings Online"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "HC",
+                            "buildingNum": "3197",
+                            "roomNumber": "E128",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "VARGAS MUTIZABA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "313"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:215 )<em> OR </em>(01:940:261 )<em> OR </em>(01:940:325 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ADV SPAN CONVERSATN",
+            "fullTitle": "ADVANCED SPANISH CONVERSATION AND CONTEMPORARY ISSUES                           ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13006",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "CREDIT NOT GIVEN FOR BOTH THIS COURSE AND 195:334. PREREQ: 01:940:215 OR 261 OR 325 OR PERMISSION OF DEPT.",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "2100",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "2100",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "OTERO-TORRES"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "325"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": "FOR ALL SECTIONS: PREREQ - 01:940:202 OR 204 OR PLACEMENT TEST \r\n ",
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:202 )<em> OR </em>(01:940:204 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ADV GRAMMAR&COMPOSTN",
+            "fullTitle": "ADVANCED GRAMMAR AND COMPOSITION                                                ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13007",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "5190",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "5190",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "CANTERO SORIANO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "326"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:202 )<em> OR </em>(01:940:204 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ADV COMP&INT TRANLAT",
+            "fullTitle": "ADVANCED COMPOSITION AND INTRODUCTION TOTRANSLATION STUDIES                     ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13008",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Hybrid Section - Some Meetings Online",
+                        "Go to http://canvas.rutgers.edu",
+                        "See online schedule for prereqs"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1060",
+                            "endMinute": "1140",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "403",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "RAMIREZ POLO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "367"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "SOCIOLNG SPAN SPK WL",
+            "fullTitle": "SOCIOLNG SPAN SPK WL",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13009",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "HC",
+                            "buildingNum": "3197",
+                            "roomNumber": "S120",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "HC",
+                            "buildingNum": "3197",
+                            "roomNumber": "S120",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "DICKINSON"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "368"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:261 )<em> OR </em>(01:830:101 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "THE BILINGUAL MIND",
+            "fullTitle": "THE BILINGUAL MIND",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13010",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        " Taught in English"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "HC",
+                            "buildingNum": "3197",
+                            "roomNumber": "S124",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "HC",
+                            "buildingNum": "3197",
+                            "roomNumber": "S124",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "CORREGIDOR LUNA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "390"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:215 )",
+            "coreCodes": null,
+            "title": "TPC HISPANIC LIT CUL",
+            "fullTitle": "TOPICS IN HISPANIC LITERATURE AND CULTURE                                       ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "10358",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "\"LITERARY TRANSLATION AND BOOK ARTS IN THE HISPANIC WORLD\"  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "U",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "600",
+                            "endMinute": "780",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "4052",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "BISHOP, KAREN"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:195:395:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "401"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:325  and 01:940:326  and 01:355:101  and 01:355:101 ) <em> OR </em> (01:940:325  and 01:940:326  and 01:355:103  and 01:355:103 ) <em> OR </em> (01:940:325  and 01:940:326  and 01:355:104  and 01:355:104 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ADV TRANSLATION I",
+            "fullTitle": "ADVANCED TRANSLATION I                                                          ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13011",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Online Course",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "JIMENEZ, MIGUEL"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "402"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:940:401 )<em> OR </em>(01:940:478 )<em> OR </em>(01:940:479 )<em> OR </em>(16:940:579 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "TRANS SPCLZED TEXTS",
+            "fullTitle": "INTRODUCTION TO TRANSLATION OF SPECIALIZED TEXTS                                ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13012",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "1060",
+                            "endMinute": "1250",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "403",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "RAMIREZ POLO"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "16:940:502:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "477"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "COURT INTERPRETING",
+            "fullTitle": "COURT INTERPRETING",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13014",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "PREREQUISITE: 01:940:401 AND 01:940:475.  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1060",
+                            "endMinute": "1250",
+                            "buildingCode": "SPR",
+                            "buildingNum": "8823",
+                            "roomNumber": "403",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "Downtown New Brunswick",
+                            "campusName": "Downtown New Brunswick",
+                            "campusLocation": "5"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "JIMENEZ, MIGUEL"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "16:617:535:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "494"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "INDEPENDENT STUDY",
+            "fullTitle": "INDEPENDENT STUDY",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13016",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "19",
+                            "meetingModeDesc": "PROJ-IND",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "RAMIREZ POLO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "940",
+                "number": "498"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://span-port.rutgers.edu/course-synopses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": "SEE PORTUGUESE(810) FOR ADDITIONAL COURSES. \r\n\r\n",
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "HONORS IN SPANISH",
+            "fullTitle": "HONORS IN SPANISH",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "13017",
+                    "legendKey": null,
+                    "sectionNumber": "H1",
+                    "sectionNotes": "PERMISSION OF DEPT. ONLY OPEN TO SENIORS  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "A",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "21",
+                            "meetingModeDesc": "HONORS",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        }
+    ]
+}

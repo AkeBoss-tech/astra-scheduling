@@ -1,0 +1,1819 @@
+
+
+<!DOCTYPE html public "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+	<head id="ctl00_head"><title>
+	Degree Navigator
+</title><meta http-equiv="imagetoolbar" content="no" /><meta http-equiv="Page-Exit" content="progid:DXImageTransform.Microsoft.Fade(duration=.18)" /><link id="ctl00_browserCssLink" type="text/css" rel="stylesheet" /><link href="../../App_Themes/Rutgers/Amanda.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/Rutgers/Default.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/Rutgers/Header.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/Rutgers/Importer.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/Rutgers/Layout.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/Rutgers/Logger.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/Rutgers/Print.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/Rutgers/Tabber.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/Rutgers/Widget.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/Rutgers/Wizard.css" type="text/css" rel="stylesheet" /><style type="text/css">
+	.ctl00_ctl13_ctl02_tabMenu_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.ctl00_ctl13_ctl02_tabMenu_1 { text-decoration:none; }
+	.ctl00_ctl13_ctl02_tabMenu_2 {  }
+	.ctl00_ctl13_ctl02_tabMenu_3 { border-style:none; }
+	.ctl00_ctl13_ctl02_tabMenu_4 {  }
+	.ctl00_ctl13_ctl02_tabMenu_5 { border-style:none; }
+	.ctl00_ctl13_ctl02_tabMenu_6 {  }
+	.ctl00_ctl13_ctl02_tabMenu_7 { border-style:none; }
+	.ctl00_ctl13_ctl02_tabMenu_8 {  }
+
+</style></head>
+	<body>
+		<form method="post" action="/DN/Audit/DegreeAudit.aspx?pageid=audit&amp;degreeID=150" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl00_scriptMgr_HiddenField" id="ctl00_scriptMgr_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhkZDRmNDYzODZiZTM5ZhgCBVVjdGwwMCR3aWRnY29uX215Y2FydCR3aWRnZXRfbXljYXJ0JGN1c3RvbVJlbW90ZUl0ZW1QYW5lX2NvbnRlbnQkY3VzdG9tUmVtb3RlSXRlbXNHcmlkD2dkBUJjdGwwMCR3aWRnY29uX215Y2FydCR3aWRnZXRfbXljYXJ0JHBhbmUxX2NvbnRlbnQkaXRlbXNCeVNlYXJjaEdyaWQPPCsADAEIZmT//55hIKQXXJ+yJc1yJ3sm7Koqe0ygxRdTn5SuxObhgg==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=CTTS78ZxyfePtYre2wFjo2QOMt4TWpVJCL0J2oAJP6cO1BrXak2gUeTKc9JboXsSZnuEts0_lSiHHq-meDz39qn5nI70OGuGriEnDo33oTM1&amp;t=638563128220000000" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var isContextUser=false;//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=0bLILCFyn8Ud5fOtI6AyVBo7XQP41BPniSJjsmAC_yNw6176tKFoGriays8EbY2UNxxjCLPft5vVb_zqV8uVGcu-t3F8Dh5_XqxwbrYpFoqosPqCYxQ5mCiHIwP11SCrioZw1hDcYfBqFaWq1YOIng2&amp;t=ffffffffba22f784" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=wcKpkclbatpbNvEK4feem_Prk9x_WvtyedwkoerlZD5uksYbCNaw7h7XIH9IheF4-CCr0KM5DpoTqcEvl9tzayjsKM7YDWZu5FJJB75YVoIX1zpDSBiJt_9bP3rYfGLf0&amp;t=157144f6" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=cKJMXREb-Ny1GtGXQq2VYS4QXGrnM9Y3uul1PcMCTFuKN4Oznqc21QN40u1DgkbmfI87shKMAdXAQ4lWaeSxEOeBjOGJnAP9PkYnotfn8RQiO5tCZaIeIqnZzLzb9ZOrApdd-Rxg2ygMTpaYMsx_3x1nls3zPZW5D0CXiydd1s41&amp;t=ffffffffba22f784" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=rm19wkXOGamg6NT5mksQW9tvMGzyS78nkNRWu99UeRq1HWdqaHNNJV7m3hv5zuLTd2rgX5eJdWDaTeRffXvOCkAq7SUZoOyaDWX3alN1XiyrxA7VraknIldRBK9467sdJ_ZvFm9OLBx2wJuj7HPmnPFwS0jC9fmYKNcT1tfpH0vX-VcZDiv6ZeKejQJt-Rpz0&amp;t=ffffffffc820c398" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=3FN8vyDb0Uc0iiTmVbuQANHUETxU4Mr1M5EEKHRDfkXiyh11WGmKXWgdwerx4kIURsylEWKotDfDw9MWG0381xy3enKx7F0TNBVFaGsN8ka06vJZJLMK2GeqEfDJG9CtPtW-DuHwmMo1USFJijREC22h05hIm7PmwtGr07iqckV6VByl6BIZ8y_Qn_CoHfH40&amp;t=ffffffffc820c398" type="text/javascript"></script>
+<script src="../../Javascript/Prototype.js" type="text/javascript"></script>
+<script src="../../Javascript/Builder.js" type="text/javascript"></script>
+<script src="../../Javascript/jQuery.js" type="text/javascript"></script>
+<script src="../../Javascript/jQuery.Cookie.js" type="text/javascript"></script>
+<script src="../../Javascript/Default.js" type="text/javascript"></script>
+<script src="../../Javascript/Interface.js" type="text/javascript"></script>
+<script src="../../Javascript/qTip.js" type="text/javascript"></script>
+<script src="../../Javascript/webkit.js" type="text/javascript"></script>
+<script src="../../Javascript/ztoast.js" type="text/javascript"></script>
+<script src="../../Javascript/ItemDetails.js" type="text/javascript"></script>
+<script src="../../CombineScriptsHandler.ashx?_TSM_HiddenField_=ctl00_scriptMgr_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.0.30512.17815%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3ac6756652-1352-4664-9356-b246b450e2d0%3a9ea3f0e2%3ae2e86ef9%3ac7c04611%3a1df13a87%3acd120801%3ac4c00916%3a3858419b%3a96741c43%3a38ec41c0" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var PageMethods = function() {
+PageMethods.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+PageMethods.prototype = {
+_get_path:function() {
+ var p = this.get_path();
+ if (p) return p;
+ else return PageMethods._staticInstance.get_path();},
+UpdateResource:function(pageId,resourceId,resourceType,newValue,succeededCallback, failedCallback, userContext) {
+/// <param name="pageId" type="String">System.String</param>
+/// <param name="resourceId" type="String">System.String</param>
+/// <param name="resourceType" type="Number">System.Int32</param>
+/// <param name="newValue" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'UpdateResource',false,{pageId:pageId,resourceId:resourceId,resourceType:resourceType,newValue:newValue},succeededCallback,failedCallback,userContext); },
+GetResourceValue:function(pageId,resourceId,resourceType,succeededCallback, failedCallback, userContext) {
+/// <param name="pageId" type="String">System.String</param>
+/// <param name="resourceId" type="String">System.String</param>
+/// <param name="resourceType" type="Number">System.Int32</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'GetResourceValue',false,{pageId:pageId,resourceId:resourceId,resourceType:resourceType},succeededCallback,failedCallback,userContext); },
+GetGrades:function(institutionId,succeededCallback, failedCallback, userContext) {
+/// <param name="institutionId" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'GetGrades',false,{institutionId:institutionId},succeededCallback,failedCallback,userContext); },
+GetTerms:function(institutionId,academicYearCode,succeededCallback, failedCallback, userContext) {
+/// <param name="institutionId" type="String">System.String</param>
+/// <param name="academicYearCode" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'GetTerms',false,{institutionId:institutionId,academicYearCode:academicYearCode},succeededCallback,failedCallback,userContext); },
+GetCourseByID:function(id,termCode,degreeId,forContextUser,courseTaken,succeededCallback, failedCallback, userContext) {
+/// <param name="id" type="String">System.String</param>
+/// <param name="termCode" type="String">System.String</param>
+/// <param name="degreeId" type="Number">System.Int32</param>
+/// <param name="forContextUser" type="Boolean">System.Boolean</param>
+/// <param name="courseTaken" type="Boolean">System.Boolean</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'GetCourseByID',false,{id:id,termCode:termCode,degreeId:degreeId,forContextUser:forContextUser,courseTaken:courseTaken},succeededCallback,failedCallback,userContext); },
+GetCourse:function(id,termCode,degreeId,forContextUser,courseTaken,getByCode,succeededCallback, failedCallback, userContext) {
+/// <param name="id" type="String">System.String</param>
+/// <param name="termCode" type="String">System.String</param>
+/// <param name="degreeId" type="Number">System.Int32</param>
+/// <param name="forContextUser" type="Boolean">System.Boolean</param>
+/// <param name="courseTaken" type="Boolean">System.Boolean</param>
+/// <param name="getByCode" type="Boolean">System.Boolean</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'GetCourse',false,{id:id,termCode:termCode,degreeId:degreeId,forContextUser:forContextUser,courseTaken:courseTaken,getByCode:getByCode},succeededCallback,failedCallback,userContext); },
+GetCategory:function(code,succeededCallback, failedCallback, userContext) {
+/// <param name="code" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'GetCategory',false,{code:code},succeededCallback,failedCallback,userContext); },
+GetCourseEx:function(courseCode,termCode,degreeId,forContextUser,courseTaken,succeededCallback, failedCallback, userContext) {
+/// <param name="courseCode" type="String">System.String</param>
+/// <param name="termCode" type="String">System.String</param>
+/// <param name="degreeId" type="Number">System.Int32</param>
+/// <param name="forContextUser" type="Boolean">System.Boolean</param>
+/// <param name="courseTaken" type="Boolean">System.Boolean</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'GetCourseEx',false,{courseCode:courseCode,termCode:termCode,degreeId:degreeId,forContextUser:forContextUser,courseTaken:courseTaken},succeededCallback,failedCallback,userContext); }}
+PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
+PageMethods._staticInstance = new PageMethods();
+PageMethods.set_path = function(value) {
+PageMethods._staticInstance.set_path(value); }
+PageMethods.get_path = function() { 
+/// <value type="String" mayBeNull="true">The service url.</value>
+return PageMethods._staticInstance.get_path();}
+PageMethods.set_timeout = function(value) {
+PageMethods._staticInstance.set_timeout(value); }
+PageMethods.get_timeout = function() { 
+/// <value type="Number">The service timeout.</value>
+return PageMethods._staticInstance.get_timeout(); }
+PageMethods.set_defaultUserContext = function(value) { 
+PageMethods._staticInstance.set_defaultUserContext(value); }
+PageMethods.get_defaultUserContext = function() { 
+/// <value mayBeNull="true">The service default user context.</value>
+return PageMethods._staticInstance.get_defaultUserContext(); }
+PageMethods.set_defaultSucceededCallback = function(value) { 
+ PageMethods._staticInstance.set_defaultSucceededCallback(value); }
+PageMethods.get_defaultSucceededCallback = function() { 
+/// <value type="Function" mayBeNull="true">The service default succeeded callback.</value>
+return PageMethods._staticInstance.get_defaultSucceededCallback(); }
+PageMethods.set_defaultFailedCallback = function(value) { 
+PageMethods._staticInstance.set_defaultFailedCallback(value); }
+PageMethods.get_defaultFailedCallback = function() { 
+/// <value type="Function" mayBeNull="true">The service default failed callback.</value>
+return PageMethods._staticInstance.get_defaultFailedCallback(); }
+PageMethods.set_enableJsonp = function(value) { PageMethods._staticInstance.set_enableJsonp(value); }
+PageMethods.get_enableJsonp = function() { 
+/// <value type="Boolean">Specifies whether the service supports JSONP for cross domain calling.</value>
+return PageMethods._staticInstance.get_enableJsonp(); }
+PageMethods.set_jsonpCallbackParameter = function(value) { PageMethods._staticInstance.set_jsonpCallbackParameter(value); }
+PageMethods.get_jsonpCallbackParameter = function() { 
+/// <value type="String">Specifies the parameter name that contains the callback function name for a JSONP request.</value>
+return PageMethods._staticInstance.get_jsonpCallbackParameter(); }
+PageMethods.set_path("DegreeAudit.aspx");
+PageMethods.UpdateResource= function(pageId,resourceId,resourceType,newValue,onSuccess,onFailed,userContext) {
+/// <param name="pageId" type="String">System.String</param>
+/// <param name="resourceId" type="String">System.String</param>
+/// <param name="resourceType" type="Number">System.Int32</param>
+/// <param name="newValue" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.UpdateResource(pageId,resourceId,resourceType,newValue,onSuccess,onFailed,userContext); }
+PageMethods.GetResourceValue= function(pageId,resourceId,resourceType,onSuccess,onFailed,userContext) {
+/// <param name="pageId" type="String">System.String</param>
+/// <param name="resourceId" type="String">System.String</param>
+/// <param name="resourceType" type="Number">System.Int32</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.GetResourceValue(pageId,resourceId,resourceType,onSuccess,onFailed,userContext); }
+PageMethods.GetGrades= function(institutionId,onSuccess,onFailed,userContext) {
+/// <param name="institutionId" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.GetGrades(institutionId,onSuccess,onFailed,userContext); }
+PageMethods.GetTerms= function(institutionId,academicYearCode,onSuccess,onFailed,userContext) {
+/// <param name="institutionId" type="String">System.String</param>
+/// <param name="academicYearCode" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.GetTerms(institutionId,academicYearCode,onSuccess,onFailed,userContext); }
+PageMethods.GetCourseByID= function(id,termCode,degreeId,forContextUser,courseTaken,onSuccess,onFailed,userContext) {
+/// <param name="id" type="String">System.String</param>
+/// <param name="termCode" type="String">System.String</param>
+/// <param name="degreeId" type="Number">System.Int32</param>
+/// <param name="forContextUser" type="Boolean">System.Boolean</param>
+/// <param name="courseTaken" type="Boolean">System.Boolean</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.GetCourseByID(id,termCode,degreeId,forContextUser,courseTaken,onSuccess,onFailed,userContext); }
+PageMethods.GetCourse= function(id,termCode,degreeId,forContextUser,courseTaken,getByCode,onSuccess,onFailed,userContext) {
+/// <param name="id" type="String">System.String</param>
+/// <param name="termCode" type="String">System.String</param>
+/// <param name="degreeId" type="Number">System.Int32</param>
+/// <param name="forContextUser" type="Boolean">System.Boolean</param>
+/// <param name="courseTaken" type="Boolean">System.Boolean</param>
+/// <param name="getByCode" type="Boolean">System.Boolean</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.GetCourse(id,termCode,degreeId,forContextUser,courseTaken,getByCode,onSuccess,onFailed,userContext); }
+PageMethods.GetCategory= function(code,onSuccess,onFailed,userContext) {
+/// <param name="code" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.GetCategory(code,onSuccess,onFailed,userContext); }
+PageMethods.GetCourseEx= function(courseCode,termCode,degreeId,forContextUser,courseTaken,onSuccess,onFailed,userContext) {
+/// <param name="courseCode" type="String">System.String</param>
+/// <param name="termCode" type="String">System.String</param>
+/// <param name="degreeId" type="Number">System.Int32</param>
+/// <param name="forContextUser" type="Boolean">System.Boolean</param>
+/// <param name="courseTaken" type="Boolean">System.Boolean</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.GetCourseEx(courseCode,termCode,degreeId,forContextUser,courseTaken,onSuccess,onFailed,userContext); }
+var gtc = Sys.Net.WebServiceProxy._generateTypedConstructor;
+Type.registerNamespace('DeAc.DnPlus.Data.Entities');
+if (typeof(DeAc.DnPlus.Data.Entities.Grade) === 'undefined') {
+DeAc.DnPlus.Data.Entities.Grade=gtc("DeAc.DnPlus.Data.Entities.Grade");
+DeAc.DnPlus.Data.Entities.Grade.registerClass('DeAc.DnPlus.Data.Entities.Grade');
+}
+if (typeof(DeAc.DnPlus.Data.Entities.Term) === 'undefined') {
+DeAc.DnPlus.Data.Entities.Term=gtc("DeAc.DnPlus.Data.Entities.Term");
+DeAc.DnPlus.Data.Entities.Term.registerClass('DeAc.DnPlus.Data.Entities.Term');
+}
+Type.registerNamespace('DeAc.DnPlus.Web.Content.Default.Controls.DN.Audit');
+if (typeof(DeAc.DnPlus.Web.Content.Default.Controls.DN.Audit.CourseDetails) === 'undefined') {
+DeAc.DnPlus.Web.Content.Default.Controls.DN.Audit.CourseDetails=gtc("DeAc.DnPlus.Web.Content.Default.Controls.DN.Audit.CourseDetails");
+DeAc.DnPlus.Web.Content.Default.Controls.DN.Audit.CourseDetails.registerClass('DeAc.DnPlus.Web.Content.Default.Controls.DN.Audit.CourseDetails');
+}
+if (typeof(DeAc.DnPlus.Data.Entities.CategoryInfo) === 'undefined') {
+DeAc.DnPlus.Data.Entities.CategoryInfo=gtc("DeAc.DnPlus.Data.Entities.CategoryInfo");
+DeAc.DnPlus.Data.Entities.CategoryInfo.registerClass('DeAc.DnPlus.Data.Entities.CategoryInfo');
+}
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5CD18A6F" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAB9cM/Tm5Bm47B33BnAt/1qpDxmQWrWKfJ0VNJMEBtCqzQxqtQn/WQwzCnyLWpBM+CQe6hQEn67t9rprT89WzjPb1X/ZJMPSC6GhuGI3vSoJWmEhtjZz83ClM2Hu6OuFrAKMoG4MSAVEnUSuNpv9wChxLVjJNVIvMjj82c8/TwBjrb9MrO6s3H4A30T6NoUEjiNiG028ucSkQI8+TPIeoUC7u1qW+APfhYHN6sSnQm5fSq8XZkn8FT6zXq3cMMu3FoGnhFvMDjvYFP8/fRRqvlsz1Xy97WBUgkuskhqAFtkfDlnVCLFd3Ksk4CJFW/J0QDNG+kcT3yHAVKSQG8tANuwabiw6IXiXQzPseUOqsGQ4LgGljlFnVCB6C9lnRqTYDK7UrKP/MtavGrgaf/hrbT/xpwHHJXOUCscAm7U/NqKkk9HCxmFBm9BALYE3Ng9c0aiVVOEHy7PFXscuRaYgw5TpkCJufxJLIK6jvlwxwah+mjEWnfsyP5cyLlhIapz/+t0t9Fqesdajj3LOg4xcasGff5AtWpfHy7yQbERkg4HOXha2y9DU70qMKT9/bjudOxOEMY/YEls56mRLv3a6QtLDQyyuCcAdGgRe6Rnw+D2fh04iN5xP5MloWnj+EZprlblUX5luGg0iBTqLiGgUoFPp0akShGLznX60nwyc+jzAiipfJLu5/UOe7qv2Q/vQ3ss=" />
+</div>
+			<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$scriptMgr', 'aspnetForm', ['tctl00$widgcon_studentlookup$widgetHeaderUpdatePanel','','tctl00$widgcon_studentlookup$widget_studentlookup$planUpdatePanel','','tctl00$widgcon_PlannedCourses$widgetHeaderUpdatePanel','','tctl00$widgcon_PlannedCourses$widget_PlannedCourses$planUpdatePanel',''], [], [], 360000, 'ctl00');
+//]]>
+</script>
+
+			<div style="text-align: center;">
+			<table id="outertable" cellpadding="0" cellspacing="0" border="0">
+			<tr><td id="outertd">
+				<table style="width: 100%" cellpadding="0" cellspacing="0">
+					<tr>
+						<td id="barleft" nowrap="nowrap">&nbsp;</td>
+						<td width="100%">
+							<table id="content" style="width: 100%;" cellpadding="0" cellspacing="0">
+								<tbody>
+									<tr><td>
+										<div id="ctl00_header" class="header">
+
+<div class="HeaderTop">
+	<p class="RightHeaderLinks">
+		<span id="ctl00_ctl13_welcomeLabel" class="HeaderLabel">Welcome </span><span id="ctl00_ctl13_nameLabel" class="HeaderLabel">AKASH DUBEY</span>
+		<span id="ctl00_ctl13_helpSeparator" class="HeaderSeparator">|</span><a id="ctl00_ctl13_helpLink" title="Click here for help." class="HeaderLink" href="../../Help/index_stu.html" target="_blank">Help</a>
+		
+		<span class="HeaderSeparator">|</span><a id="ctl00_ctl13_logoutButton" title="Click here to logout." class="HeaderLink" href="../../Logout.aspx?pageid=logout">Logout<br></a>
+	</p>
+	<div class="Clear"></div>
+</div>
+<div>
+	<div class="HeaderLogo">
+		<img id="ctl00_ctl13_logoImage" src="/App_Themes/Rutgers/Images/RUTGERS_H_RED_BLACK_RGB.png" alt="Rutgers, the State University of New Jersey" />
+	</div>
+	
+</div>
+<div class="Clear"></div>
+
+
+<div class="MenuDiv">
+	<a href="#ctl00_ctl13_ctl02_tabMenu_SkipLink" style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Skip Navigation Links</a><table id="ctl00_ctl13_ctl02_tabMenu" class="TabMenu ctl00_ctl13_ctl02_tabMenu_2" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ctl13_ctl02_tabMenun0"><table class="TabMenuItem ctl00_ctl13_ctl02_tabMenu_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_ctl13_ctl02_tabMenu_1 TabMenuItem ctl00_ctl13_ctl02_tabMenu_3" href="../../Home.aspx?pageid=default" style="border-style:none;font-size:1em;">Home</a></td>
+			</tr>
+		</table></td><td style="width:3px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ctl13_ctl02_tabMenun1"><table class="TabMenuItem ctl00_ctl13_ctl02_tabMenu_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_ctl13_ctl02_tabMenu_1 TabMenuItem ctl00_ctl13_ctl02_tabMenu_3" href="Audit.aspx?pageid=AuditMenu" style="border-style:none;font-size:1em;">Search</a></td>
+			</tr>
+		</table></td>
+	</tr>
+</table><a id="ctl00_ctl13_ctl02_tabMenu_SkipLink"></a>
+</div>
+
+<div class="SubTabDiv">
+	
+</div>
+
+</div>
+									</td></tr>
+									<tr><td>
+										<table style="width: 100%;table-layout: fixed;" cellpadding="0" cellspacing="6">
+											<tbody>
+												<tr>
+													<td id="ctl00_left" nowrap="nowrap" align="left" class="left">
+														<div id="ctl00_leftPanel" class="widgetholder">
+	
+														<div widginstid="login" widginstid="studentlookup" id="ctl00_widgcon_studentlookup_widget" class="widget">
+		        
+  <div id="ctl00_widgcon_studentlookup_widgetHeader" class="widgetheader">
+			
+		<div id="ctl00_widgcon_studentlookup_widgetHeaderUpdatePanel">
+				
+				<table class="widgetheadertable" cellspacing="0" cellpadding="0">
+					<tbody>
+						<tr>
+							<td class="widgettitle"><span id="ctl00_widgcon_studentlookup_widgetTitleLabel" class="DeAcLabel">My Details</span></td>
+							<td class="widgetedit" nowrap="nowrap"></td>
+							<td class="widgetbutton" nowrap="nowrap" style="display: none;"><a id="ctl00_widgcon_studentlookup_collapseWidgetLinkButton" class="widgetverb" href="javascript:__doPostBack(&#39;ctl00$widgcon_studentlookup$collapseWidgetLinkButton&#39;,&#39;&#39;)">[-]</a></td>
+							<td class="widgetbutton" nowrap="nowrap" style="display: none;"><a id="ctl00_widgcon_studentlookup_closeWidgetLinkButton" class="widgetverb" href="javascript:__doPostBack(&#39;ctl00$widgcon_studentlookup$closeWidgetLinkButton&#39;,&#39;&#39;)">[x]</a></td>
+						</tr>
+					</tbody>
+				</table>
+		
+			</div>
+	
+		</div>
+	<div class="widgetcontent">
+		<div id="ctl00_widgcon_studentlookup_widgetBodyPanel" class="widgetbody">
+			
+
+<div id="ctl00_widgcon_studentlookup_widget_studentlookup_ContextUserPanel" style="font-weight:bold;">
+				
+	<span id="ctl00_widgcon_studentlookup_widget_studentlookup_ContextUserLabel" class="LabelLoadedStudentName">AKASH DUBEY (232000427)</span><br />
+
+	<span id="ctl00_widgcon_studentlookup_widget_studentlookup_lblschool" class="DeAcLabel" style="font-weight:bold;display:block; padding-top: 1px; padding-bottom: 1px;">School Code:</span>
+	<span id="ctl00_widgcon_studentlookup_widget_studentlookup_ContextSchoolLabel" class="DeAcLabel" style="font-weight:normal;display:block;padding-top: 1px; padding-bottom: 4px;">01 (School of Arts & Sciences)</span>
+
+	<span id="ctl00_widgcon_studentlookup_widget_studentlookup_lblYear" class="DeAcLabel" style="font-weight:bold;display:block;padding-top: 1px; padding-bottom: 1px;">Year Of Graduation:</span>
+	<span id="ctl00_widgcon_studentlookup_widget_studentlookup_ContextYearLabel" class="DeAcLabel" style="font-weight:normal;display:block;padding-top: 1px; padding-bottom: 4px;">28</span>
+
+	<span id="ctl00_widgcon_studentlookup_widget_studentlookup_lblMonth" class="DeAcLabel" style="font-weight:bold;display:block;padding-top: 1px; padding-bottom: 1px;">Month Of Graduation:</span>
+	<span id="ctl00_widgcon_studentlookup_widget_studentlookup_ContextMonthLabel" class="DeAcLabel" style="font-weight:normal;display:block;padding-top: 1px; padding-bottom: 4px;">May</span>
+
+	<span id="ctl00_widgcon_studentlookup_widget_studentlookup_lblNet" class="DeAcLabel" style="font-weight:bold;display:block;padding-top: 1px; padding-bottom: 1px;">NetID:</span>
+	<span id="ctl00_widgcon_studentlookup_widget_studentlookup_ContextNetLabel" class="DeAcLabel" style="font-weight:normal;display:block;padding-top: 1px; padding-bottom: 4px;">ad2046</span>
+
+	
+	<a id="ctl00_widgcon_studentlookup_widget_studentlookup_studentMyNotesLink" class="DeAcLabel" href="../../TN/Common/MyNotes.aspx?pageid=mynotes" style="display:block;margin-top:2px"><img src="/App_Themes/Rutgers/Images/note.gif" alt="My Notes" style="vertical-align:middle;padding-right:2px;" />All My Notes</a>
+
+	
+	
+	
+		<hr />
+		<span id="ctl00_widgcon_studentlookup_widget_studentlookup_degreeLabel" class="DeAcLabelBold">My Degree<br></span>
+		<ul class="ConsoleList">
+			
+			<li>
+				<a id="ctl00_widgcon_studentlookup_widget_studentlookup_degreesLink" href="MyDegrees.aspx?pageid=MyDegrees">My Programs of Study<br></a><a id="ctl00_widgcon_studentlookup_widget_studentlookup_expandStudentDegreesLink" class="CollapseLink">[+]</a><input type="hidden" name="ctl00$widgcon_studentlookup$widget_studentlookup$expandedStudentDegreesHidden" id="ctl00_widgcon_studentlookup_widget_studentlookup_expandedStudentDegreesHidden" /><div id="ctl00_widgcon_studentlookup_widget_studentlookup_listStudentDegreesDiv" style="margin-left: 12px" class="Hidden">
+					
+							<ul class="ConsoleList">
+						
+							<li><a id="ctl00_widgcon_studentlookup_widget_studentlookup_studentDegreesRepeater_ctl01_studentDegreeLink" href="javascript:__doPostBack(&#39;ctl00$widgcon_studentlookup$widget_studentlookup$studentDegreesRepeater$ctl01$studentDegreeLink&#39;,&#39;&#39;)">Minor in Quantitative Economics (NB) (NB221N)</a></li>
+						
+							<li><a id="ctl00_widgcon_studentlookup_widget_studentlookup_studentDegreesRepeater_ctl02_studentDegreeLink" href="javascript:__doPostBack(&#39;ctl00$widgcon_studentlookup$widget_studentlookup$studentDegreesRepeater$ctl02$studentDegreeLink&#39;,&#39;&#39;)">The SAS Core Curriculum (NB) (01)</a></li>
+						
+							<li><a id="ctl00_widgcon_studentlookup_widget_studentlookup_studentDegreesRepeater_ctl03_studentDegreeLink" href="javascript:__doPostBack(&#39;ctl00$widgcon_studentlookup$widget_studentlookup$studentDegreesRepeater$ctl03$studentDegreeLink&#39;,&#39;&#39;)">Major in Mathematics (NB) (NB640J)</a></li>
+						
+							<li><a id="ctl00_widgcon_studentlookup_widget_studentlookup_studentDegreesRepeater_ctl04_studentDegreeLink" href="javascript:__doPostBack(&#39;ctl00$widgcon_studentlookup$widget_studentlookup$studentDegreesRepeater$ctl04$studentDegreeLink&#39;,&#39;&#39;)">Honors College-SAS (NBHC01H)</a></li>
+						
+							</ul>
+						
+				</div>
+			</li>
+
+			<li id="ctl00_widgcon_studentlookup_widget_studentlookup_coursePlanListItem" class="planlistitem">
+				<div id="ctl00_widgcon_studentlookup_widget_studentlookup_planUpdatePanel">
+					
+
+					<a id="ctl00_widgcon_studentlookup_widget_studentlookup_coursePlanLink" href="ManageCoursePlan.aspx?pageid=ManageCoursePlan">My Planned Courses</a>
+				
+					
+					<input type="hidden" name="ctl00$widgcon_studentlookup$widget_studentlookup$expandedCoursePlanHidden" id="ctl00_widgcon_studentlookup_widget_studentlookup_expandedCoursePlanHidden" />
+					
+						
+					
+				</div>
+			</li>
+
+			<li>
+				<a id="ctl00_widgcon_studentlookup_widget_studentlookup_transcriptLink" href="../Transcript.aspx?pageid=mytranscript">My Course List<br></a>
+			</li>
+		</ul>
+	
+	
+
+			</div>
+
+<style>
+li.planlistitem > div {
+	display: inline;
+}
+span.courseplancount {
+	padding-left: 4px;
+}
+</style>
+
+<script type="text/javascript">
+Sys.Application.add_load(initStudentLinks);
+
+function initStudentLinks() {
+	initStudentDegreesLink();
+	initStudentCoursePlanLink();
+}
+
+function initStudentCoursePlanLink() {
+	var link = $get('ctl00_widgcon_studentlookup_widget_studentlookup_expandCoursePlanLink');
+	if (link != null)
+		$addHandler(link, 'click', showHideCoursePlanCourses);
+}
+
+function showHideCoursePlanCourses(e) {
+	var div = $get('ctl00_widgcon_studentlookup_widget_studentlookup_listCoursePlanDiv');
+	
+	if (Sys.UI.DomElement.containsCssClass(div, 'Hidden')) {
+		$j.cookie('StudentCoursePlanList', '1', { path: "/" });
+		$j(e.target).text('[-]');
+		$j(div).show();
+	} else {
+		$j.cookie('StudentCoursePlanList', '0', { path: "/" });
+		$j(e.target).text('[+]');
+		$j(div).hide();
+	}
+
+	Sys.UI.DomElement.toggleCssClass(div, 'Hidden');
+}
+
+function initStudentDegreesLink() {
+	var link = $get('ctl00_widgcon_studentlookup_widget_studentlookup_expandStudentDegreesLink');
+	if (link != null)
+		$addHandler(link, 'click', showHideStudentDegrees);
+}
+
+function showHideStudentDegrees(e){
+	var div = $get('ctl00_widgcon_studentlookup_widget_studentlookup_listStudentDegreesDiv');
+
+	if (Sys.UI.DomElement.containsCssClass(div, 'Hidden')) {
+		$j.cookie('StudentDegreesList', '1', { path: "/" });
+		$j(e.target).text('[-]');
+		$j(div).show();
+	} else {
+		$j.cookie('StudentDegreesList', '0', { path: "/" });
+		$j(e.target).text('[+]');
+		$j(div).hide();
+	}
+
+	Sys.UI.DomElement.toggleCssClass(div, 'Hidden');
+}
+</script>
+		</div>
+	</div>
+
+	</div>
+
+<div widginstid="mycart" widginstid="PlannedCourses" id="ctl00_widgcon_PlannedCourses_widget" class="widget">
+		        
+  <div id="ctl00_widgcon_PlannedCourses_widgetHeader" class="widgetheader">
+			
+		<div id="ctl00_widgcon_PlannedCourses_widgetHeaderUpdatePanel">
+				
+				<table class="widgetheadertable" cellspacing="0" cellpadding="0">
+					<tbody>
+						<tr>
+							<td class="widgettitle"><span id="ctl00_widgcon_PlannedCourses_widgetTitleLabel" class="DeAcLabel">My Planned Courses</span></td>
+							<td class="widgetedit" nowrap="nowrap"></td>
+							<td class="widgetbutton" nowrap="nowrap" style="display: none;"><a id="ctl00_widgcon_PlannedCourses_collapseWidgetLinkButton" class="widgetverb" href="javascript:__doPostBack(&#39;ctl00$widgcon_PlannedCourses$collapseWidgetLinkButton&#39;,&#39;&#39;)">[-]</a></td>
+							<td class="widgetbutton" nowrap="nowrap" style="display: none;"><a id="ctl00_widgcon_PlannedCourses_closeWidgetLinkButton" class="widgetverb" href="javascript:__doPostBack(&#39;ctl00$widgcon_PlannedCourses$closeWidgetLinkButton&#39;,&#39;&#39;)">[x]</a></td>
+						</tr>
+					</tbody>
+				</table>
+		
+			</div>
+	
+		</div>
+	<div class="widgetcontent">
+		<div id="ctl00_widgcon_PlannedCourses_widgetBodyPanel" class="widgetbody">
+			<div id="ctl00_widgcon_PlannedCourses_widget_PlannedCourses_planUpdatePanel">
+				
+		<div>
+			
+			<a id="ctl00_widgcon_PlannedCourses_widget_PlannedCourses_coursePlanLink" href="ManageCoursePlan.aspx?pageid=ManageCoursePlan">You have 0 courses in your course plan.</a>
+			<input type="hidden" name="ctl00$widgcon_PlannedCourses$widget_PlannedCourses$expandedHidden" id="ctl00_widgcon_PlannedCourses_widget_PlannedCourses_expandedHidden" />
+		</div>
+		
+	
+			</div>
+
+<script type="text/javascript">
+Sys.Application.add_load(InitLink);
+
+function InitLink(){
+	var link = $get('ctl00_widgcon_PlannedCourses_widget_PlannedCourses_expandLink');
+	if (link != null)
+		$addHandler(link,'click',showHideCourses);
+}
+
+function showHideCourses(e){
+	var div = $get('ctl00_widgcon_PlannedCourses_widget_PlannedCourses_listDiv');
+	var hidden = $get('ctl00_widgcon_PlannedCourses_widget_PlannedCourses_expandedHidden');
+	
+	if (Sys.UI.DomElement.containsCssClass(div,'Hidden')){
+		$j.cookie('PlannedCourseCart', '1', { path: "/" });
+		$j(e.target).text('[-]');
+		$j(div).show();
+	} else {
+		$j.cookie('PlannedCourseCart', '0', { path: "/" });
+		$j(e.target).text('[+]');
+		$j(div).hide();
+	}
+	Sys.UI.DomElement.toggleCssClass(div,'Hidden');
+}
+</script>
+		</div>
+	</div>
+
+	</div>
+
+
+</div>
+													</td>
+
+													<td id="ctl00_main" align="left" class="main">
+														<div id="ctl00_contentTitle" class="ContentTitle">
+															<span widginstid="transferusersummary" widginstid="degreelinks" id="ctl00_title" class="DeAcLabel">Degree Audit</span>
+														</div>
+														
+
+<style>
+	div.ReportSection a:link, a:visited, .anchor {
+      	text-decoration: underline;
+        }
+</style>
+
+  <div class="PrintHidden">
+  
+  </div>
+ 	
+ 			<div class="PrintHidden">
+		  
+			<p id="ctl00_mainContent_topLinks" class="DeAcLabel">
+				Below you can view the program description.  If available, you can view different audit reports by selecting the Audit Report Type from the list.&nbsp;
+				<a id="ctl00_mainContent_myDegreesLink" href="MyDegrees.aspx?pageid=MyDegrees">Click here to audit against another of your degrees.</a>&nbsp;
+				<a id="ctl00_mainContent_searchDegreesLink" href="ViewDegrees.aspx?pageid=DNViewDegrees">Click here to search all available degrees.</a>
+			</p><table id="ctl00_mainContent_mainTable" class="DeAcForm">
+	<tr>
+		<td class="FormLabel"><span id="ctl00_mainContent_degreeLabel" class="DeAcLabel">Program:</span></td>
+		<td>
+						<span id="ctl00_mainContent_selectedDegreeLabel" class="DeAcLabel">Major in Chemistry - Traditional Chemistry Program (CA)</span>
+					</td>
+	</tr>
+	<tr>
+		<td class="FormLabel"><span id="ctl00_mainContent_versionLabel" class="DeAcLabel">Version Start Term:</span></td>
+		<td>
+						<span id="ctl00_mainContent_degreeVersionLabel" class="DeAcLabel">Fall 2003</span>
+						
+					</td>
+	</tr>
+	<tr>
+		<td class="FormLabel"><span id="ctl00_mainContent_reportTypeLabel" class="DeAcLabel">Audit Report Type:</span></td>
+		<td>
+						<select name="ctl00$mainContent$ddlSelectReportStyle" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$mainContent$ddlSelectReportStyle\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_mainContent_ddlSelectReportStyle" class="DeAcDropDownList">
+			<option value="DegreeDescription">Program Description</option>
+			<option selected="selected" value="FullAuditWithCourseStatusReport">Full Audit Report</option>
+			<option value="FullAuditWithExceptions">Full Audit Report with Exceptions</option>
+			<option value="ProgramStatusAuditReport">Program of Studies Audit</option>
+			<option value="DegreeDescriptionWithCourseStatus">Course Status Report</option>
+			<option value="OutstandingRequirementsReport">Incomplete Requirements Report</option>
+			<option value="FullAuditWithExceptions">Audit - Full Report With Exceptions</option>
+
+		</select>&nbsp;
+						
+					</td>
+	</tr>
+</table>
+
+		</div>
+		
+		<p class="PrintLink" style="margin-top: 0.5em;">
+		    <a id="ctl00_mainContent_printLink" class="DeAcLabel" onclick="window.print();" href="javascript:;"><img src="/App_Themes/Rutgers/Images/Print.gif" alt="Print" style="vertical-align:middle;padding-right:2px;" />Print</a>
+		    &nbsp;
+		    <a id="ctl00_mainContent_StudentExceptionLink" class="DeAcLabel"></a> 
+        </p>
+		<div id="ctl00_mainContent_ctl13_panReportHeader" class="ReportSection">
+	
+	<div class="DeAcCollapsibleCategory ReportHeader" onclick="return ShowHideRequirements('ctl00_mainContent_ctl13_m_tabReportHeaderEntries', this);">
+		<h1 class="headerOne"><a href="javascript: void(0);" class="CollapseLink">[-]</a>
+		<span id="ctl00_mainContent_ctl13_m_labReportHeader" class="DeAcLabel">Full Audit Report</span></h1>
+	</div>
+	<table id="ctl00_mainContent_ctl13_m_tabReportHeaderEntries" class="ReportGridItemB ReportGrid">
+		<tr>
+			<td><H2 style="font-size:11px;">Rutgers, the State University of New Jersey</H2></td>
+		</tr><tr>
+			<td><span id="ctl00_mainContent_ctl13_m_LabHeaderDisclaimer" class="LabelHeaderDisclaimer">"What If" Audit. Degree Navigator is an advising tool designed to help students make informed decisions regarding their academic progress, however, students are strongly encouraged to meet with an adviser to obtain clarification of their degree requirements. Your Degree Navigator report will help you to forecast degree completion and is intended for planning purposes only. The Degree Navigator report is not an official transcript of your academic record, nor does it constitute a contract between you and Rutgers, the State University of New Jersey. Verification of college and degree requirements can only be certified by an academic adviser.</span></td>
+		</tr><tr>
+			<td><H2 style="font-size:11px;"><b>Date:&nbsp;&nbsp;February 17 2025</b></H2></td>
+		</tr><tr>
+			<td><H2 style="font-size:11px;"><b>AKASH DUBEY</b></H2></td>
+		</tr><tr>
+			<td><H2 style="font-size:11px;font-weight:Normal;"><b>Student RUID:</b>&nbsp;&nbsp;232000427</H2></td>
+		</tr><tr>
+			<td><H2 style="font-size:11px;font-weight:Normal;"><b>Report for Subject:</b>&nbsp;&nbsp;Major in Chemistry - Traditional Chemistry Program (CA) (Fall 2003)</H2></td>
+		</tr><tr>
+			<td><H2 style="font-size:11px;font-weight:Normal;"><b>Completed Credits (including current and planned courses):</b>  81 of 81</H2><H2 style="font-size:11px;font-weight:Normal;"><b>Completed Requirements:</b>&nbsp;&nbsp;1 of 6</H2></td>
+		</tr>
+	</table>
+
+</div>
+<div id="ctl00_mainContent_ctl13_panLegend" class="ReportSection">
+	
+	<div class="DeAcCollapsibleCategory ReportHeader" onclick="return ShowHideRequirements('ctl00_mainContent_ctl13_legendTable', this);">
+		<h1 class="headerOne"><a href="javascript: void(0);" class="CollapseLink">[-]</a>
+		<span id="ctl00_mainContent_ctl13_m_labLegend" class="DeAcLabel">Legend</span></h1>	
+	</div>
+	<table id="ctl00_mainContent_ctl13_legendTable" class="ReportGrid">
+		<tr>
+			<td>
+		    <div id="legendDisclaimerDiv" style="width: 100%;">
+		        <table id="ctl00_mainContent_ctl13_m_legendDisclaimer">
+				<tr>
+					<td><span id="ctl00_mainContent_ctl13_m_LabLegendSchoolName" class="DeAcLabel"></span></td>
+				</tr><tr>
+					<td><span id="ctl00_mainContent_ctl13_m_LabLegendDisclaimer" class="DeAcLabel"></span></td>
+				</tr>
+			</table>
+		    </div> 
+				<div id="courseLegendDiv" style="float:left; width: 49%;">
+				    <h2 class="headerTwo"><span id="ctl00_mainContent_ctl13_m_labCourseLegend" class="LabelCourseLegend" style="font-weight:bold;">Course Legend</span></h2>
+				    <table id="ctl00_mainContent_ctl13_m_courseUsedCourseLegend">
+				<tr>
+					<td><img id="ctl00_mainContent_ctl13_ctl04" src="/App_Themes/Rutgers/Images/Audit/check.gif" alt="Fulfilled" /></td><td><span id="ctl00_mainContent_ctl13_m_LabFulfilledCourse" class="DeAcLabel"><i>Indicates course has been successfully completed<br></i></span></td>
+				</tr><tr>
+					<td><img id="ctl00_mainContent_ctl13_ctl05" src="/App_Themes/Rutgers/Images/Audit/course_cur.gif" alt="Current" /></td><td><span id="ctl00_mainContent_ctl13_m_LabCurrentCourse" class="DeAcLabel"><i>Indicates course is currently in progress<br></i></span></td>
+				</tr><tr>
+					<td><img id="ctl00_mainContent_ctl13_ctl06" src="/App_Themes/Rutgers/Images/Audit/course_pl_Square.gif" alt="Planned" /></td><td><span id="ctl00_mainContent_ctl13_m_LabInCoursePlanCourse" class="DeAcLabel"><i>Indicates course is in the course plan</i></span></td>
+				</tr>
+			</table>
+				</div>
+				 <div id="requirementLegendDiv" style="float:right; width: 49%;">
+				    <h2 class="headerTwo"><span id="ctl00_mainContent_ctl13_m_labRequirementLegend" class="LabelRequirementLegend" style="font-weight:bold;">Requirement Legend</span></h2>
+				    <table id="ctl00_mainContent_ctl13_m_courseUsedRequirementLegend">
+				<tr>
+					<td><img id="ctl00_mainContent_ctl13_ctl07" src="/App_Themes/Rutgers/Images/Audit/check.gif" alt="Completed" /></td><td><span id="ctl00_mainContent_ctl13_m_LabRequirementComplete" class="DeAcLabel"><i>Indicates requirement has been fulfilled</i></span></td>
+				</tr><tr>
+					<td><img id="ctl00_mainContent_ctl13_ctl08" src="/App_Themes/Rutgers/Images/Audit/x.gif" alt="Incomplete" /></td><td><span id="ctl00_mainContent_ctl13_m_LabRequirementIncomplete" class="DeAcLabel"><i>Indicates requirement has not been fulfilled</i></span></td>
+				</tr><tr>
+					<td><img id="ctl00_mainContent_ctl13_ctl09" src="/App_Themes/Rutgers/Images/Audit/doubletilde.gif" alt="In Progress or Planned" /></td><td><span id="ctl00_mainContent_ctl13_m_LabRequirementInProgress" class="DeAcLabel"><i>Indicates requirement will be fulfilled with successful completion of in-progress or planned courses</i></span></td>
+				</tr>
+			</table>
+				 </div>
+			</td>
+		</tr>
+	</table>
+	
+
+</div>
+<div id="ctl00_mainContent_ctl13_panVizRequirements" class="ReportSection">
+	
+	<div class="DeAcCollapsibleCategory ReportHeader" onclick="return ShowHideRequirements('ctl00_mainContent_ctl13_gridVisualReqs', this);">
+		<h1 class="headerOne"><a href="javascript: void(0);" class="CollapseLink">[-]</a>
+		<span id="ctl00_mainContent_ctl13_m_labRequirementHeader" class="DeAcLabel">Requirements</span></h1>
+	</div>
+	<table class="ReportGrid" cellspacing="0" cellpadding="0" rules="all" border="1" id="ctl00_mainContent_ctl13_gridVisualReqs" style="border-collapse:collapse;">
+		<tr class="ReportGridItemA">
+			<td>
+					<table class="report" cellspacing="1" cellpadding="1">
+				<tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td><H2 style="font-size:11px;"><img id="ctl00_mainContent_ctl13_gridVisualReqs_ctl02_ctl03" src="/App_Themes/Rutgers/Images/Audit/x.gif" alt="Incomplete" /><span class="DeAcLabel"><b>Requirement</b></span><span class="DeAcLabel"><a name=R1 id=R1><b> R1 : Chemistry Courses</b></a></span><span class="DeAcLabel"><b> - Types: Major</b></span></H2></td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr>
+									<td style="width:20px;">&nbsp;</td><td><table>
+										<tr style="height:0px;">
+											<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R1 id=R1><b> R1 : Chemistry Courses</b></a> - Status</H3></td>
+										</tr><tr>
+											<td class="paraheading1_2">Total Credits:  </td><td>39</td>
+										</tr><tr>
+											<td class="paraheading1_2">Completed:  </td><td>0</td>
+										</tr><tr>
+											<td class="paraheading1_2">Needs:  </td><td class="report_need">39 more credits are needed to satisfy this requirement.</td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td><table class="requirement_body" cellspacing="1" cellpadding="1">
+						<tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr>
+									<td valign="top" style="white-space:nowrap;">All of </td><td><span class="DeAcLabel">{</span><a title="Chemical Principles I (R) (CA)" href="javascript:ViewCourseByID(&quot;31138&quot;,&quot;&quot;, true, false);">50:160:115</a><span class="DeAcLabel">, </span><a title="Chemical Principles Laboratory I (R) (CA)" href="javascript:ViewCourseByID(&quot;31140&quot;,&quot;&quot;, true, false);">50:160:125</a><span class="DeAcLabel">, </span><a title="Chemical Principles II (R) (CA)" href="javascript:ViewCourseByID(&quot;31139&quot;,&quot;&quot;, true, false);">50:160:116</a><span class="DeAcLabel">, </span><a title="Chemical Principles Laboratory II (R) (CA)" href="javascript:ViewCourseByID(&quot;31141&quot;,&quot;&quot;, true, false);">50:160:126</a><span class="DeAcLabel">, </span><a title="Analytical Chemistry (CA)" href="javascript:ViewCourseByID(&quot;31144&quot;,&quot;&quot;, true, false);">50:160:325</a><span class="DeAcLabel">, </span><a title="Analytical Chem Lab I  (CA)" href="javascript:ViewCourseByID(&quot;31146&quot;,&quot;&quot;, true, false);">50:160:329</a><span class="DeAcLabel">, </span><a title="Instrumental Analysis (CA)" href="javascript:ViewCourseByID(&quot;31145&quot;,&quot;&quot;, true, false);">50:160:326</a><span class="DeAcLabel">, </span><a title="Instrum Analysis Lab (CA)" href="javascript:ViewCourseByID(&quot;31147&quot;,&quot;&quot;, true, false);">50:160:330</a><span class="DeAcLabel">, </span><a title="Organic Chemistry I (CA)" href="javascript:ViewCourseByID(&quot;31148&quot;,&quot;&quot;, true, false);">50:160:335</a><span class="DeAcLabel">, </span><a title="Organic Chemistry Laboratory I (CA)" href="javascript:ViewCourseByID(&quot;31150&quot;,&quot;&quot;, true, false);">50:160:339</a><span class="DeAcLabel">, </span><a title="Organic Chemistry II (CA)" href="javascript:ViewCourseByID(&quot;31149&quot;,&quot;&quot;, true, false);">50:160:336</a><span class="DeAcLabel">, </span><a title="Organic Chemistry Laboratory II (CA)" href="javascript:ViewCourseByID(&quot;31151&quot;,&quot;&quot;, true, false);">50:160:340</a><span class="DeAcLabel">, </span><a title="Structure and Bonding (CA)" href="javascript:ViewCourseByID(&quot;31152&quot;,&quot;&quot;, true, false);">50:160:343</a><span class="DeAcLabel">, </span><a title="Physical Chemistry I (CA)" href="javascript:ViewCourseByID(&quot;31153&quot;,&quot;&quot;, true, false);">50:160:345</a><span class="DeAcLabel">, </span><a title="Physical Chemistry Laboratory (CA)" href="javascript:ViewCourseByID(&quot;31155&quot;,&quot;&quot;, true, false);">50:160:347</a><span class="DeAcLabel">, </span><a title="Physical Chemistry (CA)" href="javascript:ViewCourseByID(&quot;31154&quot;,&quot;&quot;, true, false);">50:160:346</a><span class="DeAcLabel">, </span><a title="Physical Chemistry Laboratory (CA)" href="javascript:ViewCourseByID(&quot;31156&quot;,&quot;&quot;, true, false);">50:160:348</a><span class="DeAcLabel">, </span><a title="Competence in Chemistry (CA)" href="javascript:ViewCourseByID(&quot;31200&quot;,&quot;&quot;, true, false);">50:160:491</a><span class="DeAcLabel">, </span><a title="Competence in Chemistry (CA)" href="javascript:ViewCourseByID(&quot;31201&quot;,&quot;&quot;, true, false);">50:160:492</a><span class="DeAcLabel">}</span></td><td>(Total = 39 credits)</td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b><b> V1 : Chemistry Courses</b> - </H3></td>
+								</tr><tr>
+									<td colspan="2"><span class="DeAcLabel"><b>Completed Courses:</b></span></td>
+								</tr><tr>
+									<td><span class="DeAcLabel">None</span></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table>
+
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+				</td>
+		</tr><tr class="ReportGridItemB">
+			<td>
+					<table class="report" cellspacing="1" cellpadding="1">
+				<tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td><H2 style="font-size:11px;"><img id="ctl00_mainContent_ctl13_gridVisualReqs_ctl03_ctl03" src="/App_Themes/Rutgers/Images/Audit/x.gif" alt="Incomplete" /><span class="DeAcLabel"><b>Requirement</b></span><span class="DeAcLabel"><a name=R2 id=R2><b> R2 : Advanced Chemistry Electives</b></a></span></H2></td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr>
+									<td style="width:20px;">&nbsp;</td><td><table>
+										<tr style="height:0px;">
+											<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R2 id=R2><b> R2 : Advanced Chemistry Electives</b></a> - Status</H3></td>
+										</tr><tr>
+											<td class="paraheading1_2">Total Courses:  </td><td>2</td>
+										</tr><tr>
+											<td class="paraheading1_2">Completed:  </td><td>0</td>
+										</tr><tr>
+											<td class="paraheading1_2">Needs:  </td><td class="report_need">2 more courses are needed to satisfy this requirement.</td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td><table class="requirement_body" cellspacing="1" cellpadding="1">
+						<tr>
+							<td><table>
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R2 id=R2><b> R2 : Advanced Chemistry Electives</b></a> - Description</H3></td>
+								</tr><tr>
+									<td>A total of 2 courses from <span class="DeAcLabel">{</span><a title="General Biochemistry I (CA)" href="javascript:ViewCourseByID(&quot;30961&quot;,&quot;&quot;, true, false);">50:115:403</a><span class="DeAcLabel">, </span><a title="General Biochemistry II (CA)" href="javascript:ViewCourseByID(&quot;30962&quot;,&quot;&quot;, true, false);">50:115:404</a><span class="DeAcLabel">, </span><a title="Chemistry Courses 400 level" href="javascript: ShowCategory(&#39;ca160_Chemistry_400_level&#39;);">Chemistry Courses 400 level</a><span class="DeAcLabel">}</span></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b><b> V2 : Advanced Chemistry Electives</b> - </H3></td>
+								</tr><tr>
+									<td colspan="2"><span class="DeAcLabel"><b>Completed Courses:</b></span></td>
+								</tr><tr>
+									<td><span class="DeAcLabel">None</span></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table>
+
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+				</td>
+		</tr><tr class="ReportGridItemA">
+			<td>
+					<table class="report" cellspacing="1" cellpadding="1">
+				<tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td><H2 style="font-size:11px;"><img id="ctl00_mainContent_ctl13_gridVisualReqs_ctl04_ctl03" src="/App_Themes/Rutgers/Images/Audit/x.gif" alt="Incomplete" /><span class="DeAcLabel"><b>Requirement</b></span><span class="DeAcLabel"><a name=R3 id=R3><b> R3 : Laboratory Courses</b></a></span><span class="DeAcLabel"><b> - Types: Major</b></span></H2></td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr>
+									<td style="width:20px;">&nbsp;</td><td><table>
+										<tr style="height:0px;">
+											<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R3 id=R3><b> R3 : Laboratory Courses</b></a> - Status</H3></td>
+										</tr><tr>
+											<td class="paraheading1_2">Total Courses:  </td><td>1</td>
+										</tr><tr>
+											<td class="paraheading1_2">Completed:  </td><td>0</td>
+										</tr><tr>
+											<td class="paraheading1_2">Needs:  </td><td class="report_need">1 more course is needed to satisfy this requirement.</td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td><table class="requirement_body" cellspacing="1" cellpadding="1">
+						<tr>
+							<td><table>
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R3 id=R3><b> R3 : Laboratory Courses</b></a> - Description</H3></td>
+								</tr><tr>
+									<td>A total of 1 course from <span class="DeAcLabel">{</span><a title="General Biochemistry Laboratory I (CA)" href="javascript:ViewCourseByID(&quot;30963&quot;,&quot;&quot;, true, false);">50:115:407</a><span class="DeAcLabel">, </span><a title="Inorganic Chemistry Laboratory (CA)" href="javascript:ViewCourseByID(&quot;31158&quot;,&quot;&quot;, true, false);">50:160:412</a><span class="DeAcLabel">, </span><a title="Solid-State Chemistry Laboratory (CA)" href="javascript:ViewCourseByID(&quot;31166&quot;,&quot;&quot;, true, false);">50:160:438</a><span class="DeAcLabel">, </span><a title="Polymer Chemistry Laboratory (CA)" href="javascript:ViewCourseByID(&quot;31172&quot;,&quot;&quot;, true, false);">50:160:446</a><span class="DeAcLabel">}</span></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b><b> V3 : Laboratory Courses</b> - </H3></td>
+								</tr><tr>
+									<td colspan="2"><span class="DeAcLabel"><b>Completed Courses:</b></span></td>
+								</tr><tr>
+									<td><span class="DeAcLabel">None</span></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table>
+
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+				</td>
+		</tr><tr class="ReportGridItemB">
+			<td>
+					<table class="report" cellspacing="1" cellpadding="1">
+				<tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td><H2 style="font-size:11px;"><img id="ctl00_mainContent_ctl13_gridVisualReqs_ctl05_ctl03" src="/App_Themes/Rutgers/Images/Audit/x.gif" alt="Incomplete" /><span class="DeAcLabel"><b>Requirement</b></span><span class="DeAcLabel"><a name=R4 id=R4><b> R4 : Math Courses</b></a></span><span class="DeAcLabel"><b> - Types: Major</b></span></H2></td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr>
+									<td style="width:20px;">&nbsp;</td><td><table>
+										<tr style="height:0px;">
+											<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R4 id=R4><b> R4 : Math Courses</b></a> - Status</H3></td>
+										</tr><tr>
+											<td class="paraheading1_2">Total Credits:  </td><td>18</td>
+										</tr><tr>
+											<td class="paraheading1_2">Completed:  </td><td>0</td>
+										</tr><tr>
+											<td class="paraheading1_2">Needs:  </td><td class="report_need">18 more credits are needed to satisfy this requirement.</td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td><table class="requirement_body" cellspacing="1" cellpadding="1">
+						<tr>
+							<td><table>
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R4 id=R4><b> R4 : Math Courses</b></a> - Description</H3></td>
+								</tr><tr>
+									<td>A total of 18 credits from <span class="DeAcLabel">{</span><a title="Unified Calculus I (R) (CA)" href="javascript:ViewCourseByID(&quot;32222&quot;,&quot;&quot;, true, false);">50:640:121</a><span class="DeAcLabel">, </span><a title="Unified Calculus II (R) (CA)" href="javascript:ViewCourseByID(&quot;32223&quot;,&quot;&quot;, true, false);">50:640:122</a><span class="DeAcLabel">, </span><a title="Unified Calculus III (CA)" href="javascript:ViewCourseByID(&quot;32231&quot;,&quot;&quot;, true, false);">50:640:221</a><span class="DeAcLabel">, </span><a title="Linear Algebra (CA)" href="javascript:ViewCourseByID(&quot;32234&quot;,&quot;&quot;, true, false);">50:640:250</a><span class="DeAcLabel">, </span><a title="Elementary Differential Equations (CA)" href="javascript:ViewCourseByID(&quot;32239&quot;,&quot;&quot;, true, false);">50:640:314</a><span class="DeAcLabel">, </span><a title="Computational Engineering Mathematics I (CA)" href="javascript:ViewCourseByID(&quot;32248&quot;,&quot;&quot;, true, false);">50:640:363</a><span class="DeAcLabel">}</span></td>
+								</tr><tr>
+									<td><table cellspacing="1" cellpadding="1">
+										<tr>
+											<td class="viz2SubReqBulletListPadding"><li></td><td><table>
+												<tr>
+													<td valign="top" style="white-space:nowrap;"></td>
+												</tr><tr>
+													<td valign="top">   with at least 15 credits from <span class="DeAcLabel">{</span><a title="Unified Calculus I (R) (CA)" href="javascript:ViewCourseByID(&quot;32222&quot;,&quot;&quot;, true, false);">50:640:121</a><span class="DeAcLabel">, </span><a title="Unified Calculus II (R) (CA)" href="javascript:ViewCourseByID(&quot;32223&quot;,&quot;&quot;, true, false);">50:640:122</a><span class="DeAcLabel">, </span><a title="Unified Calculus III (CA)" href="javascript:ViewCourseByID(&quot;32231&quot;,&quot;&quot;, true, false);">50:640:221</a><span class="DeAcLabel">, </span><a title="Linear Algebra (CA)" href="javascript:ViewCourseByID(&quot;32234&quot;,&quot;&quot;, true, false);">50:640:250</a><span class="DeAcLabel">}</span></td>
+												</tr>
+											</table><table>
+												<tr>
+													<td></td>
+												</tr>
+											</table></td>
+										</tr>
+									</table></td>
+								</tr><tr>
+									<td><table cellspacing="1" cellpadding="1">
+										<tr>
+											<td class="viz2SubReqBulletListPadding"><li></td><td><table>
+												<tr>
+													<td valign="top" style="white-space:nowrap;"></td>
+												</tr><tr>
+													<td valign="top">   and at least 3 credits from <span class="DeAcLabel">{</span><a title="Elementary Differential Equations (CA)" href="javascript:ViewCourseByID(&quot;32239&quot;,&quot;&quot;, true, false);">50:640:314</a><span class="DeAcLabel">, </span><a title="Computational Engineering Mathematics I (CA)" href="javascript:ViewCourseByID(&quot;32248&quot;,&quot;&quot;, true, false);">50:640:363</a><span class="DeAcLabel">}</span></td>
+												</tr>
+											</table><table>
+												<tr>
+													<td></td>
+												</tr>
+											</table></td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b><b> V4 : Math Courses</b> - </H3></td>
+								</tr><tr>
+									<td colspan="2"><span class="DeAcLabel"><b>Completed Courses:</b></span></td>
+								</tr><tr>
+									<td><span class="DeAcLabel">None</span></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table>
+
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+				</td>
+		</tr><tr class="ReportGridItemA">
+			<td>
+					<table class="report" cellspacing="1" cellpadding="1">
+				<tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td><H2 style="font-size:11px;"><img id="ctl00_mainContent_ctl13_gridVisualReqs_ctl06_ctl03" src="/App_Themes/Rutgers/Images/Audit/x.gif" alt="Incomplete" /><span class="DeAcLabel"><b>Requirement</b></span><span class="DeAcLabel"><a name=R5 id=R5><b> R5 : Physics Courses</b></a></span><span class="DeAcLabel"><b> - Types: Major</b></span></H2></td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr>
+									<td style="width:20px;">&nbsp;</td><td><table>
+										<tr style="height:0px;">
+											<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R5 id=R5><b> R5 : Physics Courses</b></a> - Status</H3></td>
+										</tr><tr>
+											<td class="paraheading1_2">Total Credits:  </td><td>8</td>
+										</tr><tr>
+											<td class="paraheading1_2">Completed:  </td><td>0</td>
+										</tr><tr>
+											<td class="paraheading1_2">Needs:  </td><td class="report_need">8 more credits are needed to satisfy this requirement.</td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td><table class="requirement_body" cellspacing="1" cellpadding="1">
+						<tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R5 id=R5><b> R5 : Physics Courses</b></a> - Description</H3></td>
+								</tr><tr>
+									<td>8 credits from 1 of the following sets of courses:</td>
+								</tr><tr>
+									<td colspan="1"><table cellspacing="1" cellpadding="1">
+										<tr>
+											<td><table>
+												<tr>
+													<td valign="top" style="white-space:nowrap;"></td>
+												</tr><tr>
+													<td valign="top">&nbsp;<span class="DeAcLabel">{</span><a title="Elements of Physics I (R) (CA)" href="javascript:ViewCourseByID(&quot;32703&quot;,&quot;&quot;, true, false);">50:750:131</a><span class="DeAcLabel">, </span><a title="Elements of Physics II (R) (CA)" href="javascript:ViewCourseByID(&quot;32704&quot;,&quot;&quot;, true, false);">50:750:132</a><span class="DeAcLabel">, </span><a title="Introductory Physics Laboratory I (R) (CA)" href="javascript:ViewCourseByID(&quot;32705&quot;,&quot;&quot;, true, false);">50:750:133</a><span class="DeAcLabel">, </span><a title="Introductory Physics Laboratory II (R) (CA)" href="javascript:ViewCourseByID(&quot;32706&quot;,&quot;&quot;, true, false);">50:750:134</a><span class="DeAcLabel">}</span></td>
+												</tr>
+											</table></td>
+										</tr>
+									</table></td>
+								</tr><tr>
+									<td colspan="1"><table cellspacing="1" cellpadding="1">
+										<tr>
+											<td class="subReqListWithStatusPadding">or&nbsp;</td>
+										</tr><tr>
+											<td><table>
+												<tr>
+													<td valign="top" style="white-space:nowrap;"></td>
+												</tr><tr>
+													<td valign="top">&nbsp;<span class="DeAcLabel">{</span><a title="General Physics I (R) (CA)" href="javascript:ViewCourseByID(&quot;32712&quot;,&quot;&quot;, true, false);">50:750:203</a><span class="DeAcLabel">, </span><a title="General Physics II (R) (CA)" href="javascript:ViewCourseByID(&quot;32713&quot;,&quot;&quot;, true, false);">50:750:204</a><span class="DeAcLabel">, </span><a title="General Physics Laboratory I (R) (CA)" href="javascript:ViewCourseByID(&quot;32714&quot;,&quot;&quot;, true, false);">50:750:205</a><span class="DeAcLabel">, </span><a title="General Physics Laboratory II (R) (CA)" href="javascript:ViewCourseByID(&quot;32715&quot;,&quot;&quot;, true, false);">50:750:206</a><span class="DeAcLabel">}</span></td>
+												</tr>
+											</table></td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b><b> V5 : Physics Courses</b> - </H3></td>
+								</tr><tr>
+									<td colspan="2"><span class="DeAcLabel"><b>Completed Courses:</b></span></td>
+								</tr><tr>
+									<td><span class="DeAcLabel">None</span></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table>
+
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+				</td>
+		</tr><tr class="ReportGridItemB">
+			<td>
+					<table class="report" cellspacing="1" cellpadding="1">
+				<tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td><H2 style="font-size:11px;"><img id="ctl00_mainContent_ctl13_gridVisualReqs_ctl07_ctl03" src="/App_Themes/Rutgers/Images/Audit/doubletilde.gif" alt="In Progress or Planned" /><span class="DeAcLabel"><b>Requirement</b></span><span class="DeAcLabel"><a name=R6 id=R6><b> R6 </b></a></span></H2></td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr>
+									<td style="width:20px;">&nbsp;</td><td><table>
+										<tr style="height:0px;">
+											<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R6 id=R6><b> R6 </b></a> - Status</H3></td>
+										</tr><tr>
+											<td class="paraheading1_2">Total Credits:  </td><td>81</td>
+										</tr><tr>
+											<td class="paraheading1_2">Completed:  </td><td>81</td>
+										</tr><tr>
+											<td class="paraheading1_2">Needs:  </td><td class="report_need">In Progress: This requirement will be satisfied.</td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td><table class="requirement_body" cellspacing="1" cellpadding="1">
+						<tr style="height:0px;">
+							<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R6 id=R6><b> R6 </b></a> - Description</H3></td>
+						</tr><tr>
+							<td>81 credits are required to complete this degree.</td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table>
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H4 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R6 id=R6><b> R6 </b></a> - </H4></td>
+								</tr><tr>
+									<td class="conditionTableHeader" colspan="3">Notes:</td>
+								</tr><tr>
+									<td><table>
+										<tr>
+											<td class="conditionBulletListPadding" valign="top"><span class="DeAcLabel"><li></span></td><td valign="top"><table>
+												<tr>
+													<td><span class="DeAcLabel"><i>This means that among the lecture courses taken to fulfill the above requirements, 10 must be completed with a grade of C or higher.</i></span></td>
+												</tr>
+											</table></td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table>
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H4 style="color:Transparent;font-size:0px;"><b>Requirement</b>&nbsp;<a name=R6 id=R6><b> R6 </b></a> - </H4></td>
+								</tr><tr>
+									<td class="conditionTableHeader" colspan="3">Conditions:</td>
+								</tr><tr>
+									<td><table>
+										<tr>
+											<td class="conditionBulletListPadding" valign="top"><span class="DeAcLabel"><li></span></td><td valign="top"><table>
+												<tr>
+													<td>You must achieve a minimum grade of C for <span class="DeAcLabel">{</span><a title="Chemistry Lecture courses" href="javascript: ShowCategory(&#39;ca160_chemlec&#39;);">Chemistry Lecture courses</a><span class="DeAcLabel">, </span><a title="Biochemistry Lecture courses" href="javascript: ShowCategory(&#39;ca160_biochemlec&#39;);">Biochemistry Lecture courses</a><span class="DeAcLabel">}</span>.</td>
+												</tr>
+											</table></td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table cellspacing="1" cellpadding="1">
+								<tr style="height:0px;">
+									<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Requirement</b><b> V6 : </b> - </H3></td>
+								</tr><tr>
+									<td colspan="2"><span class="DeAcLabel"><b>Completed Courses:</b></span></td>
+								</tr><tr>
+									<td><a title="CROSS-CULTURAL COMPETENCY (NB)" href="javascript:ViewCourseByID(&quot;53133&quot;,&quot;&quot;, false, true);">01:090:103</a></td><td><span class="DeAcLabel">( 1, Spring 2025, current, H, J )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Honors College Forum (NB)" href="javascript:ViewCourseByID(&quot;1647&quot;,&quot;20168&quot;, false, true);">01:090:125</a></td><td><span class="DeAcLabel">( 3, Fall 2024, A, H )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="General Chemistry (NB)" href="javascript:ViewCourseByID(&quot;2229&quot;,&quot;20181&quot;, false, true);">01:160:161</a></td><td><span class="DeAcLabel">( 4, 2024, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="General Chemistry (NB)" href="javascript:ViewCourseByID(&quot;2233&quot;,&quot;20181&quot;, false, true);">01:160:162</a></td><td><span class="DeAcLabel">( 4, 2024, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Introduction to Experimentation (NB)" href="javascript:ViewCourseByID(&quot;2241&quot;,&quot;20098&quot;, false, true);">01:160:171</a></td><td><span class="DeAcLabel">( 1, 2024, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="PRINCIPLES OF COMPUTER SCIENCE (NB)" href="javascript:ViewCourseByID(&quot;47305&quot;,&quot;20201&quot;, false, true);">01:198:110</a></td><td><span class="DeAcLabel">( 3, 2022, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Introduction to Computer Science (NB)" href="javascript:ViewCourseByID(&quot;2787&quot;,&quot;&quot;, false, true);">01:198:111</a></td><td><span class="DeAcLabel">( 4, 2023, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="DATA STRUCTURES (NB)" href="javascript:ViewCourseByID(&quot;2788&quot;,&quot;&quot;, false, true);">01:198:112</a></td><td><span class="DeAcLabel">( 4, Fall 2024, A)</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Computer Architecture (NB)" href="javascript:ViewCourseByID(&quot;2800&quot;,&quot;&quot;, false, true);">01:198:211</a></td><td><span class="DeAcLabel">( 4, Spring 2025, current)</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Introduction to Microeconomics (NB)" href="javascript:ViewCourseByID(&quot;2937&quot;,&quot;20108&quot;, false, true);">01:220:102</a></td><td><span class="DeAcLabel">( 3, 2023, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Introduction to Macroeconomics (NB)" href="javascript:ViewCourseByID(&quot;2939&quot;,&quot;20108&quot;, false, true);">01:220:103</a></td><td><span class="DeAcLabel">( 3, 2023, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Econometrics (NB)" href="javascript:ViewCourseByID(&quot;2981&quot;,&quot;20161&quot;, false, true);">01:220:322</a></td><td><span class="DeAcLabel">( 3, Spring 2025, current)</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="COLLEGE WRITING (NB)" href="javascript:ViewCourseByID(&quot;56958&quot;,&quot;20198&quot;, false, true);">01:355:101</a></td><td><span class="DeAcLabel">( 3, 2024, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Making of America: Colonization to Civil War (NB)" href="javascript:ViewCourseByID(&quot;5446&quot;,&quot;20181&quot;, false, true);">01:512:103</a></td><td><span class="DeAcLabel">( 3, 2024, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Calculus I for Mathematical and Physical Sciences (NB)" href="javascript:ViewCourseByID(&quot;6482&quot;,&quot;&quot;, false, true);">01:640:151</a></td><td><span class="DeAcLabel">( 4, 2022, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Calculus II for the Mathematical and Physical Sciences (NB)" href="javascript:ViewCourseByID(&quot;6483&quot;,&quot;&quot;, false, true);">01:640:152</a></td><td><span class="DeAcLabel">( 4, 2022, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Honors Calculus III (NB)" href="javascript:ViewCourseByID(&quot;6512&quot;,&quot;20098&quot;, false, true);">01:640:291</a></td><td><span class="DeAcLabel">( 4, Fall 2024, A, H )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Honors Calculus IV (NB)" href="javascript:ViewCourseByID(&quot;6514&quot;,&quot;20098&quot;, false, true);">01:640:292</a></td><td><span class="DeAcLabel">( 4, Spring 2025, current, H )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Introduction to Mathematical Reasoning (NB)" href="javascript:ViewCourseByID(&quot;6517&quot;,&quot;&quot;, false, true);">01:640:300</a></td><td><span class="DeAcLabel">( 3, Spring 2025, current, H )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Mathematical Theory of Probability (NB)" href="javascript:ViewCourseByID(&quot;6571&quot;,&quot;20048&quot;, false, true);">01:640:477</a></td><td><span class="DeAcLabel">( 3, Spring 2025, current)</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Logic, Reasoning, and Persuasion (NB)" href="javascript:ViewCourseByID(&quot;6850&quot;,&quot;20168&quot;, false, true);">01:730:101</a></td><td><span class="DeAcLabel">( 3, Fall 2024, A)</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="General Physics (NB)" href="javascript:ViewCourseByID(&quot;7143&quot;,&quot;&quot;, false, true);">01:750:203</a></td><td><span class="DeAcLabel">( 3, 2023, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="General Physics (NB)" href="javascript:ViewCourseByID(&quot;7144&quot;,&quot;&quot;, false, true);">01:750:204</a></td><td><span class="DeAcLabel">( 3, 2024, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="General Physics Laboratory (NB)" href="javascript:ViewCourseByID(&quot;7145&quot;,&quot;&quot;, false, true);">01:750:205</a></td><td><span class="DeAcLabel">( 1, 2023, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="General Physics Laboratory (NB)" href="javascript:ViewCourseByID(&quot;7146&quot;,&quot;&quot;, false, true);">01:750:206</a></td><td><span class="DeAcLabel">( 1, 2024, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Statistics I (NB)" href="javascript:ViewCourseByID(&quot;8862&quot;,&quot;20161&quot;, false, true);">01:960:211</a></td><td><span class="DeAcLabel">( 3 (2 Used), 2022, AP, AP )</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr><tr>
+									<td><a title="Theater Appreciation: Experiences in Contemporary Theater (NB)" href="javascript:ViewCourseByID(&quot;11881&quot;,&quot;&quot;, false, true);">07:965:211</a></td><td><span class="DeAcLabel">( 3, Fall 2024, A)</span></td><td>&nbsp;</td><td></td><td></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td>&nbsp;</td>
+						</tr><tr>
+							<td><table>
+
+							</table></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+				</td>
+		</tr>
+	</table>
+
+</div>
+
+<div id="ctl00_mainContent_ctl13_panNonVisualRequirements" class="ReportSection">
+	
+	<div class="DeAcCollapsibleCategory ReportHeader" onclick="return ShowHideRequirements('ctl00_mainContent_ctl13_gridConditionReqs', this);">
+		<h1 class="headerOne"><a href="javascript: void(0);" class="CollapseLink">[-]</a>
+		<span id="ctl00_mainContent_ctl13_m_labConditionHeader" class="DeAcLabel">Conditions</span></h1>	
+	</div>
+	<table class="ReportGrid" cellspacing="0" cellpadding="0" rules="all" border="1" id="ctl00_mainContent_ctl13_gridConditionReqs" style="border-collapse:collapse;">
+		<tr class="ReportGridItemA">
+			<td>
+					<table class="report" cellspacing="1" cellpadding="1">
+				<tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td><H2 style="font-size:11px;"><img id="ctl00_mainContent_ctl13_gridConditionReqs_ctl02_ctl03" src="/App_Themes/Rutgers/Images/Audit/check.gif" alt="Completed" /><span class="DeAcLabel"><b>Condition</b></span><span class="DeAcLabel"><a name=C10 id=C10><b> C10 </b></a></span></H2></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td><table class="requirement_body">
+						<tr style="height:0px;">
+							<td class="transparent" colspan="2" style="height:0px;"><H3 style="color:Transparent;font-size:0px;"><b>Condition</b><b> C10 : </b> - Description</H3></td>
+						</tr><tr>
+							<td>You must achieve a minimum grade of C for <span class="DeAcLabel">{</span><a title="Chemistry Lecture courses" href="javascript: ShowCategory(&#39;ca160_chemlec&#39;);">Chemistry Lecture courses</a><span class="DeAcLabel">, </span><a title="Biochemistry Lecture courses" href="javascript: ShowCategory(&#39;ca160_biochemlec&#39;);">Biochemistry Lecture courses</a><span class="DeAcLabel">}</span><span class="DeAcLabel"> in requirement {</span><span class="DeAcLabel"><A HREF='#R6' target=''>R6</A></span><span class="DeAcLabel">}</span>.</td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td>&nbsp;</td>
+				</tr>
+			</table> 
+				</td>
+		</tr><tr class="ReportGridItemB">
+			<td>
+					<table class="report" cellspacing="1" cellpadding="1">
+				<tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td><H2 style="font-size:11px;"><b>Condition</b><a name=C12 id=C12><b> C12 </b></a></H2></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td><table class="requirement_body">
+						<tr>
+							<td><span class="DeAcLabel">(Applies to requirements {</span><span class="DeAcLabel"><A HREF='#R6' target=''>R6</A></span><span class="DeAcLabel">, </span><span class="DeAcLabel"><A HREF='#C10' target=''>C10</A></span><span class="DeAcLabel">})<br></span><span class="DeAcLabel"><i>This means that among the lecture courses taken to fulfill the above requirements, 10 must be completed with a grade of C or higher.</i></span></td>
+						</tr>
+					</table></td>
+				</tr><tr>
+					<td>&nbsp;</td>
+				</tr>
+			</table> 
+				</td>
+		</tr>
+	</table>
+
+</div>
+
+
+
+<div id="ctl00_mainContent_ctl13_panReuse" class="ReportSection">
+	
+	<div class="DeAcCollapsibleCategory ReportHeader" onclick="return ShowHideRequirements('ctl00_mainContent_ctl13_gridReuse', this);">
+		<h1 class="headerOne"><a href="javascript: void(0);" class="CollapseLink">[-]</a>
+		<span id="ctl00_mainContent_ctl13_m_labReuseHeader" class="DeAcLabel">Reuse</span></h1>	
+	</div>
+	<table class="ReportGrid" cellspacing="0" cellpadding="0" rules="all" border="1" id="ctl00_mainContent_ctl13_gridReuse" style="border-collapse:collapse;">
+		<tr class="ReportGridItemA">
+			<td>
+					<table cellspacing="1" cellpadding="1">
+				<tr>
+					<td class="transparent" colspan="2"><H2 style="font-size:0px;">Reusability Class 1</H2></td>
+				</tr><tr>
+					<td style="width:25px;">&nbsp;&nbsp;</td><td><span class="DeAcLabel"><A HREF='#R1' target=''>R1 - Chemistry Courses</A></span></td><td style="width:25px;">&nbsp;&nbsp;</td>
+				</tr><tr>
+					<td style="width:25px;">&nbsp;&nbsp;</td><td><br></td><td style="width:25px;">&nbsp;&nbsp;</td>
+				</tr>
+			</table>
+				</td>
+		</tr><tr class="ReportGridItemB">
+			<td>
+					<table cellspacing="1" cellpadding="1">
+				<tr>
+					<td class="transparent" colspan="2"><H2 style="font-size:0px;">Reusability Class 2</H2></td>
+				</tr><tr>
+					<td style="width:25px;">&nbsp;&nbsp;</td><td><span class="DeAcLabel"><A HREF='#R2' target=''>R2 - Advanced Chemistry Electives</A></span></td><td style="width:25px;">&nbsp;&nbsp;</td>
+				</tr><tr>
+					<td style="width:25px;">&nbsp;&nbsp;</td><td><br></td><td style="width:25px;">&nbsp;&nbsp;</td>
+				</tr>
+			</table>
+				</td>
+		</tr><tr class="ReportGridItemA">
+			<td>
+					<table cellspacing="1" cellpadding="1">
+				<tr>
+					<td class="transparent" colspan="2"><H2 style="font-size:0px;">Reusability Class 3</H2></td>
+				</tr><tr>
+					<td style="width:25px;">&nbsp;&nbsp;</td><td><span class="DeAcLabel"><A HREF='#R3' target=''>R3 - Laboratory Courses</A></span></td><td style="width:25px;">&nbsp;&nbsp;</td>
+				</tr><tr>
+					<td style="width:25px;">&nbsp;&nbsp;</td><td><br></td><td style="width:25px;">&nbsp;&nbsp;</td>
+				</tr>
+			</table>
+				</td>
+		</tr><tr class="ReportGridItemB">
+			<td>
+					<table cellspacing="1" cellpadding="1">
+				<tr>
+					<td class="transparent" colspan="2"><H2 style="font-size:0px;">Reusability Class 4</H2></td>
+				</tr><tr>
+					<td style="width:25px;">&nbsp;&nbsp;</td><td><span class="DeAcLabel"><A HREF='#R4' target=''>R4 - Math Courses</A></span></td><td style="width:25px;">&nbsp;&nbsp;</td>
+				</tr><tr>
+					<td style="width:25px;">&nbsp;&nbsp;</td><td><br></td><td style="width:25px;">&nbsp;&nbsp;</td>
+				</tr>
+			</table>
+				</td>
+		</tr><tr class="ReportGridItemA">
+			<td>
+					<table cellspacing="1" cellpadding="1">
+				<tr>
+					<td class="transparent" colspan="2"><H2 style="font-size:0px;">Reusability Class 5</H2></td>
+				</tr><tr>
+					<td style="width:25px;">&nbsp;&nbsp;</td><td><span class="DeAcLabel"><A HREF='#R5' target=''>R5 - Physics Courses</A></span></td><td style="width:25px;">&nbsp;&nbsp;</td>
+				</tr><tr>
+					<td style="width:25px;">&nbsp;&nbsp;</td><td><br></td><td style="width:25px;">&nbsp;&nbsp;</td>
+				</tr>
+			</table>
+				</td>
+		</tr>
+	</table>
+
+</div>
+
+<div id="ctl00_mainContent_ctl13_panCoursesUsed" class="ReportSection">
+	
+	<div class="DeAcCollapsibleCategory ReportHeader" onclick="return ShowHideRequirements('ctl00_mainContent_ctl13_m_StudentCoursesTab', this);">
+		<h1 class="headerOne"><a href="javascript: void(0);" class="CollapseLink">[-]</a>
+		<span id="ctl00_mainContent_ctl13_m_labCoursesHeader" class="DeAcLabel">Courses</span></h1>	
+	</div>
+	<table id="ctl00_mainContent_ctl13_m_StudentCoursesTab" class="coursesUsed" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;">
+		<tr class="ReportGridItemA">
+			<td class="coursesUsedRow"><table cellspacing="1" cellpadding="1">
+				<tr>
+					<td colspan="4"><H2 style="font-size:11px;">Courses Used for this Program</H2></td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">1.</td><td valign="top" style="white-space:nowrap;"><a title="CROSS-CULTURAL COMPETENCY (NB)" href="javascript:ViewCourseByID(&quot;53133&quot;,&quot;&quot;, false, true);">01:090:103</a></td><td valign="top">( 1, Spring 2025, current, H, J )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">2.</td><td valign="top" style="white-space:nowrap;"><a title="Honors College Forum (NB)" href="javascript:ViewCourseByID(&quot;1647&quot;,&quot;20168&quot;, false, true);">01:090:125</a></td><td valign="top">( 3, Fall 2024, A, H )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">3.</td><td valign="top" style="white-space:nowrap;"><a title="General Chemistry (NB)" href="javascript:ViewCourseByID(&quot;2229&quot;,&quot;20181&quot;, false, true);">01:160:161</a></td><td valign="top">( 4, 2024, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">4.</td><td valign="top" style="white-space:nowrap;"><a title="General Chemistry (NB)" href="javascript:ViewCourseByID(&quot;2233&quot;,&quot;20181&quot;, false, true);">01:160:162</a></td><td valign="top">( 4, 2024, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">5.</td><td valign="top" style="white-space:nowrap;"><a title="Introduction to Experimentation (NB)" href="javascript:ViewCourseByID(&quot;2241&quot;,&quot;20098&quot;, false, true);">01:160:171</a></td><td valign="top">( 1, 2024, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">6.</td><td valign="top" style="white-space:nowrap;"><a title="PRINCIPLES OF COMPUTER SCIENCE (NB)" href="javascript:ViewCourseByID(&quot;47305&quot;,&quot;20201&quot;, false, true);">01:198:110</a></td><td valign="top">( 3, 2022, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">7.</td><td valign="top" style="white-space:nowrap;"><a title="Introduction to Computer Science (NB)" href="javascript:ViewCourseByID(&quot;2787&quot;,&quot;&quot;, false, true);">01:198:111</a></td><td valign="top">( 4, 2023, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">8.</td><td valign="top" style="white-space:nowrap;"><a title="DATA STRUCTURES (NB)" href="javascript:ViewCourseByID(&quot;2788&quot;,&quot;&quot;, false, true);">01:198:112</a></td><td valign="top">( 4, Fall 2024, A)</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">9.</td><td valign="top" style="white-space:nowrap;"><a title="Computer Architecture (NB)" href="javascript:ViewCourseByID(&quot;2800&quot;,&quot;&quot;, false, true);">01:198:211</a></td><td valign="top">( 4, Spring 2025, current)</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">10.</td><td valign="top" style="white-space:nowrap;"><a title="Introduction to Microeconomics (NB)" href="javascript:ViewCourseByID(&quot;2937&quot;,&quot;20108&quot;, false, true);">01:220:102</a></td><td valign="top">( 3, 2023, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">11.</td><td valign="top" style="white-space:nowrap;"><a title="Introduction to Macroeconomics (NB)" href="javascript:ViewCourseByID(&quot;2939&quot;,&quot;20108&quot;, false, true);">01:220:103</a></td><td valign="top">( 3, 2023, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">12.</td><td valign="top" style="white-space:nowrap;"><a title="Econometrics (NB)" href="javascript:ViewCourseByID(&quot;2981&quot;,&quot;20161&quot;, false, true);">01:220:322</a></td><td valign="top">( 3, Spring 2025, current)</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">13.</td><td valign="top" style="white-space:nowrap;"><a title="COLLEGE WRITING (NB)" href="javascript:ViewCourseByID(&quot;56958&quot;,&quot;20198&quot;, false, true);">01:355:101</a></td><td valign="top">( 3, 2024, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">14.</td><td valign="top" style="white-space:nowrap;"><a title="Making of America: Colonization to Civil War (NB)" href="javascript:ViewCourseByID(&quot;5446&quot;,&quot;20181&quot;, false, true);">01:512:103</a></td><td valign="top">( 3, 2024, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">15.</td><td valign="top" style="white-space:nowrap;"><a title="Calculus I for Mathematical and Physical Sciences (NB)" href="javascript:ViewCourseByID(&quot;6482&quot;,&quot;&quot;, false, true);">01:640:151</a></td><td valign="top">( 4, 2022, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">16.</td><td valign="top" style="white-space:nowrap;"><a title="Calculus II for the Mathematical and Physical Sciences (NB)" href="javascript:ViewCourseByID(&quot;6483&quot;,&quot;&quot;, false, true);">01:640:152</a></td><td valign="top">( 4, 2022, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">17.</td><td valign="top" style="white-space:nowrap;"><a title="Honors Calculus III (NB)" href="javascript:ViewCourseByID(&quot;6512&quot;,&quot;20098&quot;, false, true);">01:640:291</a></td><td valign="top">( 4, Fall 2024, A, H )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">18.</td><td valign="top" style="white-space:nowrap;"><a title="Honors Calculus IV (NB)" href="javascript:ViewCourseByID(&quot;6514&quot;,&quot;20098&quot;, false, true);">01:640:292</a></td><td valign="top">( 4, Spring 2025, current, H )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">19.</td><td valign="top" style="white-space:nowrap;"><a title="Introduction to Mathematical Reasoning (NB)" href="javascript:ViewCourseByID(&quot;6517&quot;,&quot;&quot;, false, true);">01:640:300</a></td><td valign="top">( 3, Spring 2025, current, H )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">20.</td><td valign="top" style="white-space:nowrap;"><a title="Mathematical Theory of Probability (NB)" href="javascript:ViewCourseByID(&quot;6571&quot;,&quot;20048&quot;, false, true);">01:640:477</a></td><td valign="top">( 3, Spring 2025, current)</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">21.</td><td valign="top" style="white-space:nowrap;"><a title="Logic, Reasoning, and Persuasion (NB)" href="javascript:ViewCourseByID(&quot;6850&quot;,&quot;20168&quot;, false, true);">01:730:101</a></td><td valign="top">( 3, Fall 2024, A)</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">22.</td><td valign="top" style="white-space:nowrap;"><a title="General Physics (NB)" href="javascript:ViewCourseByID(&quot;7143&quot;,&quot;&quot;, false, true);">01:750:203</a></td><td valign="top">( 3, 2023, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">23.</td><td valign="top" style="white-space:nowrap;"><a title="General Physics (NB)" href="javascript:ViewCourseByID(&quot;7144&quot;,&quot;&quot;, false, true);">01:750:204</a></td><td valign="top">( 3, 2024, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">24.</td><td valign="top" style="white-space:nowrap;"><a title="General Physics Laboratory (NB)" href="javascript:ViewCourseByID(&quot;7145&quot;,&quot;&quot;, false, true);">01:750:205</a></td><td valign="top">( 1, 2023, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">25.</td><td valign="top" style="white-space:nowrap;"><a title="General Physics Laboratory (NB)" href="javascript:ViewCourseByID(&quot;7146&quot;,&quot;&quot;, false, true);">01:750:206</a></td><td valign="top">( 1, 2024, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">26.</td><td valign="top" style="white-space:nowrap;"><a title="Theater Appreciation: Experiences in Contemporary Theater (NB)" href="javascript:ViewCourseByID(&quot;11881&quot;,&quot;&quot;, false, true);">07:965:211</a></td><td valign="top">( 3, Fall 2024, A)</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr>
+			</table></td>
+		</tr><tr class="ReportGridItemB">
+			<td class="coursesUsedRow"><table cellspacing="1" cellpadding="1">
+				<tr>
+					<td colspan="4"><H2 style="font-size:11px;">Unused Courses for this Program - Partially Unused Courses</H2></td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">1.</td><td valign="top" style="white-space:nowrap;"><a title="Statistics I (NB)" href="javascript:ViewCourseByID(&quot;8862&quot;,&quot;20161&quot;, false, true);">01:960:211</a></td><td valign="top">( 3 (1 Unused), 2022, AP, AP )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr>
+			</table></td>
+		</tr><tr class="ReportGridItemA">
+			<td class="coursesUsedRow"><table cellspacing="1" cellpadding="1">
+				<tr>
+					<td colspan="4"><H2 style="font-size:11px;">Unused Courses for this Program</H2></td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">1.</td><td valign="top" style="white-space:nowrap;"><a title="Placement into General Chemistry (NB)" href="javascript:ViewCourseByID(&quot;57001&quot;,&quot;&quot;, false, true);">CH:160:CHM</a></td><td valign="top">( 0, Placement, PL, PL )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">2.</td><td valign="top" style="white-space:nowrap;"><a title="Placement into College Writing (NB)" href="javascript:ViewCourseByID(&quot;38541&quot;,&quot;&quot;, false, true);">EN:355:101</a></td><td valign="top">( 0, Placement, PL, PL )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr><tr>
+					<td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">3.</td><td valign="top" style="white-space:nowrap;"><a title="Placement into Calculus (NB)" href="javascript:ViewCourseByID(&quot;38627&quot;,&quot;&quot;, false, true);">MA:640:CLS</a></td><td valign="top">( 0, Placement, PL, PL )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td><td><table cellspacing="1" cellpadding="1">
+						<tr>
+							<td align="right" valign="top" style="white-space:nowrap;">4.</td><td valign="top" style="white-space:nowrap;"><a title="Placement into Spanish Conversation and Composition (01:940:203) (NB)" href="javascript:ViewCourseByID(&quot;38812&quot;,&quot;&quot;, false, true);">NB:940:203</a></td><td valign="top">( 0, Placement, PL, PL )</td>
+						</tr>
+					</table></td><td class="coursesUsedSpacer">&nbsp;</td>
+				</tr>
+			</table></td>
+		</tr>
+	</table>
+
+</div>
+
+ <span id="ctl00_mainContent_bottomLabel" class="DeAcLabel"></span><div id="ctl00_mainContent_courseDetails_courseDetailsForm" class="ModalForm" style="width:600px;display:none;">
+	<div id="ctl00_mainContent_courseDetails_courseDetailsForm_Header" class="ModalFormHeader" style="clear:both;">
+		<div id="ctl00_mainContent_courseDetails_courseDetailsForm_Title" style="float:left;">
+			Course Details
+		</div><div style="float:right;padding-top:3px;">
+			<input type="image" name="ctl00$mainContent$courseDetails$courseDetailsForm_Button" id="ctl00_mainContent_courseDetails_courseDetailsForm_Button" class="DeAcImageButton" src="/App_Themes/Rutgers/Images/ModalClose.gif" alt="Close" onclick="ModalFormClose(&quot;ctl00_mainContent_courseDetails_closeCourseButton&quot;); return false;" />
+		</div><br/>
+	</div>
+	<div class="ModalFormContents" style="padding-top: 6px;">
+		<div id="ctl00_mainContent_courseDetails_contentsDiv">
+			<table class="DeAcForm">
+				<tr>
+					<td class="FormLabel"><span id="ctl00_mainContent_courseDetails_courseCodeLabel" class="DeAcLabel">Code:</span></td>
+					<td>
+						<span id="ctl00_mainContent_courseDetails_courseCodeValueLabel" class="DeAcLabel"></span>
+						<input type="hidden" name="ctl00$mainContent$courseDetails$courseIDHidden" id="ctl00_mainContent_courseDetails_courseIDHidden" />
+					</td>
+				</tr>
+				<tr id="ctl00_mainContent_courseDetails_creditsTableRow">
+		<td class="FormLabel"><span id="ctl00_mainContent_courseDetails_courseCreditsLabel" class="DeAcLabel">Credits:</span></td>
+		<td>
+						<select name="ctl00$mainContent$courseDetails$creditsDropDown" id="ctl00_mainContent_courseDetails_creditsDropDown" class="DeAcDropDownList">
+
+		</select>
+						<span id="ctl00_mainContent_courseDetails_courseCreditsValueLabel" class="DeAcLabel"></span>
+						<input type="hidden" name="ctl00$mainContent$courseDetails$selectedCreditHidden" id="ctl00_mainContent_courseDetails_selectedCreditHidden" />
+					</td>
+	</tr>
+	
+				<tr id="ctl00_mainContent_courseDetails_termTableRow">
+		<td class="FormLabel"><span id="ctl00_mainContent_courseDetails_termLabel" class="DeAcLabel">Term:</span></td>
+		<td>
+						<span id="ctl00_mainContent_courseDetails_termTakenLabel" class="DeAcLabel"></span>
+						<select name="ctl00$mainContent$courseDetails$termDropDown" id="ctl00_mainContent_courseDetails_termDropDown" class="DeAcDropDownList">
+
+		</select>
+						<span class="DeAcRequireFieldValidatorLabel"> * </span><span id="ctl00_mainContent_courseDetails_termRequiredValidator" style="visibility:hidden;">You must select a term.</span>
+						<input type="hidden" name="ctl00$mainContent$courseDetails$selectedTermHidden" id="ctl00_mainContent_courseDetails_selectedTermHidden" />
+					</td>
+	</tr>
+	
+			</table>
+			<p><span id="ctl00_mainContent_courseDetails_courseTitleLabel" class="DeAcLabelBold"></span></p>
+			<span id="ctl00_mainContent_courseDetails_courseDescriptionLabel" class="DeAcLabel"></span>
+		    <br />
+		    <br />  
+		    <span id="ctl00_mainContent_courseDetails_courseExclusivityCoursePlanLabel" class="DeAcLabelBold"></span>
+		    <span id="ctl00_mainContent_courseDetails_courseExclusivityTranscriptLabel"></span>
+				<span id="ctl00_mainContent_courseDetails_courseTakenLabel" class="DeAcLabelBold"></span>
+		</div>
+		<div id="ctl00_mainContent_courseDetails_progressDiv" style="margin:auto; text-align:center;">
+			<img id="ctl00_mainContent_courseDetails_courseProgressImage" src="/App_Themes/Rutgers/Images/roller.gif" alt="Please Wait" />
+		</div>
+	</div>
+	<div class="ModalFormButtonbar">
+		<input type="submit" name="ctl00$mainContent$courseDetails$selectButton" value="Add" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$mainContent$courseDetails$selectButton&quot;, &quot;&quot;, true, &quot;courseDetails&quot;, &quot;&quot;, false, false))" id="ctl00_mainContent_courseDetails_selectButton" class="DeAcButton" />
+		<input type="submit" name="ctl00$mainContent$courseDetails$closeCourseButton" value="Cancel" id="ctl00_mainContent_courseDetails_closeCourseButton" class="DeAcButton" />
+	</div>
+
+</div>
+<input type="submit" name="ctl00$mainContent$courseDetails$hiddenButton" value="" id="ctl00_mainContent_courseDetails_hiddenButton" class="Hidden" /><div id="ctl00_mainContent_categoryDetails_courseDetailsForm" class="ModalForm" style="width:600px;display:none;">
+	<div id="ctl00_mainContent_categoryDetails_courseDetailsForm_Header" class="ModalFormHeader" style="clear:both;">
+		<div id="ctl00_mainContent_categoryDetails_courseDetailsForm_Title" style="float:left;">
+			Category Details
+		</div><div style="float:right;padding-top:3px;">
+			<input type="image" name="ctl00$mainContent$categoryDetails$courseDetailsForm_Button" id="ctl00_mainContent_categoryDetails_courseDetailsForm_Button" class="DeAcImageButton" src="/App_Themes/Rutgers/Images/ModalClose.gif" alt="Close" onclick="ModalFormClose(&quot;ctl00_mainContent_categoryDetails_closeCourseButton&quot;); return false;" />
+		</div><br/>
+	</div>
+	<div class="ModalFormContents">
+		<div id="ctl00_mainContent_categoryDetails_contentsDiv" style="padding-top: 3px;">
+			<p class="modal-category-title"><span id="ctl00_mainContent_categoryDetails_titleLabel" class="DeAcLabelBold"></span></p>
+			<p class="modal-category-description"><span id="ctl00_mainContent_categoryDetails_descriptionLabel" class="DeAcLabel"></span></p>
+			<input type="hidden" name="ctl00$mainContent$categoryDetails$categoryIDHidden" id="ctl00_mainContent_categoryDetails_categoryIDHidden" />
+		</div>
+		<div id="ctl00_mainContent_categoryDetails_progressDiv" style="margin:auto; text-align:center;">
+			<img id="ctl00_mainContent_categoryDetails_progessImage" src="/App_Themes/Rutgers/Images/roller.gif" alt="Please Wait" />
+		</div>
+	</div>
+	<div class="ModalFormButtonbar">
+		<input type="submit" name="ctl00$mainContent$categoryDetails$viewCoursesButton" value="View Courses" id="ctl00_mainContent_categoryDetails_viewCoursesButton" class="DeAcButton" />
+		<input type="submit" name="ctl00$mainContent$categoryDetails$closeCourseButton" value="Cancel" id="ctl00_mainContent_categoryDetails_closeCourseButton" class="DeAcButton" />
+	</div>
+
+</div>
+<input type="submit" name="ctl00$mainContent$categoryDetails$hiddenButton" value="" id="ctl00_mainContent_categoryDetails_hiddenButton" class="Hidden" />
+
+<script type="text/javascript">
+var catProgress;
+var catDetails;
+var catModal;
+var catTitle;
+var catDescr; 
+var catId;
+
+function ShowCategory(code){
+	$hide(catDetails);
+	$show(catProgress);
+	catModal.show();
+	PageMethods.set_path('/Content/Default/Controls/DN/Audit/DegreeAudit.aspx');
+	PageMethods.GetCategory(code, ShowCategorySucceeded, deac.pageMethodFailed);
+}
+
+function ShowCategorySucceeded(result){
+	deac.setInnerText(catTitle, result.Name);
+	deac.setInnerText(catDescr, result.Description);
+
+	if (result.Descripion == null || result.Description.trim().length == 0)
+		$j('p.modal-category-description').hide();
+
+	catId.value = result.ID;
+	$hide(catProgress);
+	$show(catDetails);
+}
+
+Sys.Application.add_load(function(){
+	catProgress = $get('ctl00_mainContent_categoryDetails_progressDiv');
+	catDetails = $get('ctl00_mainContent_categoryDetails_contentsDiv');
+	catModal = $find('categoryDetails');
+	catTitle = $get('ctl00_mainContent_categoryDetails_titleLabel');
+	catDescr = $get('ctl00_mainContent_categoryDetails_descriptionLabel');
+	catId = $get('ctl00_mainContent_categoryDetails_categoryIDHidden');
+});
+</script>	
+	
+	<script type="text/javascript">
+	Sys.Application.add_load(InitPage);
+	
+	function InitPage(){
+		details = $find('ctl00_mainContent_courseDetails');
+	}
+	
+	var details;
+
+	function ViewCourseByID(id, termCode, allowAdd, courseTaken) {
+		// When viewing details for a course in a requirement (not a Completed Course),
+		// Rutgers want to see the latest version of the course only - calling
+		// GetCourse will do that. #67702.
+		var forceGetByCode = false;
+		if (allowAdd == true && courseTaken == false) { // true, false = view requirement course; false, true = completed course.
+			forceGetByCode = true;
+		}
+
+		if (allowAdd) details.enablePlan();
+		else details.disablePlan();
+
+		details.showProgress();
+		details.get_ModalForm().show();
+
+		PageMethods.set_path('/Content/Rutgers/Controls/DN/Audit/DegreeAudit.aspx');		
+		PageMethods.GetCourse(id, termCode, '0', isContextUser, courseTaken, forceGetByCode, ViewCourseSuccess, deac.pageMethodFailed, allowAdd);
+	}
+
+	function ViewCourse(code, termCode, allowAdd, courseTaken) {
+		if (allowAdd)	details.enablePlan();
+		else details.disablePlan();
+
+		details.showProgress();
+		details.get_ModalForm().show();
+
+		PageMethods.set_path('/Content/Rutgers/Controls/DN/Audit/DegreeAudit.aspx');	
+		PageMethods.GetCourseEx(code, termCode, '0', isContextUser, courseTaken, ViewCourseSuccess, deac.pageMethodFailed, allowAdd);
+	}
+
+	function ViewCourseSuccess(result, allowAdd) {
+		details.setCourseDetails(result.Course.ID, result.Course.Code, result.Course.Title, result.Course.Credits, result.Course.FullDescription, result.Course.ExclusivityCoursePlanDetails, result.Course.ExclusivityTranscriptDetails, result.TermTaken, result.CourseTakenDetails);
+
+		if (result.Terms != null && result.Terms.length > 0) {
+			details.enablePlan();
+			details.setTerms(result.Terms);
+		} else {
+			details.disablePlan();
+		}
+
+		if (!allowAdd || result.HasExclusiveCourseInCoursePlanOrTranscript || !result.CanAddToPlan) {
+			details.disableAddCourseButton();
+			details.disableTermDropDown();
+			//details.disablePlan();
+		} else {
+			details.enableAddCourseButton();
+			details.enableTermDropDown();
+		}
+		
+		details.showDetails();
+	}
+
+	</script>
+	
+	
+	
+	
+	
+	
+	
+	  <div style="text-align:center; margin-top: 10px;" class="PrintHidden">
+		  
+	  </div>
+	  <div style="text-align:center; margin-top: 10px;">
+		  Powered by <a href="http://www.decisionacademic.com" target="_blank">Decision Academic Inc.</a>
+	  </div>
+	
+	
+
+													</td>
+
+													
+												</tr>
+											</tbody>
+										</table></td>
+									</tr>
+									<tr><td>
+										
+									</td></tr>
+								</tbody>
+							</table>
+						</td>
+						<td id="barright" nowrap="nowrap">&nbsp;</td>
+					</tr>
+				</table>
+			</td></tr>
+			</table></div>
+		
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_mainContent_courseDetails_termRequiredValidator"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_mainContent_courseDetails_termRequiredValidator = document.all ? document.all["ctl00_mainContent_courseDetails_termRequiredValidator"] : document.getElementById("ctl00_mainContent_courseDetails_termRequiredValidator");
+ctl00_mainContent_courseDetails_termRequiredValidator.controltovalidate = "ctl00_mainContent_courseDetails_selectedTermHidden";
+ctl00_mainContent_courseDetails_termRequiredValidator.validationGroup = "courseDetails";
+ctl00_mainContent_courseDetails_termRequiredValidator.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_mainContent_courseDetails_termRequiredValidator.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_ctl13_ctl02_tabMenu_Data = new Object();
+ctl00_ctl13_ctl02_tabMenu_Data.disappearAfter = 500;
+ctl00_ctl13_ctl02_tabMenu_Data.horizontalOffset = 0;
+ctl00_ctl13_ctl02_tabMenu_Data.verticalOffset = 0;
+ctl00_ctl13_ctl02_tabMenu_Data.staticHoverClass = 'ctl00_ctl13_ctl02_tabMenu_8 TabMenuItemHover';
+ctl00_ctl13_ctl02_tabMenu_Data.staticHoverHyperLinkClass = 'ctl00_ctl13_ctl02_tabMenu_7 TabMenuItemHover';
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        Sys.Application.add_init(function() {
+    $create(DeAc.DNPlus.ItemDetails, {"AddCourseButton":"ctl00_mainContent_courseDetails_selectButton","CodeControl":"ctl00_mainContent_courseDetails_courseCodeValueLabel","CourseTakenControl":"ctl00_mainContent_courseDetails_courseTakenLabel","CreditsControl":"ctl00_mainContent_courseDetails_courseCreditsValueLabel","CreditsList":"ctl00_mainContent_courseDetails_creditsDropDown","DefaultTermText":"Select a term...","DescriptionControl":"ctl00_mainContent_courseDetails_courseDescriptionLabel","DetailsDiv":"ctl00_mainContent_courseDetails_contentsDiv","ExclusivityCoursePlanControl":"ctl00_mainContent_courseDetails_courseExclusivityCoursePlanLabel","ExclusivityTranscriptControl":"ctl00_mainContent_courseDetails_courseExclusivityTranscriptLabel","IDValueControl":"ctl00_mainContent_courseDetails_courseIDHidden","ModalForm":"courseDetails","ProgressDiv":"ctl00_mainContent_courseDetails_progressDiv","SelectedCreditsField":"ctl00_mainContent_courseDetails_selectedCreditHidden","SelectedTermControl":"ctl00_mainContent_courseDetails_selectedTermHidden","TermControl":"ctl00_mainContent_courseDetails_termDropDown","TermLabelControl":"ctl00_mainContent_courseDetails_termLabel","TermTakenControl":"ctl00_mainContent_courseDetails_termTakenLabel","TermTakenText":"Term Taken:","TermText":"Term:","TitleControl":"ctl00_mainContent_courseDetails_courseTitleLabel","id":"ctl00_mainContent_courseDetails"}, null, null, $get("ctl00_mainContent_courseDetails_courseDetailsForm"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"ModalBackground","CancelControlID":"ctl00_mainContent_courseDetails_closeCourseButton","PopupControlID":"ctl00_mainContent_courseDetails_courseDetailsForm","dynamicServicePath":"/Content/Rutgers/Controls/DN/Audit/DegreeAudit.aspx","id":"courseDetails"}, null, null, $get("ctl00_mainContent_courseDetails_hiddenButton"));
+});
+
+document.getElementById('ctl00_mainContent_courseDetails_termRequiredValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_mainContent_courseDetails_termRequiredValidator'));
+}
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"ModalBackground","CancelControlID":"ctl00_mainContent_categoryDetails_closeCourseButton","PopupControlID":"ctl00_mainContent_categoryDetails_courseDetailsForm","dynamicServicePath":"/Content/Rutgers/Controls/DN/Audit/DegreeAudit.aspx","id":"categoryDetails"}, null, null, $get("ctl00_mainContent_categoryDetails_hiddenButton"));
+});
+//]]>
+</script>
+</form>
+	</body>
+</html>

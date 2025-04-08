@@ -1,0 +1,1780 @@
+{
+    "courseOfferings": [
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "101"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": "FOR ALL SECTIONS: NOT OPEN TO THOSE HAVING 2 OR MORE YRS. OF HIGH SCH. FRENCH \r\n",
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEMENTARY FRENCH",
+            "fullTitle": "ELEMENTARY FRENCH",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11351",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "Go to http://canvas.rutgers.edu",
+                        "Hybrid Section - Some Meetings Online"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "207",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "WUILLOT, MATHIS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11352",
+                    "legendKey": null,
+                    "sectionNumber": "02",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Hybrid Section - Some Meetings Online",
+                        "Go to http://canvas.rutgers.edu",
+                        "First-year students welcome"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "ABE",
+                            "buildingNum": "3198",
+                            "roomNumber": "3200",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALAMI, MYRIAM"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11353",
+                    "legendKey": null,
+                    "sectionNumber": "03",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Hybrid Section - Some Meetings Online",
+                        "First-year students welcome"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1170",
+                            "endMinute": "1290",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "115",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KUMARI, SHIVANI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "102"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:420:101 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "ELEMENTARY FRENCH",
+            "fullTitle": "ELEMENTARY FRENCH",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11354",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Hybrid Section - Some Meetings Online",
+                        "First-year students welcome",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "1170",
+                            "endMinute": "1290",
+                            "buildingCode": "HH",
+                            "buildingNum": "3119",
+                            "roomNumber": "A3",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MOZAFFARI, NEDA"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "106"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:420:101 )<em> OR </em>(01:420:102 )<em> OR </em>(01:420:105 )<em> OR </em>(01:420:121 )",
+            "coreCodes": "Nature of Languages (AHq), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "FR FOR RDG KNOWLEDGE",
+            "fullTitle": "FRENCH FOR READING KNOWLEDGE II                                                 ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11355",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS NOT OPEN TO STUDENTS WHO HAVE; COMPLETED 420:132; PREREQS: 420:101 OR 102; OR 105 OR 121",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        " Taught in English",
+                        "Go to http://canvas.rutgers.edu",
+                        "First-year students welcome"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1170",
+                            "endMinute": "1250",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "216",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "1170",
+                            "endMinute": "1250",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "216",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SKIDMORE"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "121"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "FRENCH FUNDAMENTALS",
+            "fullTitle": "FRENCH FUNDAMENTALS",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11356",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS PREREQ: PLACEMENT TEST OR; PERMISSION OF DEPT ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Hybrid Section - Some Meetings Online",
+                        "First-year students welcome"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "206",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KAHAKEU DEFFO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "131"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:420:102 )<em> OR </em>(01:420:121 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTERMEDIATE FRENCH",
+            "fullTitle": "INTERMEDIATE FRENCH",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11357",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "H",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Hybrid Section - Some Meetings Online",
+                        "First-year students welcome",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "220",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KEWOU NDEUCHI"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11358",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS PREREQ:01:420:102 OR 01:420:121; OR PLACEMENT TEST OR PERMISSION; OF DEPT.",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "Go to http://canvas.rutgers.edu",
+                        "Online Course"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALAMI, MYRIAM"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "132"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:420:131 )",
+            "coreCodes": "Nature of Languages (AHq), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "INTERMEDIATE FRENCH",
+            "fullTitle": "INTERMEDIATE FRENCH",
+            "credits": "4",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11359",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "Go to http://canvas.rutgers.edu",
+                        "Online Course"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "DE REVIERS DE M"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                },
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11360",
+                    "legendKey": null,
+                    "sectionNumber": "91",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS PREQ:01:420:102 OR 01:420:121 & 01:420:131 OR PLACEMENT TEST ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Online Course",
+                        "First-year students welcome"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "NIES-BERGER"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "161"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Diversities and Social Inequalities (CCD), SOE Only: Approved Humanities/Social Science (SOEHS), Writing and Communication in a Discipline (WCd)",
+            "title": "BELONGING FR LIT&FIL",
+            "fullTitle": "BELONGING IN FRANCOPHONE LITERATURE AND FILM                                    ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "21838",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        " Taught in English"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "102",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "102",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PIROUX"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "214"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:420:213 )",
+            "coreCodes": "Arts and Literatures (AHp), Nature of Languages (AHq), SOE Only: Approved Humanities/Social Science (SOEHS), Writing and Communication in a Discipline (WCd)",
+            "title": "WRITING STYLES",
+            "fullTitle": "ADVANCED FRENCH II: WRITING STYLES                                              ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11361",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "221",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Wednesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "221",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALLAMAND"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "216"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:420:132 )<em> OR </em>(01:420:210 )<em> OR </em>(01:420:213 )<em> OR </em>(01:420:214 )<em> OR </em>(01:420:215 )<em> OR </em>(01:420:137 )",
+            "coreCodes": "Philosophical and Theoretical Issues (AHo), Arts and Literatures (AHp), SOE Only: Approved Humanities/Social Science (SOEHS), Writing and Communication in a Discipline (WCd)",
+            "title": "INTRO TO FR LIT",
+            "fullTitle": "FRENCH LITERATURE FROM THE MIDDLE AGES TO THE ENLIGHTENMENT                     ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11363",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS WITH FFW PLACEMENT PREREQ: 01:420:132 OR 420:137; OR PERMISSION OF DEPT.",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "4190",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "4190",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KARMARKAR"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:420:218:H1"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "218"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Philosophical and Theoretical Issues (AHo), Arts and Literatures (AHp), SOE Only: Approved Humanities/Social Science (SOEHS), Writing and Communication in a Discipline (WCd)",
+            "title": "INTRO TO LIT HONORS",
+            "fullTitle": "FRENCH LITERATURE FROM THE MIDDLE AGES TO THE ENLIGHTENMENT HONORS              ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11364",
+                    "legendKey": null,
+                    "sectionNumber": "H1",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS PREREQ: 420:132 OR PLACEMENT; CREDIT NOT GIVEN FOR THIS; COURSE & 420:216",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "First-year students welcome",
+                        "Go to http://canvas.rutgers.edu",
+                        " Honors"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "4190",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "730",
+                            "endMinute": "810",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "4190",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "KARMARKAR"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:420:216:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "251"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Arts and Literatures (AHp), Our Common Future (CCO), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "FRANCE AND THE WORLD",
+            "fullTitle": "FRANCE AND THE WORLD - THE WORLD IN FRANCE                                      ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11365",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "SUITABLE FOR FIRST YEAR STUDENTS",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "First-year students welcome",
+                        "Go to http://canvas.rutgers.edu",
+                        " Taught in English"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Monday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "101",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "620",
+                            "endMinute": "700",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "101",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SERRANO"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "298"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "FRENCH CULTURAL EXP",
+            "fullTitle": "FRENCH CULTURAL EXPERIENCE                                                      ",
+            "credits": "1.5",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11366",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "1170",
+                            "endMinute": "1250",
+                            "buildingCode": "VH",
+                            "buildingNum": "3013",
+                            "roomNumber": "104",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "WUILLOT, MATHIS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "306"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Arts and Literatures (AHp), SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "MOD FR CINEMA ENG",
+            "fullTitle": "MODERN FRENCH CINEMA                                                            ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "10276",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        " Taught in English"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "4140",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "4140",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SWENSON, JAMES"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:175:306:01"
+                        },
+                        {
+                            "course": "01:420:471:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "313"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": "Diversities and Social Inequalities (CCD), SOE Only: Approved Humanities/Social Science (SOEHS), Writing and Communication in a Discipline (WCd)",
+            "title": "GEN&SEXUAL IN MOD FR",
+            "fullTitle": "GENDER AND SEXUALITY IN MODERN FRANCE AND THE FRANCOPHONE WORLD                 ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11367",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": "GENDER/SEXUALITY FR & FRANCOPHONE WORLD ",
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        " Taught in English"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "101",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "950",
+                            "endMinute": "1030",
+                            "buildingCode": "SC",
+                            "buildingNum": "3038",
+                            "roomNumber": "101",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "PARKER, ANDREW"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:988:313:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "318"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:420:210 )<em> OR </em>(01:420:213 )<em> OR </em>(01:420:214 )<em> OR </em>(01:420:215 )<em> OR </em>(01:420:216 )<em> OR </em>(01:420:217 )<em> OR </em>(01:420:218 )<em> OR </em>(01:420:224 )",
+            "coreCodes": null,
+            "title": "SHARING FRENCH",
+            "fullTitle": "LEARNING AND SHARING FRENCH II                                                  ",
+            "credits": "1.5",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11371",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": "SECOND 7 WEEKS MARCH 5 - APRIL 29, 2024  ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        " Second 7 weeks",
+                        "Online Course"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALLAMAND"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "324"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": "(01:420:210 )<em> OR </em>(01:420:213 )<em> OR </em>(01:420:214 )<em> OR </em>(01:420:215 )<em> OR </em>(01:420:216 )<em> OR </em>(01:420:217 )<em> OR </em>(01:420:218 )<em> OR </em>(01:420:224 )",
+            "coreCodes": "SOE Only: Approved Humanities/Social Science (SOEHS)",
+            "title": "FRENCH COMMERCE",
+            "fullTitle": "FRENCH COMMERCE",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11372",
+                    "legendKey": null,
+                    "sectionNumber": "90",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "T",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "O",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu",
+                        "Online Course"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "90",
+                            "meetingModeDesc": "ONLINE INSTRUCTION(INTERNET)",
+                            "campusAbbrev": "Online",
+                            "campusName": "Online",
+                            "campusLocation": "O"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "MAURER, ANAIS"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "471"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "ADV TOPICS FR CINEMA",
+            "fullTitle": "ADVANCED TOPICS IN FRENCH CINEMA                                                ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "10277",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": "NO PRIOR KNOWLEDGE OF FRENCH REQ",
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "C",
+                    "sessionDates": null,
+                    "open": false,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": null,
+                    "comments": [
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Tuesday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "4140",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        },
+                        {
+                            "baClassHours": "",
+                            "meetingDay": "Thursday",
+                            "startMinute": "840",
+                            "endMinute": "920",
+                            "buildingCode": "ABW",
+                            "buildingNum": "3198",
+                            "roomNumber": "4140",
+                            "meetingModeCode": "02",
+                            "meetingModeDesc": "LEC",
+                            "campusAbbrev": "College Avenue",
+                            "campusName": "College Avenue",
+                            "campusLocation": "1"
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "SWENSON, JAMES"
+                        }
+                    ],
+                    "crossListedSections": [
+                        {
+                            "course": "01:175:306:01"
+                        },
+                        {
+                            "course": "01:420:306:01"
+                        }
+                    ],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "494"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "INDEPENDENT STUDY",
+            "fullTitle": "INDEPENDENT STUDY",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11373",
+                    "legendKey": null,
+                    "sectionNumber": "01",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "23",
+                            "meetingModeDesc": "RSCH-MA",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALLAMAND"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "495"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "SNIOR HONRS THESIS I",
+            "fullTitle": "SENIOR HONORS THESIS I                                                          ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11374",
+                    "legendKey": null,
+                    "sectionNumber": "H1",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        " Honors",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "21",
+                            "meetingModeDesc": "HONORS",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALLAMAND"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "496"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "SNIOR HNRS THESIS II",
+            "fullTitle": "SENIOR HONORS THESIS II                                                         ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11375",
+                    "legendKey": null,
+                    "sectionNumber": "H1",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        " Honors",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "21",
+                            "meetingModeDesc": "HONORS",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALLAMAND"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        },
+        {
+            "offeringUnit": {
+                "code": "01"
+            },
+            "course": {
+                "subject": "420",
+                "number": "498"
+            },
+            "supplementCode": "  ",
+            "campusCode": "NB",
+            "synopsisUrl": "http://www.french.rutgers.edu/undergraduate-courses",
+            "courseNotes": null,
+            "unitNotes": null,
+            "subjectNotes": null,
+            "subjectGroupNotes": null,
+            "prereqNotes": null,
+            "coreCodes": null,
+            "title": "SR HNRS THS INTERDIS",
+            "fullTitle": "HONORS RESEACH THESIS IN FRENCH                                                 ",
+            "credits": "3",
+            "sections": [
+                {
+                    "yearterm": "20251",
+                    "registrationIndex": "11376",
+                    "legendKey": null,
+                    "sectionNumber": "H1",
+                    "sectionNotes": null,
+                    "subtitleText": null,
+                    "subtopicText": null,
+                    "sectionEligibility": null,
+                    "examCode": "O",
+                    "sessionDates": null,
+                    "open": true,
+                    "sectionCourseType": "T",
+                    "specialPermissionAdd": " Department staff",
+                    "comments": [
+                        " Honors",
+                        "Go to http://canvas.rutgers.edu"
+                    ],
+                    "meetingTimes": [
+                        {
+                            "baClassHours": "B",
+                            "meetingDay": null,
+                            "startMinute": null,
+                            "endMinute": null,
+                            "buildingCode": "",
+                            "buildingNum": null,
+                            "roomNumber": "",
+                            "meetingModeCode": "23",
+                            "meetingModeDesc": "RSCH-MA",
+                            "campusAbbrev": "",
+                            "campusName": "",
+                            "campusLocation": ""
+                        }
+                    ],
+                    "instructors": [
+                        {
+                            "name": "ALLAMAND"
+                        }
+                    ],
+                    "crossListedSections": [],
+                    "majors": []
+                }
+            ]
+        }
+    ]
+}
